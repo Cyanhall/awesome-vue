@@ -130,7 +130,7 @@ Original Data from [Awesome Vue](https://github.com/vuejs/awesome-vue/blob/maste
   
 ## Official Resources [🔝](#readme)
 
-* [GitHub Repo](https://github.com/vuejs/vue) ` 🔥 178k ` ` 🌐 129k ` - Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web. ` 📝 9 days ago `
+* [GitHub Repo](https://github.com/vuejs/vue) ` 🔥 178k ` ` 🌐 129k ` - Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web. ` 📝 10 days ago `
 * [Official Guide](http://vuejs.org/guide/)   
 * [API Reference](http://vuejs.org/api/)   
 * [Release Notes](https://github.com/vuejs/vue/releases)   
@@ -415,8 +415,9 @@ Original Data from [Awesome Vue](https://github.com/vuejs/awesome-vue/blob/maste
 * [aspnetcore-Vue-starter](https://github.com/MarkPieszak/aspnetcore-Vue-starter) ` 🔥 1.2k `  - *NEW* Asp.net Core & Vue.js (ES6) SPA Starter kit - Vuex, webpack, Web API, Docker, and more! By @TrilonIO ` 📝 2 years ago `
 * [VueBlog](https://github.com/wmui/vueblog) ` 🔥 907 `  - A blog system based on Nuxt.js ` 📝 7 months ago `
 * [**easy-vue**](https://github.com/TIGERB/easy-vue) ` 🔥 894 `  - Learn vueJS Easily ` 📝 9 months ago `
-* [Vue Online Shopping Mall](https://github.com/PowerDos/Mall-Vue) ` 🔥 887 `  - 基于Vue+Vuex+iView的电子商城网站 ` 📝 4 days ago `
+* [Vue Online Shopping Mall](https://github.com/PowerDos/Mall-Vue) ` 🔥 887 `  - 基于Vue+Vuex+iView的电子商城网站 ` 📝 5 days ago `
 * [**vue2.x-douban**](https://github.com/superman66/vue2.x-douban) ` 🔥 765 `  - Vue2.0实现简易豆瓣电影webApp ` 📝 3 years ago `
+* [vue.js 与 laravel 结合的前后端分离开发模板](https://github.com/wmhello/laravel_template_with_vue) ` 🔥 752 `  - laravel5.5和vue.js结合的前后端分离项目模板,后端使用了laravel的LTS版本（5.5），前端使用了流行的vue-element-template项目。作为程序的起点，可以直接以此为基础来进行业务扩展。模板内容包括基础的用户管理和权限管理、日志管理、集成第三方登录，整合laravel-echo-server 实现了websocket 做到了消息的实时推送，并在此基础上，实现了聊天室和客服功能。权限管理包括后端Token认证和前端vue.js的动态权限，解决了前后端完整分离的情况下，vue.js的认证与权限相关的痛点，已在本人的多个项目中集成使用。 ` 📝 10 months ago `
 * [**Electron + Vue example**](https://github.com/bradstewart/electron-boilerplate-vue) ` 🔥 718 `  - Boilerplate application for Electron runtime ` 📝 4 years ago `
 * [X-Flowchart-Vue](https://github.com/OXOYO/X-Flowchart-Vue) ` 🔥 694 ` ` 🌐 4 ` - 基于G6和Vue的可视化图形编辑器。A visual graph editor based on G6 and Vue. ` 📝 6 months ago `
 * [**Vue(2.0) + Node.js: A blog content manage system (CMS)**](https://github.com/ycwalker/CMS-of-Blog) ` 🔥 675 `  - deprecated 
@@ -426,10 +427,10 @@ Original Data from [Awesome Vue](https://github.com/vuejs/awesome-vue/blob/maste
 * [laravel-vue-boilerplate](https://github.com/alefesouza/laravel-vue-boilerplate) ` 🔥 466 `  - A Laravel 6 SPA boilerplate with a users CRUD using Vue.js 2.6, GraphQL, Bootstrap 4, TypeScript, Sass, and Pug. ` 📝 a year ago `
 * [**vue-s3-dropzone**](https://github.com/kfei/vue-s3-dropzone) ` 🔥 427 `  - Vue.js component works with AWS S3 serverlessly ` 📝 3 years ago `
 * [Vuexpresso](https://github.com/Ethaan/vuexpresso) ` 🔥 402 `  - VueJS + Express + GraphQL Boilerplate 
-* [ASP.NET Core Vue Starter CLI 3.0](https://github.com/SoftwareAteliers/asp-net-core-vue-starter) ` 🔥 402 `  - ASP.NET Core + Vue.js starter project ` 📝 16 days ago `
+* [ASP.NET Core Vue Starter CLI 3.0](https://github.com/SoftwareAteliers/asp-net-core-vue-starter) ` 🔥 402 `  - ASP.NET Core + Vue.js starter project ` 📝 17 days ago `
 * [**vue-AdminLte**](https://github.com/liujians/vue-adminLte-vue-router) ` 🔥 374 `  - SPA about vue-cli+adminLte+vue-router ` 📝 4 years ago `
-* [**VueChess**](https://github.com/gustaYo/vue-chess) ` 🔥 342 `  - Multiplayer online chess game use Vue , Nodejs, Webpack, Em6, Socket.io, Mongodb, Express ` 📝 2 years ago `
-* [**hello-vue-django** Vue.js and Django integration starter project with hot code reload](https://github.com/rokups/hello-vue-django) ` 🔥 336 `  - vuejs and Django integration with hot code reload. Dont use this, use https://github.com/NdagiStanley/vue-django or https://github.com/gtalarico/django-vue-template ` 📝 3 years ago `
+* [**VueChess**](https://github.com/gustaYo/vue-chess) ` 🔥 341 `  - Multiplayer online chess game use Vue , Nodejs, Webpack, Em6, Socket.io, Mongodb, Express ` 📝 2 years ago `
+* [**hello-vue-django** Vue.js and Django integration starter project with hot code reload](https://github.com/rokups/hello-vue-django) ` 🔥 336 `  - vuejs and Django integration with hot code reload. Dont use this, use https://github.com/NdagiStanley/vue-django or https://github.com/gtalarico/django-vue-template 
 * [X-WebDesktop-Vue](https://github.com/OXOYO/X-WebDesktop-Vue) ` 🔥 328 `  - 基于 Vue & Koa 的 WebDesktop 视窗系统 The WebDesktop system based on Vue ` 📝 a year ago `
 * [**Real Time Social News App**](https://github.com/Angarsk8/loopa-news) ` 🔥 308 `  - Realtime social news app developed from scratch with Elixir, Phoenix, Vue and Vuex ` 📝 4 years ago `
 * [Vue.js with Sails.js example project](https://github.com/ndabAP/vue-sails-example) ` 🔥 302 `  - NOT MAINTAINED Vue.js with Sails.js example project with many features 
@@ -438,8 +439,9 @@ Original Data from [Awesome Vue](https://github.com/vuejs/awesome-vue/blob/maste
 * [Vue Mini Shop](https://github.com/BosNaufal/vue-mini-shop) ` 🔥 245 `  - Mini Online Shop Built With Vue JS ` 📝 5 years ago `
 * [vue-xplan](https://github.com/JackGit/xplan/) ` 🔥 224 `  - A rotating earth H5 page with Vue and threejs ` 📝 6 months ago `
 * [vuex-examples](https://github.com/ooade/vuex-examples) ` 🔥 224 `  - Simple Examples on using Vuex to build Real World Apps 
+* [Large scale Vue.js application boilerplate + Vuex](https://github.com/arunredhu/vuejs_boilerplate) ` 🔥 224 `  - Large scale Vue.js application boilerplate 
 * [vuex-feature-scoped-structure](https://github.com/igeligel/vuex-feature-scoped-structure) ` 🔥 217 `  - Feature scoped Vuex modules to have a better organization of business logic code inside Vuex modules based on Large-scale Vuex application structures @3YOURMIND ` 📝 2 years ago `
-* [**vue-foundation**](https://github.com/hal0gen/vue-foundation) ` 🔥 213 `  - VueJS + Foundation + Vue-Router + Webpack 
+* [**vue-foundation**](https://github.com/hal0gen/vue-foundation) ` 🔥 213 `  - VueJS + Foundation + Vue-Router + Webpack ` 📝 3 years ago `
 * [**Multi-page ASP.NET Core Vue with TypeScript**](https://github.com/danijelh/aspnetcore-vue-typescript-template) ` 🔥 207 `  - Template AspNetCore with Vue, Vue router, Vuex, TypeScript, Bulma, Sass and Jest ` 📝 4 months ago `
 * [loopback-vue](https://github.com/qxl1231/generator-loopback-vue) ` 🔥 201 `  - app版本管理,(热更新)前后端分离,vue page分页功能,authenticate 权限控制,accesstoken机制,credentials,CI,docker ` 📝 2 years ago `
 * [koa-vue-notes-web](https://github.com/johndatserakis/koa-vue-notes-web) ` 🔥 198 `  - This is a simple SPA built using Koa as the backend, Vue as the first frontend, and React as the second frontend. Features MySQL integration, user authentication, CRUD note actions, and Vuex store modules. ` 📝 5 months ago `
@@ -457,14 +459,14 @@ Original Data from [Awesome Vue](https://github.com/vuejs/awesome-vue/blob/maste
 * [vue-memo](https://github.com/akifo/vue-memo) ` 🔥 89 `  - Using Vue.js for memo web App. webpack, vuex, vue-router, Firebase. ` 📝 3 years ago `
 * [**App example with JWT Authentication**](https://github.com/Angarsk8/phoenix_vuejs_authentication_example) ` 🔥 79 `  - Basic app developed with Phoenix and Vue 2.0, including authentication. 
 * [**vuefire-quickstart**](https://github.com/sejr/vuefire-quickstart) ` 🔥 79 `  - A boilerplate for web applications using Vue.js and Firebase, ft. Webpack and ESLint. 
-* [vue-demo-todolist](https://github.com/fishenal/Todos_Vuejs) ` 🔥 76 `  - a simply todolist using vuejs ` 📝 4 years ago `
+* [vue-demo-todolist](https://github.com/fishenal/Todos_Vuejs) ` 🔥 76 `  - a simply todolist using vuejs 
 * [Begin - Task Manager SPA written in Vue + Lumen](https://github.com/rajabishek/begin) ` 🔥 75 `  - Simple task manager to keep your life in sync ` 📝 5 years ago `
 * [**vue-calculator**](https://github.com/CaiYiLiang/simply-calculator-vuejs) ` 🔥 75 `  - A simple calculator made by vuejs 用vue.js实现简易计算器 ` 📝 4 years ago `
 * [Feathers and Vue 2.0 Blog Admin Demo](https://github.com/delay/feathers-vue-blog-admin-demo) ` 🔥 73 `  - Example app for using Feathers with Vue 2.0. It includes authentication, vue-router, vue-infinite-loading and roles. 
 * [Vue SoundCloud](https://github.com/mul14/vue-soundcloud) ` 🔥 70 `  - Vuejs + SoundCloud demo app, for JogjaJS 4th meet up. 
-* [Single page application example (Vue + Voie)](https://github.com/inca/voie-example) ` 🔥 67 `  - Voie.js simple example ` 📝 5 years ago `
+* [Single page application example (Vue + Voie)](https://github.com/inca/voie-example) ` 🔥 67 `  - Voie.js simple example 
 * [**vue-music-qq**](https://github.com/pluto1114/vue-music-qq) ` 🔥 58 `  - A qq-music project is based on vue-cli. The pages are simple and smooth 
-* [Sample CRUD app with router in Vue 2.0](https://github.com/shershen08/vue.js-v2-crud-application) ` 🔥 57 `  - Vue.js demo app 
+* [Sample CRUD app with router in Vue 2.0](https://github.com/shershen08/vue.js-v2-crud-application) ` 🔥 57 `  - Vue.js demo app ` 📝 4 years ago `
 * [**vue-reddit-app**](https://github.com/yujiahaol68/reddit-app) ` 🔥 55 `  - A reddit web app using vue + webpack. Data from reddit API ` 📝 4 years ago `
 * [vue-feathers-chat](https://github.com/ErickPetru/vue-feathers-chat) ` 🔥 50 `  - A sample realtime chat made with Vue and Feathers. ` 📝 6 months ago `
 * [Node Webkit + Vue example](https://github.com/brandonjpierce/node-webkit-boilerplate) ` 🔥 45 `  - [Unmaintained] ` 📝 6 years ago `
@@ -472,7 +474,7 @@ Original Data from [Awesome Vue](https://github.com/vuejs/awesome-vue/blob/maste
 * [Vue Bulma Demo](https://github.com/faisaltheparttimecoder/bulma-vuejs-demo-website) ` 🔥 42 `  - A demo website based on framework Bulma (css) & vuejs (JS) 
 * [Vue.js and Ionic v4 examples](https://github.com/ModusCreateOrg/ionic-vue-examples/) ` 🔥 41 `  - Examples for @ionic/vue ` 📝 5 months ago `
 * [**vueSocketChatRoom**](https://github.com/Chanran/vueSocketChatroom) ` 🔥 40 `  - vue2.x + vue-router2.x+ vuex2.x + vux2.x + express + socket.io immediate chat room ` 📝 3 years ago `
-* [vue-vuex-todomvc](https://github.com/bahmutov/vue-vuex-todomvc) ` 🔥 39 `  - Example TodoMVC Vue.js app with Vuex store and server backend via REST ` 📝 13 days ago `
+* [vue-vuex-todomvc](https://github.com/bahmutov/vue-vuex-todomvc) ` 🔥 39 `  - Example TodoMVC Vue.js app with Vuex store and server backend via REST ` 📝 14 days ago `
 * [Vue.js 2.5 with vue-cli v3 including authentication with auth0](https://github.com/DominikAngerer/auth0-vue) ` 🔥 39 `  - A simple Vue.js Demo Application that uses Auth0 for Authentication 
 * [zhihu-daily-vue](https://github.com/moonou/zhihu-daily-vue) ` 🔥 38 `  - zhihu daily for vue2.0 ` 📝 3 years ago `
 * [Vue.js Best Practices Example Project](https://github.com/sarneeh/vuejs-example-stock-trader) ` 🔥 35 `  - Vue.js + Vue Router + Vuex in a simple Stock Trading game 
@@ -491,15 +493,16 @@ Original Data from [Awesome Vue](https://github.com/vuejs/awesome-vue/blob/maste
 * [Storyblok vuejs-boilerplate](https://github.com/storyblok/vuejs-boilerplate) ` 🔥 21 `  - Storyblok - JavaScript - VueJS Boilerplate 
 * [Skeleton Vue+TypeScript](https://github.com/SierraSoftworks/vue-template) ` 🔥 21 `  - A Vue.js web application template designed to be as lightweight as possible while offering an extensive set of features 
 * [vuetest: an ad admin web with user auth, bootstrap ui, uploader, WYSIWYG editor in iframe](https://github.com/sjerrys/vuetest) ` 🔥 20 `  - an ad admin web, with vue, bootstrap, user auth, uploader and WYSIWYG editor in iframe. 
-* [Feature Requests (Laravel + Vue Combo)](https://github.com/haydenbbickerton/feature-requests-app) ` 🔥 19 `  - Frontend for Feature Requests 
+* [Feature Requests (Laravel + Vue Combo)](https://github.com/haydenbbickerton/feature-requests-app) ` 🔥 19 `  - Frontend for Feature Requests ` 📝 5 years ago `
 * [PokedexVueJs](https://github.com/rchung95/PokedexVueJs) ` 🔥 19 `  - A Pokedex that will contain all 807 pokemon from the Pokemon series. Created in Vue.js 
 * [Vue2-PWA-Blog](https://github.com/deepak-singh/vue-blog-pwa) ` 🔥 18 `  - Simple blog (vue-pwa) (django-tastypie-backend) 
 * [vue-todo-list](https://github.com/alexander-elgin/vue-todo-list) ` 🔥 14 `  - ToDo List sample app based on Vue + Vuex + Vuetify + Vee-Validate 
 * [Chess Storybook Example](https://github.com/gustaYo/vue-chess-storybook) ` 🔥 13 `  - Refactoring components to Vue2 https://gustayo.github.io/vue-chess-storybook/ ` 📝 3 years ago `
 * [vue-relay-examples](https://github.com/ntkme/vue-relay-examples) ` 🔥 12 `  - A collection of example applications using vue-relay. 
 * [Cinemateka](https://github.com/Piterden/cinemateka) ` 🔥 11 `  - Cinemateka. Events schedule webapp. 'Seance' magazine. Laravel. VueJS. 
+* [Starter application ready for production with TypeScript, vuex, vue-router, HMR and more](https://github.com/kadro/vue-boilerplate) ` 🔥 11 `  - Vue boilerplate with TypeScript for developing small to large, easy to scale, single page applications. 
 * [NavigationTab with Vue-Redux and Plain VueJSX](https://github.com/ShuvoHabib/Vue-JSX-and-Vue-Redux-Navigation-Tab) ` 🔥 10 `  - Navigation Tab with both plain VUE and VUE + Redux . Featured in Awesome-Vue 
-* [ngexplorer-quasar](https://github.com/gustaYo/ngexplorer-quasar) ` 🔥 9 `  - Implementation of Ngexplorer client with quasar framework 
+* [ngexplorer-quasar](https://github.com/gustaYo/ngexplorer-quasar) ` 🔥 9 `  - Implementation of Ngexplorer client with quasar framework ` 📝 4 years ago `
 * [FUE](https://github.com/elaijuh/fue) ` 🔥 9 `  - SPA boilerplate with feathersjs and vuejs 
 * [Vuex Events Messaging Demo](https://github.com/metricloop/vuex-events-messaging-demo) ` 🔥 8 `  - A quick demo on how to set up and use Vuex to create a events messaging system 
 * [todo-mvc-webpack](https://github.com/voluntadpear/todomvc-vue-webpack) ` 🔥 6 `  - TodoMVC with Vue.js 2 + Webpack 
@@ -521,12 +524,9 @@ Original Data from [Awesome Vue](https://github.com/vuejs/awesome-vue/blob/maste
 * [route-planner-vue](https://kasheftin.github.io/route-planner-vue/)   
 * [MyDiary-Vue](https://github.com/ssshooter/MyDiary-Vue/blob/master/README.En.md)   
 * [VueJS Example Projects](https://github.com/vue-project)   
-* [Starter application ready for production with TypeScript, vuex, vue-router, HMR and more](https://github.com/kadro/vue-boilerplate)   
-* [vue.js 与 laravel 结合的前后端分离开发模板](https://github.com/wmhello/laravel_template_with_vue)   
 * [Hands-On Web Development with Vue.js](https://www.packtpub.com/web-development/hands-web-development-vuejs-video)   
 * [Vue + TypeScript Cookbook](https://github.com/ffxsam/vue-typescript-cookbook/blob/master/README.md)   
 * [Vuejs Examples](https://vuejsexamples.com/)   
-* [Large scale Vue.js application boilerplate + Vuex](https://github.com/arunredhu/vuejs_boilerplate)   
 * [Snake game on Vue.js without Canvas](https://github.com/Seokky/vue-snake-game)   
 * [A one-on-one chat app in Vue with CometChat](https://github.com/cometchat-pro-tutorials/vue-cometchat-one-on-one-chat)   
 * [Vue webpack typescript](https://github.com/akoidan/vue-webpack-typescript)   
@@ -616,95 +616,138 @@ Original Data from [Awesome Vue](https://github.com/vuejs/awesome-vue/blob/maste
   
 ## Open Source [🔝](#readme)
 
-* [Koel](https://github.com/phanan/koel) ` 🔥 12.2k `  - A personal music streaming server that works. ` 📝 3 days ago `
+* [Stack Edit](https://github.com/benweet/stackedit/) ` 🔥 17.5k ` ` 🌐 6 ` - In-browser Markdown editor ` 📝 2 years ago `
+* [Koel](https://github.com/phanan/koel) ` 🔥 12.2k `  - A personal music streaming server that works. ` 📝 4 days ago `
+* [Wiki.js](https://github.com/Requarks/wiki) ` 🔥 12.1k `  - Wiki.js | A modern, lightweight and powerful wiki app built on Node.js ` 📝 6 hours ago `
 * [Hotel](https://github.com/typicode/hotel) ` 🔥 9.5k ` ` 🌐 43 ` - A simple process manager for developers. Start apps from your browser and access them using local domains ` 📝 a year ago `
-* [vue-storefront](https://github.com/DivanteLtd/vue-storefront) ` 🔥 8k `  - The open-source frontend for any eCommerce. Built with a PWA and headless approach, using a modern JS stack. We have custom integrations with Magento, commercetools, Shopware and Shopify and total coverage is just a matter of time. The API approach also allows you to merge VSF with any third-party tool like CMS, payment gateways or analytics. Ne… ` 📝 3 days ago `
-* [Stacer](https://github.com/oguzhaninan/Stacer) ` 🔥 6.6k `  - Linux System Optimizer and Monitoring - https://oguzhaninan.github.io/Stacer-Web ` 📝 18 days ago `
+* [vue-storefront](https://github.com/DivanteLtd/vue-storefront) ` 🔥 8k `  - The open-source frontend for any eCommerce. Built with a PWA and headless approach, using a modern JS stack. We have custom integrations with Magento, commercetools, Shopware and Shopify and total coverage is just a matter of time. The API approach also allows you to merge VSF with any third-party tool like CMS, payment gateways or analytics. Ne… ` 📝 4 days ago `
+* [Stacer](https://github.com/oguzhaninan/Stacer) ` 🔥 6.6k `  - Linux System Optimizer and Monitoring - https://oguzhaninan.github.io/Stacer-Web ` 📝 19 days ago `
+* [Vuido](https://github.com/mimecorg/vuido) ` 🔥 6k ` ` 🌐 37 ` - Native desktop applications using Vue.js. ` 📝 2 years ago `
 * [PageKit](https://github.com/pagekit/pagekit) ` 🔥 5.4k `  - Pagekit CMS ` 📝 a year ago `
-* [nativescript-vue](https://github.com/rigor789/nativescript-vue) ` 🔥 4.6k ` ` 🌐 2.5k ` - Native mobile applications using Vue and NativeScript. ` 📝 22 days ago `
+* [nativescript-vue](https://github.com/rigor789/nativescript-vue) ` 🔥 4.6k ` ` 🌐 2.5k ` - Native mobile applications using Vue and NativeScript. ` 📝 23 days ago `
+* [Akaunting](https://github.com/akaunting/akaunting) ` 🔥 3.7k `  - Free and Online Accounting Software ` 📝 7 hours ago `
+* [vue-realworld-example-app](https://github.com/gothinkster/vue-realworld-example-app) ` 🔥 3.4k `  - An exemplary real-world application built with Vue.js, Vuex, axios and different other technologies. This is a good example to discover Vue for beginners. ` 📝 4 months ago `
 * [Docute](https://github.com/egoist/docute) ` 🔥 3.3k ` ` 🌐 25 ` - Effortless documentation, done right. ` 📝 8 months ago `
 * [PJ Blog](https://github.com/jcc/blog) ` 🔥 2.7k `  - PJ Blog is an open source blog built with Laravel and Vue.js. ` 📝 4 months ago `
-* [CoreUI Vue Admin Template](https://github.com/coreui/coreui-free-vue-admin-template) ` 🔥 2.7k `  - CoreUI Vue is free Vue admin template based on Bootstrap 4 ` 📝 17 days ago `
+* [CoreUI Vue Admin Template](https://github.com/coreui/coreui-free-vue-admin-template) ` 🔥 2.7k `  - CoreUI Vue is free Vue admin template based on Bootstrap 4 ` 📝 18 days ago `
 * [CoPilot](https://github.com/misterGF/CoPilot) ` 🔥 2.6k `  - Responsive Bootstrap 3 Admin Template based on AdminLTE with vue.js ` 📝 2 years ago `
+* [Daily](https://github.com/dailynowco/daily) ` 🔥 2.6k `  - Discover dev news with zero effort 👩🏽‍💻 ` 📝 a month ago `
 * [astralapp](https://github.com/astralapp/astral) ` 🔥 2.3k `  - Organize Your GitHub Stars With Ease 
 * [Vuedo](https://github.com/Vuedo/vuedo) ` 🔥 2.2k `  - Vuedo is a blog platform, built with Laravel and Vue.js. ` 📝 3 years ago `
 * [Goldfish](https://github.com/Caiyeon/goldfish) ` 🔥 2.2k `  - A HashiCorp Vault UI written with VueJS and Vault native Go API ` 📝 2 years ago `
+* [Statusfy](https://github.com/bazzite/statusfy) ` 🔥 2.2k ` ` 🌐 80 ` - A Marvelous Open Source Status Page System ` 📝 19 days ago `
 * [EME](https://github.com/egoist/eme) ` 🔥 1.9k ` ` 🌐 2 ` - Elegant Markdown Editor. ` 📝 3 months ago `
 * [vuegg](https://github.com/vuegg/vuegg) ` 🔥 1.8k `  - vue GUI generator ` 📝 2 months ago `
-* [Raven Reader](https://github.com/mrgodhani/raven-reader) ` 🔥 1.7k `  - All your articles in one place. Beautiful. ` 📝 4 days ago `
+* [Raven Reader](https://github.com/mrgodhani/raven-reader) ` 🔥 1.7k `  - All your articles in one place. Beautiful. ` 📝 5 days ago `
 * [Astrum](https://github.com/NoDivide/astrum) ` 🔥 1.6k ` ` 🌐 14 ` - A lightweight pattern library designed to be included with any web project. ` 📝 5 months ago `
-* [Pomotroid](https://github.com/Splode/pomotroid) ` 🔥 1.3k `  - Simple and visually-pleasing Pomodoro timer ` 📝 2 days ago `
+* [Pomotroid](https://github.com/Splode/pomotroid) ` 🔥 1.3k `  - Simple and visually-pleasing Pomodoro timer ` 📝 3 days ago `
 * [Voten](https://github.com/voten-co/voten) ` 🔥 1.2k `  - The code that powers voten.co ` 📝 7 months ago `
 * [vue2-admin-lte](https://github.com/devjin0617/vue2-admin-lte) ` 🔥 1k ` ` 🌐 131 ` - adminLTE to vuejs v2.x converting project ` 📝 6 months ago `
-* [Laravel Enso](https://github.com/laravel-enso/enso) ` 🔥 952 `  - Laravel Vue SPA, Bulma themed. For demo login use `admin@laravel-enso.com` & `password` - ` 📝 14 days ago `
+* [Laravel Enso](https://github.com/laravel-enso/enso) ` 🔥 952 `  - Laravel Vue SPA, Bulma themed. For demo login use `admin@laravel-enso.com` & `password` - ` 📝 15 days ago `
 * [Code Notes](https://github.com/lauthieb/code-notes) ` 🔥 898 `  - A simple code snippet & gist manager for developers built with Electron & Vue.js ` 📝 a month ago `
 * [Buka](https://github.com/oguzhaninan/Buka) ` 🔥 886 `  - Buka is a modern software that helps you manage your ebook at ease. ` 📝 a month ago `
 * [vms](https://github.com/ericjjj/vms) ` 🔥 885 `  - A Vue.js 2.0 Content Management System ` 📝 3 years ago `
 * [Flox](https://github.com/devfake/flox) ` 🔥 876 `  - Self Hosted Movie, Series and Anime Watch List ` 📝 8 months ago `
+* [MQTTX](https://github.com/emqx/MQTTX) ` 🔥 762 `  - MQTT X - Elegant MQTT 5.0 Client Tool of Cross-platform ` 📝 17 days ago `
 * [Dockeron](https://github.com/dockeron/dockeron) ` 🔥 750 `  - Electron + Vue.js for Docker ` 📝 3 years ago `
 * [vue-wordpress-pwa](https://github.com/bstavroulakis/vue-wordpress-pwa) ` 🔥 657 `  - An offline-first SPA using Vue.js, the WordPress REST API and Progressive Web Apps ` 📝 2 years ago `
-* [Light Bootstrap Dashboard](https://github.com/creativetimofficial/vue-light-bootstrap-dashboard) ` 🔥 641 `  - Vue Light Bootstrap Dashboard - FREE BOOTSTRAP 4 VUEJS ADMIN TEMPLATE ` 📝 a month ago `
+* [Light Bootstrap Dashboard](https://github.com/creativetimofficial/vue-light-bootstrap-dashboard) ` 🔥 641 `  - Vue Light Bootstrap Dashboard - FREE BOOTSTRAP 4 VUEJS ADMIN TEMPLATE ` 📝 2 months ago `
+* [Laravel File Manager](https://github.com/alexusmai/laravel-file-manager) ` 🔥 608 ` ` 🌐 242 ` - File manager for Laravel ` 📝 4 months ago `
+* [Vue CRUD](https://github.com/szczepanmasny/vue-crud) ` 🔥 601 `  - Vue.js based REST-ful CRUD system ` 📝 3 days ago `
+* [DynamoDb-GUI-Client](https://github.com/Arattian/DynamoDb-GUI-Client) ` 🔥 526 `  - DynamoDb GUI Client ` 📝 8 months ago `
 * [Gokotta](https://github.com/Zhangdroid/Gokotta) ` 🔥 513 `  - A simple music player built by electron and vue ` 📝 5 years ago `
 * [Tamiat CMS](https://github.com/tamiat/tamiat) ` 🔥 509 `  - Vuejs and Firebase based CMS ` 📝 a year ago `
 * [XMR Miner](https://github.com/bradoyler/xmr-miner) ` 🔥 440 `  - Web-based Cryptocurrency miner, built with Vue.js ` 📝 3 years ago `
 * [vue-ghpages-blog](https://github.com/viko16/vue-ghpages-blog) ` 🔥 409 `  - [DEPRECATED]  A blog based on GitHub Pages built with Vue.js 2 + webpack 3. ` 📝 4 months ago `
 * [JavaScript Guessing Game](https://github.com/samiheikki/javascript-guessing-game) ` 🔥 386 `  - You know there are too many JavaScript libraries when there is a game for it ` 📝 2 years ago `
 * [concept-to-clinic](https://github.com/concept-to-clinic/concept-to-clinic) ` 🔥 368 `  - ALCF Concept to Clinic Challenge 
-* [Lulumi-browser](https://github.com/qazbnm456/lulumi-browser) ` 🔥 354 `  - Lulumi-browser is a lightweight browser coded with Vue.js 2 and Electron. ` 📝 5 days ago `
+* [Lulumi-browser](https://github.com/qazbnm456/lulumi-browser) ` 🔥 354 `  - Lulumi-browser is a lightweight browser coded with Vue.js 2 and Electron. ` 📝 6 days ago `
 * [Podlove Web Player](https://github.com/podlove/podlove-web-player) ` 🔥 342 ` ` 🌐 6 ` - Podlove Web Player is a Podcast-optimized, HTML5-based audio player based on VueJS. ` 📝 a year ago `
 * [Surfbird](https://github.com/surfbirdapp/surfbird) ` 🔥 308 `  - A Microblogging client built on Electron and Vue ` 📝 3 years ago `
+* [VueFront](https://github.com/vuefront/vuefront) ` 🔥 308 ` ` 🌐 18 ` - VueFront Core. Turn your old-fashioned CMS website in to a SPA & PWA in 5 minutes ` 📝 5 months ago `
+* [Roast](https://github.com/serversideup/roastandbrew) ` 🔥 298 `  - Updated content available! We learned a lot since we originally wrote this article. We now have this updated for Laravel 8, Vue, and NuxtJS  https://srvrsi.de/book ` 📝 8 months ago `
+* [zhudyos/duic](https://github.com/zhudyos/duic) ` 🔥 289 `  - 分布式配置中心，集中化配置管理，应用配置权限管理，配置实时更新等功能 ` 📝 8 months ago `
 * [Approach0](https://github.com/approach0/search-engine) ` 🔥 278 `  - A math-aware search engine. ` 📝 a month ago `
-* [Socialhome](https://github.com/jaywink/socialhome) ` 🔥 270 `  - A federated social home ` 📝 4 days ago `
+* [QMK Configurator](https://github.com/qmk/qmk_configurator) ` 🔥 274 `  - The QMK Configurator ` 📝 8 days ago `
+* [Socialhome](https://github.com/jaywink/socialhome) ` 🔥 270 `  - A federated social home ` 📝 5 days ago `
+* [Nucleus](https://github.com/alirizaadiyahsi/Nucleus) ` 🔥 262 `  - Vue startup application template that uses ASP.NET Core API layered architecture at the back-end and JWT based authentication ` 📝 24 days ago `
 * [Hare](https://github.com/clarkdo/hare) ` 🔥 255 `  - Application boilerplate based on Vue.js 2.x, Koa 2.x, Element-UI and Nuxt.js ` 📝 a year ago `
+* [Epiboard](https://github.com/Alexays/Epiboard) ` 🔥 250 `  - Web Extension — A new tab page extension with material design and useful features ` 📝 5 months ago `
+* [Tomato5](https://github.com/zhangxin840/tomato5) ` 🔥 236 `  - Tomato5 is a real-time collaboration tool. ` 📝 4 years ago `
 * [mmf-blog-vue2](https://github.com/lincenying/mmf-blog-vue2) ` 🔥 232 `  - mmf-blog vue2.0 (vue2, vue-router, vuex) 
 * [piper](https://github.com/fireyy/piper) ` 🔥 225 `  - A drag-and-drop mobile website builder base on Vue ` 📝 3 years ago `
 * [Media Manager](https://github.com/iutbay/mm) ` 🔥 223 `  - Open source Web File Manager (Javascript + VueJS 2) ` 📝 3 years ago `
 * [Materialize-blog](https://github.com/forehalo/materialize-blog) ` 🔥 212 `  - redesign blog using material design 
+* [Vuemmerce](https://github.com/ivanlori/Vuemmerce) ` 🔥 208 `  - Responsive ecommerce template  built with Vue.js and Nuxt.js ` 📝 3 months ago `
+* [Eplee](https://github.com/Janglee123/eplee) ` 🔥 208 `  - Sweet, simple epub reader ` 📝 8 months ago `
+* [Buefy Shop](https://github.com/14nrv/buefy-shop) ` 🔥 203 `  - A sample shop built with Nuxt, Stripe, Firebase and Serverless Functions ` 📝 2 months ago `
 * [Protovue](https://github.com/v1Labs/protovue) ` 🔥 194 `  - A prototyping component library 
+* [Vue Org Chart](https://github.com/Hoogkamer/vue-org-chart) ` 🔥 190 `  - Manage and publish your interactive organization chart (orgchart), 100% free and no install required: just copy a folder to any location ` 📝 21 days ago `
 * [JSON Schema Editor](https://github.com/tangram-js/json-schema-editor) ` 🔥 188 `  - JSON Schema Editor is an intuitive editor for JSON schema. It provides a tree view to present the structure of schema, and a property inspector to edit the properties of schema element. Develop with Vue.js 2 and Firebase. 
 * [JSON Editor](https://github.com/tangram-js/json-editor) ` 🔥 180 `  - A schema-aware editor for JSON document. It provides a tree view to present the structure of JSON document, user could manipulate the JSON from context menu. It also has a text view to present the content of JSON document, user may edit JSON within. Develop with Vue.js 2. 
 * [wildfire](https://github.com/cheng-kang/wildfire) ` 🔥 174 ` ` 🌐 3 ` - From a little spark may burst a flame. ` 📝 2 years ago `
 * [Pomidorus](https://github.com/tatyshev/pomidorus) ` 🔥 174 `  - Pomodoro time tracker build using Vue and D3 ` 📝 3 years ago `
+* [eth-vue](https://github.com/DOkwufulueze/eth-vue) ` 🔥 167 `  - Featured in Awesome Vue [https://github.com/vuejs/awesome-vue], a curated list maintained by vuejs of awesome things related to the Vue.js framework, and Awesome List [https://awesomelists.net/150-Vue.js/3863-Open+Source/18749-DOkwufulueze-eth-vue], this Truffle Box provides everything you need to quickly build Ethereum dApps that have authentic… ` 📝 2 months ago `
+* [YouGet](https://github.com/ahmetzeybek/YouGet) ` 🔥 164 `  - YouGet - YouTube Video/Playlist Downloader/Cutter - MP3 Converter ` 📝 10 months ago `
 * [vue-chrome-extension-boilerplate](https://github.com/mubaidr/vue-chrome-extension-boilerplate) ` 🔥 158 `  - Boilerplate for Chrome extension using Vue.js and Webpack with auto-reload enabled. 
 * [Material Dashboard](https://github.com/lucduong/vue-material-dashboard) ` 🔥 157 `  - Vue Material Dashboard - Inspired by Material Dashboard of Creative Tim. ` 📝 3 years ago `
-* [Web Learn](https://github.com/freearhey/web-learn) ` 🔥 154 `  - A free service which provides simple access to thousands of video lessons on web developing and programming ` 📝 2 months ago `
-* [Modular Genealogy](https://github.com/modularsoftware/genealogy) ` 🔥 151 `  - Laravel 8 and Vue family tree and genealogy data processing website. ` 📝 6 days ago `
+* [Web Learn](https://github.com/freearhey/web-learn) ` 🔥 154 `  - A free service which provides simple access to thousands of video lessons on web developing and programming ` 📝 3 months ago `
+* [Modular Genealogy](https://github.com/modularsoftware/genealogy) ` 🔥 151 `  - Laravel 8 and Vue family tree and genealogy data processing website. ` 📝 7 days ago `
+* [Beep](https://github.com/ModusCreateOrg/beep) ` 🔥 147 `  - BEEP Account Security Scanner - Detect if your credentials have been compromised (Vue + Ionic) ` 📝 a year ago `
+* [Pychat](https://github.com/akoidan/pychat) ` 🔥 143 `  - webchat via WebSockets/WebRTC that allows messaging/video call/screen sharing ` 📝 5 days ago `
 * [Flamme](https://github.com/alicin/flamme) ` 🔥 128 `  - An open source tinder desktop client built with electron and Vue.js for educational purposes ` 📝 4 years ago `
 * [npmcharts.com](https://github.com/cheapsteak/npmcharts.com) ` 🔥 126 `  - Compare npm package downloads over time ` 📝 a month ago `
 * [VueComponentGenerator](https://github.com/ChangJoo-Park/vue-component-generator) ` 🔥 125 `  - Vue component generator :) 
 * [Ride Receipts](https://github.com/ridereceipts/ridereceipts) ` 🔥 123 `  - Simple automation desktop app to download and organize your receipts from Uber/Lyft. Try out our new Ride Receipts PRO ! ` 📝 a month ago `
+* [ETCD Manager](https://github.com/icellmobilsoft/etcdmanager) ` 🔥 121 `  - A cross-platform GUI and ETCD client ` 📝 7 months ago `
 * [Github-explorer](https://github.com/SidKwok/github-explorer) ` 🔥 119 `  - github-explorer(vue) 
+* [Mockup-server](https://github.com/joon610/mockup-server) ` 🔥 114 `  - this is mock server (Vue + TypeScript + Electron) ` 📝 17 days ago `
 * [GenVue](https://github.com/herbat73/GenVue) ` 🔥 112 `  - GenVue is a hostable, web application that lets confidential users upload and share private files. Tech stack: Net Core 2.0 + Vue.js + Vuex + OpenIddict + Vuetifyjs + EF + SQLServer/Postgress ` 📝 2 years ago `
 * [Laqu-l](https://github.com/laqul/laqul) ` 🔥 110 `  - A complete starter kit that allows you create amazing apps that look native thanks to the Quasar Framework. Powered by an API developed in Laravel Framework using the easy GraphQL queries language. And ready to use the Google Firebase features. ` 📝 3 years ago `
+* [sysmon](https://github.com/Lt0/sysmon) ` 🔥 110 `  - A B/S mode system monitor for linux (demo http://199.247.1.240:2048) ` 📝 2 years ago `
 * [dyu/bookmarks](https://github.com/dyu/bookmarks) ` 🔥 109 `  - a simple self-hosted bookmarking app that can import bookmarks from delicious and chrome ` 📝 a year ago `
 * [npm-stats](https://github.com/apertureless/npm-stats) ` 🔥 104 `  - npm package statistics dashboard build with vue 
 * [Leo Vue](https://github.com/kaleguy/leovue) ` 🔥 102 `  - Use the LEO outlining editor to create a Vue.js webapp. ` 📝 a year ago `
+* [Vue Expenses](https://github.com/simplyvinay/vue-expenses) ` 🔥 102 `  - A simple expense tracking application ` 📝 13 days ago `
 * [LeafPlayer](https://github.com/paulschwoerer/leafplayer) ` 🔥 100 `  - LeafPlayer is a fast and modern personal music streaming server, easily installable by using Docker. ` 📝 10 months ago `
 * [Coypu](https://github.com/bkzl/coypu) ` 🔥 99 `  - Text-editor-like weekly planner 
 * [ExcelJSON](https://github.com/palerdot/exceljson) ` 🔥 98 `  - convert CSV, TSV to/from JSON. 
 * [pm86](https://github.com/ericjjj/pm86) ` 🔥 98 `  - Production process manager for Node.js apps with a built-in load balancer. ` 📝 4 years ago `
+* [FireX Proxy](https://github.com/Orogenesis/FireX-Proxy) ` 🔥 95 `  - FireX Proxy for Mozilla Firefox, Google Chrome 
 * [Retrospectify](https://github.com/pepf/retrospectify) ` 🔥 94 `  - An awesome tool for retrospecting, written in Vue ` 📝 a year ago `
+* [Nippon-color](https://github.com/ssshooter/nippon-color) ` 🔥 94 `  - nippon-color PWA build with vue-cli 3 ` 📝 2 years ago `
+* [Vue Crypto Dashboard](https://github.com/JayeshLab/vue-crypto-dashboard) ` 🔥 94 `  - Cryptocurrency Dashboard made with Vue ` 📝 10 months ago `
+* [Minimal Notes](https://github.com/vladocar/Minimal-Notes) ` 🔥 92 `  - Minimal Notes web app build with Vue.js 
 * [vue-music163](https://github.com/pluto1114/vue-music163) ` 🔥 91 ` ` 🌐 2 ` - A webapp what base Vue2.0 contains seaching and playing music ` 📝 3 years ago `
-* [vue-pwa-speech](https://github.com/aofdev/vue-pwa-speech) ` 🔥 90 `  - A Vue2 Performs synchronous speech recognition Speech to text Google Cloud Speech With Progressive Web App 
+* [vue-pwa-speech](https://github.com/aofdev/vue-pwa-speech) ` 🔥 90 `  - A Vue2 Performs synchronous speech recognition Speech to text Google Cloud Speech With Progressive Web App ` 📝 3 years ago `
 * [AdminLTE-VueJS2](https://github.com/otezz/AdminLTE-VueJS2) ` 🔥 89 `  - AdminLTE + VueJS 2 ` 📝 3 years ago `
 * [OpenAPI 3 viewer](https://github.com/koumoul-dev/openapi-viewer) ` 🔥 82 `  - Browse and test a REST API described with the OpenAPI 3.0 Specification 
 * [promptie](https://github.com/alicin/promptie) ` 🔥 78 `  - A framework written in Vue.js for creating command-line like interfaces in web browsers. ` 📝 4 years ago `
+* [VueSolitaire](https://github.com/silent-lad/VueSolitaire) ` 🔥 75 `  - Solitaire made in Vue ` 📝 5 months ago `
+* [Vue E-Store Templet](https://github.com/rash0/Vue-Ecom) ` 🔥 67 `  - A Full Vue Store-Front open Source Templet. 
 * [TidyTab](https://github.com/eggplanetio/tidytab) ` 🔥 61 `  - A Chrome extension for tidying up those tabs. ` 📝 2 years ago `
 * [node-vue-template](https://github.com/mubaidr/node-vue-template) ` 🔥 61 `  - A starter template for building complete application using Node.js and Vue.js with some included packages and configurations to help start the development quickly. 
-* [My Animation List](https://github.com/limichange/my-animation-list) ` 🔥 59 `  - My Animation List 
+* [My Animation List](https://github.com/limichange/my-animation-list) ` 🔥 60 `  - My Animation List 
+* [CodeceptJS UI](https://github.com/codecept-js/ui) ` 🔥 60 ` ` 🌐 92 ` - Web UI for CodeceptJS ` 📝 2 hours ago `
+* [Carpoolear](https://github.com/STS-Rosario/carpoolear) ` 🔥 59 `  - The open source Vue.js frontend (mobile and cordova app) for the argentinian carpooling application: Carpoolear 
 * [SPA-asp.net-api-vuejs-](https://github.com/mubaidr/SPA-asp.net-api-vuejs-) ` 🔥 57 `  - A Vue.js single page application for basic Management By Objective tasks using ASP .NET Webapi 2 and SQL server 
-* [vue-speech-streaming](https://github.com/aofdev/vue-speech-streaming) ` 🔥 54 `  - A Vue2 Streaming Speech Recognition Speech to text with Google Cloud Speech 
+* [vue-speech-streaming](https://github.com/aofdev/vue-speech-streaming) ` 🔥 55 `  - A Vue2 Streaming Speech Recognition Speech to text with Google Cloud Speech 
 * [SDR News](https://github.com/super-dev/SDR-News) ` 🔥 53 `  - News for Web Designers and Developers - Shows aggregated news from multiple sources 
 * [Explore-Github](https://github.com/mazipan/explore-github) ` 🔥 52 `  - VueJS 2 Github Explorer Using API v3 
 * [discord-logo](https://github.com/NNTin/discord-logo) ` 🔥 50 `  - animated discord logo in svg 
+* [Zeithub](https://github.com/m0g/zeithub) ` 🔥 49 `  - Open source time tracking, invoicing & expenses management for freelancers ` 📝 3 months ago `
+* [Vue Pivottable](https://github.com/Seungwoo321/vue-pivottable) ` 🔥 48 ` ` 🌐 9 ` - It is a Vue port of the jQuery-based PivotTable.js ` 📝 a day ago `
 * [fd-vue](https://github.com/freedomotic/fd-vue-webapp) ` 🔥 47 `  - A Vue.js web application for Freedomotic Open IoT framework ` 📝 2 months ago `
-* [peregrine-cms](https://github.com/headwirecom/peregrine-cms) ` 🔥 42 `  - an api first, head optional cms with based on vuejs and apache sling ` 📝 18 days ago `
+* [Vue Crossword](https://github.com/Piterden/vue-crossword) ` 🔥 43 `  - Crossword puzzle builder VueJS application. ` 📝 4 months ago `
+* [peregrine-cms](https://github.com/headwirecom/peregrine-cms) ` 🔥 42 `  - an api first, head optional cms with based on vuejs and apache sling ` 📝 19 days ago `
+* [Vue Pug Stylus](https://github.com/wesssel/vue-pug-stylus) ` 🔥 42 `  - Vue boilerplate ` 📝 3 years ago `
 * [jade-press](https://github.com/jade-press/jade-press) ` 🔥 40 `  - cms based on mongodb, nodejs, koa, vue and more 
 * [V·oogle](https://github.com/VeryWow/v-oogle) ` 🔥 39 `  - Google.com, reVued. 
 * [Chattier](https://github.com/raniesantos/chattier) ` 🔥 36 `  - Chatty social network from Codecourse tutorial rebuilt from scratch as a single-page app. 
 * [vue2-pwa-rekognition](https://github.com/aofdev/vue-pwa-rekognition) ` 🔥 35 `  - Vue2 + Amazon Rekognition + Amazon S3 + Progressive Web App With Face Detection ` 📝 2 years ago `
 * [vue2-pwa-vision](https://github.com/aofdev/vue-pwa-vision) ` 🔥 34 `  - Vue2 + Google Cloud Vision + Progressive Web App With Face Detection ` 📝 2 years ago `
 * [vuejs-extension-pack vscode](https://github.com/mubaidr/vuejs-extension-pack) ` 🔥 29 `  - Popular VS Code extensions for Vue.js development. ` 📝 9 months ago `
+* [Saleina CMS](https://github.com/saleina/SaleinaCMS) ` 🔥 25 `  - An Open Source Static Site CMS Built With Love & Vue. ` 📝 a year ago `
 * [vue-input-streaming](https://github.com/aofdev/vue-input-streaming) ` 🔥 24 `  - A Vue2 Input Streaming RealTime And Two Way Data Binding Broadcasting with Pusher 
 * [vue-webpack-buefy](https://github.com/ndro/vue-webpack-buefy) ` 🔥 24 `  - Vue.js starter with full-featured Webpack and Buefy 
 * [News Weaver](https://github.com/Rud156/News-Weaver) ` 🔥 23 `  - A web based RSS Aggregator ` 📝 3 years ago `
@@ -713,78 +756,35 @@ Original Data from [Awesome Vue](https://github.com/vuejs/awesome-vue/blob/maste
 * [ChuckNorris](https://github.com/mazipan/chucknorris) ` 🔥 20 ` ` 🌐 1 ` - Chuck Norris Jokes Generator 
 * [grid-awesome](https://github.com/louisbourque/grid-awesome) ` 🔥 20 `  - Use Grid-Awesome to generate boilerplate css for grid layouts using the css display: grid; property. 
 * [Book-Trading-Club](https://github.com/mubaidr/Book-Trading-Club) ` 🔥 19 `  - A sample application using node.js api and vuejs 
-* [AmmoBin.ca](https://github.com/ammobinDOTca/ammobin-client) ` 🔥 16 `  - client for https://ammobin.ca ` 📝 a day ago `
+* [Crypto News](https://github.com/Bartozzz/crypto-news) ` 🔥 19 `  - Crypto News allows you to convert cryptocurrencies, view latest news and exchange rates for each ICO – all the data from the world of cryptocurrencies in one place. ` 📝 2 years ago `
+* [AmmoBin.ca](https://github.com/ammobinDOTca/ammobin-client) ` 🔥 16 `  - client for https://ammobin.ca ` 📝 2 days ago `
 * [vue-array](https://github.com/BlackHole1/vue-array) ` 🔥 14 ` ` 🌐 3 ` - Array object operation under Vue ` 📝 2 years ago `
 * [chrome-ribbon-reminder](https://github.com/johndatserakis/chrome-ribbon-reminder) ` 🔥 13 `  - A Chrome extension written using Vue and Async/Await. Uses a popup display and changes badge counts. ` 📝 10 months ago `
+* [RosterWebApp](https://github.com/SnakeyHips/RosterWebApp) ` 🔥 13 `  - Open source rostering ASP.NET Core. MVC app with Vue.js & Vuetify frontend. ` 📝 6 months ago `
+* [Idea Re-Vue](https://github.com/MuhaddiMu/Idea-ReVue) ` 🔥 13 `  - Social Ideation application to manage Ideas. Developed with Vue, Firebase & Vuetify 
 * [TimeMark](https://github.com/MarsZone/TimeMark) ` 🔥 12 `  - Tools to record times. ` 📝 3 years ago `
 * [JoyProxy](https://github.com/sh0cked/joy-proxy) ` 🔥 11 `  - Chrome proxy extension ` 📝 3 years ago `
 * [core-server](https://github.com/skyhark-projects/core-server) ` 🔥 10 `  - A Vue based web server with an integrated API system ` 📝 a month ago `
+* [MToDo](https://github.com/satriaajiputra/mtodo) ` 🔥 8 `  - MToDo is a simple to do app build with vue.js 
+* [Vue Datamaps](https://github.com/Seungwoo321/vue-datamaps) ` 🔥 8 `  - It is a Vue port of the javascript-based DataMaps 
 * [Distrochooser.de](https://github.com/cmllr/distrochooser) ` 🔥 4 `  - An orientation guide for Linux newbies ` 📝 2 years ago `
 * [XMR Paper](https://github.com/bradoyler/xmr-paper) ` 🔥 4 `  - Monero (XMR) wallet generator, built with Vue.js 
 * [activity-automation](https://github.com/mubaidr/activity-automation) ` 🔥 4 `  - Manage daily activities and get reports on timely basis. 
-* [Tomato5](https://github.com/zhangxin840/tomato5)   
+* [super.ba](https://github.com/aarsla/super.ba) ` 🔥 3 `  - super.ba BiH RSS news aggregator ` 📝 4 months ago `
 * [Paper-Dashboard](https://github.com/cristijora/vue-paper-dashboard)   
 * [Wake Up Billie Joe!](https://wakeupbilliejoe.com)   
-* [Wiki.js](https://github.com/Requarks/wiki)   
 * [Deezer-Vue](https://sh0cked.github.io/deezer-vue/)   
 * [Vuep.run](https://vuep.run)   
 * [Hubble](https://hubble.js.org)   
 * [Vuepress](https://vuepress.vuejs.org/)   
 * [Faviator](https://www.faviator.xyz/)   
-* [Minimal Notes](https://github.com/vladocar/Minimal-Notes)   
-* [Roast](https://github.com/serversideup/roastandbrew)   
-* [Stack Edit](https://github.com/benweet/stackedit/)   
 * [Bael Blog Template](https://bael-theme.jake101.com/)   
-* [Buefy Shop](https://github.com/14nrv/buefy-shop)   
-* [sysmon](https://github.com/Lt0/sysmon)   
-* [eth-vue](https://github.com/DOkwufulueze/eth-vue)   
-* [Nippon-color](https://github.com/ssshooter/nippon-color)   
-* [Saleina CMS](https://github.com/saleina/SaleinaCMS)   
-* [Vuido](https://github.com/mimecorg/vuido)   
-* [YouGet](https://github.com/ahmetzeybek/YouGet)   
-* [Vue Pug Stylus](https://github.com/wesssel/vue-pug-stylus)   
-* [Crypto News](https://github.com/Bartozzz/crypto-news)   
-* [Epiboard](https://github.com/Alexays/Epiboard)   
-* [zhudyos/duic](https://github.com/zhudyos/duic)   
-* [Vuemmerce](https://github.com/ivanlori/Vuemmerce)   
-* [Nucleus](https://github.com/alirizaadiyahsi/Nucleus)   
-* [Carpoolear](https://github.com/STS-Rosario/carpoolear)   
-* [Statusfy](https://github.com/bazzite/statusfy)   
-* [DynamoDb-GUI-Client](https://github.com/Arattian/DynamoDb-GUI-Client)   
-* [RosterWebApp](https://github.com/SnakeyHips/RosterWebApp)   
-* [Vue E-Store Templet](https://github.com/rash0/Vue-Ecom)   
 * [Twill](https://twill.io)   
 * [MATH_BOT](https://mathbot.com)   
-* [Vue Crossword](https://github.com/Piterden/vue-crossword)   
-* [Vue Org Chart](https://github.com/Hoogkamer/vue-org-chart)   
-* [Beep](https://github.com/ModusCreateOrg/beep)   
-* [Vue CRUD](https://github.com/szczepanmasny/vue-crud)   
 * [Vue HQ Admin Dashboard](https://vue-hq.netlify.com/)   
-* [MToDo](https://github.com/satriaajiputra/mtodo)   
-* [FireX Proxy](https://github.com/Orogenesis/FireX-Proxy)   
-* [VueSolitaire](https://github.com/silent-lad/VueSolitaire)   
 * [Thermal](https://thermal.codecarrot.net)   
-* [QMK Configurator](https://github.com/qmk/qmk_configurator)   
-* [Eplee](https://github.com/Janglee123/eplee)   
-* [vue-realworld-example-app](https://github.com/gothinkster/vue-realworld-example-app)   
-* [Daily](https://github.com/dailynowco/daily)   
-* [Laravel File Manager](https://github.com/alexusmai/laravel-file-manager)   
-* [Vue Crypto Dashboard](https://github.com/JayeshLab/vue-crypto-dashboard)   
-* [ETCD Manager](https://github.com/icellmobilsoft/etcdmanager)   
-* [Idea Re-Vue](https://github.com/MuhaddiMu/Idea-ReVue)   
-* [Vue Expenses](https://github.com/simplyvinay/vue-expenses)   
-* [Akaunting](https://github.com/akaunting/akaunting)   
-* [VueFront](https://github.com/vuefront/vuefront)   
-* [Mockup-server](https://github.com/joon610/mockup-server)   
-* [MQTTX](https://github.com/emqx/MQTTX)   
-* [Pychat](https://github.com/akoidan/pychat)   
-* [super.ba](https://github.com/aarsla/super.ba)   
 * [Rapido](https://framagit.org/InfoLibre/rapido)   
 * [miniPress](https://christiankienle.github.io/minipress/)   
-* [Zeithub](https://github.com/m0g/zeithub)   
-* [CodeceptJS UI](https://github.com/codecept-js/ui)   
-* [Vue Pivottable](https://github.com/Seungwoo321/vue-pivottable)   
-* [Vue Datamaps](https://github.com/Seungwoo321/vue-datamaps)   
 * [Marked.cc](https://github.com/msjaber/marked.cc)   
 * [LeagueStats](https://github.com/vkaelin/LeagueStats)   
 * [Veniqa](https://github.com/Viveckh/Veniqa)   
@@ -1133,16 +1133,18 @@ Original Data from [Awesome Vue](https://github.com/vuejs/awesome-vue/blob/maste
   
 * #### Notification [🔝](#readme)
 
-    * [vue-toastification](https://github.com/Maronato/vue-toastification) ` 🔥 640 ` ` 🌐 514 ` - Vue notifications made easy! ` 📝 3 days ago`
-    * [vue-toast-notification](https://github.com/ankurk91/vue-toast-notification) ` 🔥 183 ` ` 🌐 1.1k ` - Yet another toast notification plugin for Vue.js ` 📝 6 days ago`
-    * [vuetify-toast-snackbar](https://github.com/eolant/vuetify-toast-snackbar) ` 🔥 120 ` ` 🌐 377 ` - Basic Vue toast service that uses Vuetify Snackbar component. ` 📝 a year ago`
-    * [VueToastify](https://github.com/nandi95/vue-toastify) ` 🔥 117 ` ` 🌐 118 ` - Simple, extendable, dependency free notification plugin. ` 📝 5 months ago`
-    * [Breadstick](https://github.com/codebender828/breadstick) ` 🔥 98 ` ` 🌐 100 ` - A simple and flexible stacking, positioning & dismissal API for authored toast style notifications in Vue.js ` 📝 5 months ago`
-    * [@smartweb/vue-flash-message](https://github.com/smwbtech/vue-flash-message) ` 🔥 48 ` ` 🌐 315 ` - The component to display single flash message or multiple flash messages to user. ` 📝 4 months ago`
-    * [vue-notification](https://github.com/mathieustan/vue-notification) ` 🔥 26 `  - A clean and nice notification system for VueJs 
-    * [vue-toaster](https://github.com/MeForma/vue-toaster) ` 🔥 16 `  - Vue.js toast notification plugin for vue 3 
+    * [vue-toastification](https://github.com/Maronato/vue-toastification) ` 🔥 650 ` ` 🌐 526 ` - Vue notifications made easy! ` 📝 4 days ago`
+    * [vue-toast-notification](https://github.com/ankurk91/vue-toast-notification) ` 🔥 184 ` ` 🌐 1.1k ` - Yet another toast notification plugin for Vue.js ` 📝 7 days ago`
+    * [vue-m-message](https://github.com/mengdu/m-message) ` 🔥 133 ` ` 🌐 101 ` - A message plugin for vue. ` 📝 14 days ago`
+    * [vuetify-toast-snackbar](https://github.com/eolant/vuetify-toast-snackbar) ` 🔥 120 `  - Basic Vue toast service that uses Vuetify Snackbar component. 
+    * [VueToastify](https://github.com/nandi95/vue-toastify) ` 🔥 119 ` ` 🌐 121 ` - Simple, extendable, dependency free notification plugin. ` 📝 5 months ago`
+    * [Breadstick](https://github.com/codebender828/breadstick) ` 🔥 98 ` ` 🌐 101 ` - A simple and flexible stacking, positioning & dismissal API for authored toast style notifications in Vue.js ` 📝 5 months ago`
+    * [vue-notification-bell](https://github.com/Carrene/vue-notification-bell) ` 🔥 62 ` ` 🌐 37 ` - Vue.js notification bell component. ` 📝 a year ago`
+    * [@smartweb/vue-flash-message](https://github.com/smwbtech/vue-flash-message) ` 🔥 49 ` ` 🌐 318 ` - The component to display single flash message or multiple flash messages to user. ` 📝 4 months ago`
+    * [vue-notification](https://github.com/mathieustan/vue-notification) ` 🔥 27 ` ` 🌐 16 ` - A clean and nice notification system for VueJs ` 📝 a year ago`
+    * [vue-toaster](https://github.com/MeForma/vue-toaster) ` 🔥 17 ` ` 🌐 25 ` - Vue.js toast notification plugin for vue 3 ` 📝 5 days ago`
     * [v-tostini](https://github.com/marverix/v-tostini) ` 🔥 12 ` ` 🌐 2 ` - Toast plugin for Vue.js 2.x ` 📝 3 months ago`
-    * [vue-my-toasts](https://github.com/Tahul/vue-my-toasts) ` 🔥 3 `  - Provide your component and let us toast the rest. ` 📝 7 days ago`
+    * [vue-my-toasts](https://github.com/Tahul/vue-my-toasts) ` 🔥 5 `  - Provide your component and let us toast the rest. ` 📝 8 days ago`
     * [vue-notifications](https://github.com/se-panfilov/vue-notifications)   
     * [vue-easy-toast](https://github.com/noru/vue-easy-toast)   
     * [vue-toasted](https://github.com/shakee93/vue-toasted)   
@@ -1163,99 +1165,97 @@ Original Data from [Awesome Vue](https://github.com/vuejs/awesome-vue/blob/maste
     * [vue-izitoast](https://github.com/arthurvasconcelos/vue-izitoast)   
     * [vue-toastr-2](https://github.com/saivarunk/vue-toastr-2)   
     * [vue-snack](https://github.com/zerodois/vue-snack)   
-    * [vue-m-message](https://github.com/mengdu/m-message)   
-    * [vue-notification-bell](https://github.com/Carrene/vue-notification-bell)   
     * [vue-notification-ui](https://github.com/HELMAB/vue-notification-ui) ` 🔥 0 `  - A simple push the notification UI with Vuejs. ` 📝 2 months ago`
   
 * #### Loader [🔝](#readme)
 
     * [epic-spinners](https://github.com/epicmaxco/epic-spinners) ` 🔥 3.4k ` ` 🌐 2k ` - Easy to use css spinners collection with Vue.js integration ` 📝 a year ago`
-    * [vue-wait](https://github.com/f/vue-wait) ` 🔥 1.8k ` ` 🌐 327 ` - Complex Loader and Progress Management for Vue/Vuex and Nuxt Applications ` 📝 a year ago`
+    * [vue-wait](https://github.com/f/vue-wait) ` 🔥 1.8k ` ` 🌐 328 ` - Complex Loader and Progress Management for Vue/Vuex and Nuxt Applications ` 📝 a year ago`
     * [vue-progressbar](https://github.com/hilongjw/vue-progressbar) ` 🔥 1.3k ` ` 🌐 5.4k ` - A lightweight progress bar for vue ` 📝 2 years ago`
-    * [vue-loading-overlay](https://github.com/ankurk91/vue-loading-overlay) ` 🔥 746 ` ` 🌐 5.8k ` - Vue.js component for full screen loading indicator ` 📝 2 months ago`
-    * [vue-simple-spinner](https://github.com/dzwillia/vue-simple-spinner) ` 🔥 378 `  - A simple, flexible spinner for Vue.js ` 📝 2 years ago`
-    * [vue-radial-progress](https://github.com/wyzant-dev/vue-radial-progress) ` 🔥 347 ` ` 🌐 602 ` - Radial progress bar component for Vue.js ` 📝 7 months ago`
-    * [vue-ins-progress-bar](https://github.com/meloalright/vue-ins-progress-bar) ` 🔥 317 ` ` 🌐 107 ` - 一款 ins 风格的 Vue 进度条组件 ` 📝 4 months ago`
-    * [vue-progress-path](https://github.com/Akryum/vue-progress-path) ` 🔥 299 ` ` 🌐 181 ` - Progress bars and loading indicators for Vue.js ` 📝 2 years ago`
-    * [vue2-loading-bar](https://github.com/BosNaufal/vue2-loading-bar) ` 🔥 264 `  - Simplest Youtube Like Loading Bar Component For Vue 2. http://bosnaufal.github.io/vue2-loading-bar/ ` 📝 4 years ago`
-    * [vue-spinners](https://github.com/Saeris/vue-spinners) ` 🔥 246 ` ` 🌐 849 ` - A collection of loading spinner components for Vuejs ` 📝 2 years ago`
+    * [vue-loading-overlay](https://github.com/ankurk91/vue-loading-overlay) ` 🔥 750 ` ` 🌐 5.8k ` - Vue.js component for full screen loading indicator ` 📝 2 months ago`
+    * [vue-simple-spinner](https://github.com/dzwillia/vue-simple-spinner) ` 🔥 379 `  - A simple, flexible spinner for Vue.js 
+    * [vue-radial-progress](https://github.com/wyzant-dev/vue-radial-progress) ` 🔥 349 ` ` 🌐 606 ` - Radial progress bar component for Vue.js ` 📝 7 months ago`
+    * [vue-progress-path](https://github.com/Akryum/vue-progress-path) ` 🔥 300 ` ` 🌐 182 ` - Progress bars and loading indicators for Vue.js ` 📝 2 years ago`
+    * [vue2-loading-bar](https://github.com/BosNaufal/vue2-loading-bar) ` 🔥 264 ` ` 🌐 74 ` - Simplest Youtube Like Loading Bar Component For Vue 2. http://bosnaufal.github.io/vue2-loading-bar/ 
+    * [vue-spinners](https://github.com/Saeris/vue-spinners) ` 🔥 247 ` ` 🌐 849 ` - A collection of loading spinner components for Vuejs ` 📝 2 years ago`
     * [vue-top-progress](https://github.com/dalphyx/vue-top-progress) ` 🔥 234 ` ` 🌐 270 ` - Yet another top progress loading bar component for Vue.js. ` 📝 3 years ago`
-    * [vue-element-loading](https://github.com/biigpongsatorn/vue-element-loading) ` 🔥 221 ` ` 🌐 543 ` - Loading inside a container or full screen for Vue.js ` 📝 4 days ago`
-    * [vue-promise-btn](https://github.com/STUkh/vue-promise-btn) ` 🔥 169 ` ` 🌐 75 ` - Vue.js plugin that handles buttons async lock state. Demo: https://stukh.github.io/vue-promise-btn/ ` 📝 4 days ago`
-    * [vue-nprogress](https://github.com/vue-bulma/nprogress) ` 🔥 168 ` ` 🌐 935 ` - Progress bars is based on nprogress for Vue ` 📝 5 months ago`
-    * [vue-loaders](https://github.com/Hokid/vue-loaders) ` 🔥 118 ` ` 🌐 277 ` - Vue + loaders.css ` 📝 4 months ago`
-    * [vue-spinkit](https://github.com/TonPC64/vue-spinkit) ` 🔥 104 ` ` 🌐 177 ` - A collection of loading indicators animated with CSS for VueJS ` 📝 a month ago`
+    * [vue-element-loading](https://github.com/biigpongsatorn/vue-element-loading) ` 🔥 222 ` ` 🌐 545 ` - Loading inside a container or full screen for Vue.js ` 📝 5 days ago`
+    * [vue-promise-btn](https://github.com/STUkh/vue-promise-btn) ` 🔥 169 ` ` 🌐 75 ` - Vue.js plugin that handles buttons async lock state. Demo: https://stukh.github.io/vue-promise-btn/ ` 📝 5 days ago`
+    * [vue-nprogress](https://github.com/vue-bulma/nprogress) ` 🔥 168 `  - Progress bars is based on nprogress for Vue ` 📝 5 months ago`
+    * [vue-loaders](https://github.com/Hokid/vue-loaders) ` 🔥 118 ` ` 🌐 279 ` - Vue + loaders.css ` 📝 4 months ago`
+    * [vue-spinkit](https://github.com/TonPC64/vue-spinkit) ` 🔥 104 ` ` 🌐 179 ` - A collection of loading indicators animated with CSS for VueJS ` 📝 a month ago`
     * [svg-progress-bar](https://github.com/chenxuan0000/svg-progress-bar) ` 🔥 103 ` ` 🌐 61 ` - A simple,progress bar for Vue.js ` 📝 3 years ago`
-    * [easy-circular-progress](https://github.com/dreambo8563/easy-circular-progress) ` 🔥 90 ` ` 🌐 67 ` - easy circular progress component with counting effect ` 📝 a month ago`
-    * [vue-ellipse-progress](https://github.com/setaman/vue-ellipse-progress) ` 🔥 83 ` ` 🌐 56 ` - A Vue.js component to create beautiful animated circular progress bars. https://vue-ellipse-progress-demo.netlify.com/ ` 📝 12 days ago`
+    * [easy-circular-progress](https://github.com/dreambo8563/easy-circular-progress) ` 🔥 90 ` ` 🌐 67 ` - easy circular progress component with counting effect 
+    * [vue-ellipse-progress](https://github.com/setaman/vue-ellipse-progress) ` 🔥 84 ` ` 🌐 56 ` - A Vue.js component to create beautiful animated circular progress bars. https://vue-ellipse-progress-demo.netlify.com/ ` 📝 13 days ago`
     * [vue-scroll-progress](https://github.com/spemer/vue-scroll-progress) ` 🔥 77 ` ` 🌐 52 ` - Page scroll progress bar component for @vuejs ` 📝 3 months ago`
-    * [tb-skeleton](https://github.com/anthinkingcoder/tb-skeleton) ` 🔥 75 ` ` 🌐 65 ` - a vue component about toy bricks of skeleton screen loading ` 📝 a year ago`
-    * [vue-progress-button](https://github.com/websmurf/vue-progress-button) ` 🔥 70 `  - Animated button for VueJS 
-    * [vue-simple-progress](https://github.com/dzwillia/vue-simple-progress) ` 🔥 64 ` ` 🌐 200 ` - A simple, flexible progress bar for Vue.js ` 📝 2 years ago`
+    * [tb-skeleton](https://github.com/anthinkingcoder/tb-skeleton) ` 🔥 75 ` ` 🌐 65 ` - a vue component about toy bricks of skeleton screen loading 
+    * [vue-progress-button](https://github.com/websmurf/vue-progress-button) ` 🔥 70 `  - Animated button for VueJS ` 📝 3 years ago`
+    * [vue-simple-progress](https://github.com/dzwillia/vue-simple-progress) ` 🔥 64 `  - A simple, flexible progress bar for Vue.js 
     * [vue-blockui](https://github.com/realdah/vue-blockui) ` 🔥 56 ` ` 🌐 242 ` - BlockUI for vue 2, similiar to jquery blockUI, can be used for loading screen. ` 📝 3 years ago`
-    * [vue-ultimate-skeleton-cards](https://github.com/neelansh15/vue-ultimate-skeleton-cards) ` 🔥 51 ` ` 🌐 9 ` - The Ultimate fully-customizable plugin for skeleton cards in Vue. It's a no-brainer. ` 📝 2 months ago`
-    * [vue-preloaders](https://github.com/igaloly/vue-preloaders) ` 🔥 37 `  - Stable, Flexible and Fully Customizable Vue and Nuxt preloaders library ` 📝 22 days ago`
+    * [vue-ultimate-skeleton-cards](https://github.com/neelansh15/vue-ultimate-skeleton-cards) ` 🔥 52 ` ` 🌐 11 ` - The Ultimate fully-customizable plugin for skeleton cards in Vue. It's a no-brainer. ` 📝 2 months ago`
+    * [vue-preloaders](https://github.com/igaloly/vue-preloaders) ` 🔥 37 ` ` 🌐 18 ` - Stable, Flexible and Fully Customizable Vue and Nuxt preloaders library ` 📝 23 days ago`
     * [vue-read-progress](https://github.com/ajerez/vue-read-progress) ` 🔥 35 ` ` 🌐 13 ` - Customizable progress bar at the top of the page that shows the scroll progress ` 📝 a year ago`
-    * [vue-loading-button](https://github.com/shwilliam/vue-loading-button) ` 🔥 31 ` ` 🌐 57 ` - Vue button with slideout loading indicator ` 📝 6 months ago`
-    * [vue-twitter-counter](https://github.com/LucasLeandro1204/vue-twitter-counter) ` 🔥 29 ` ` 🌐 6 ` - Counter component inspired in Twitter with Vue ` 📝 3 years ago`
-    * [vue-splash](https://github.com/MehdiKhoshnevisz/vue-splash) ` 🔥 28 `  - splash plugin for vue js 
+    * [vue-loading-button](https://github.com/shwilliam/vue-loading-button) ` 🔥 31 `  - Vue button with slideout loading indicator ` 📝 6 months ago`
+    * [vue-splash](https://github.com/MehdiKhoshnevisz/vue-splash) ` 🔥 28 ` ` 🌐 13 ` - splash plugin for vue js ` 📝 3 months ago`
     * [vue-component-loading](https://github.com/val-bubbleflat/vue-component-loading) ` 🔥 15 `  - Vuejs package, allow you to manage a loading state inside all component, and to display a progressbar 
     * [vue2-form-loading](https://github.com/hussam-m/vue2-form-loading) ` 🔥 13 ` ` 🌐 33 ` - A VueJS directive can be used with forms in order to disable submit button and make every input readonly after submitting ` 📝 3 years ago`
-    * [vue-ui-preloader](https://github.com/Bot-Academia/Vue-ui-preloader) ` 🔥 11 ` ` 🌐 38 ` - Pre Loader components for vue.js ` 📝 3 months ago`
+    * [vue-ui-preloader](https://github.com/Bot-Academia/Vue-ui-preloader) ` 🔥 11 ` ` 🌐 39 ` - Pre Loader components for vue.js ` 📝 3 months ago`
     * [vuesence-cloud-sync-button](https://github.com/altrusl/vuesence-cloud-sync-button) ` 🔥 8 `  - Button / progress-bar with cloud synchronization animation in vanilla javascript, Vue.js and Web component formats 
-    * [vue-progress-bar](https://github.com/Yangfan2016/vue-yan-progress) ` 🔥 7 ` ` 🌐 9 ` - This is a cascading progress bar plugin based on vue ` 📝 2 years ago`
-    * [vue-loading](https://github.com/HELMAB/vue-loading) ` 🔥 4 ` ` 🌐 8 ` - Using to block while client requesting. ` 📝 2 months ago`
-    * [vue-wait-for](https://github.com/MeForma/vue-wait-for) ` 🔥 2 `  - A loader manager for vue3 with reactive method ` 📝 9 days ago`
+    * [vue-progress-bar](https://github.com/Yangfan2016/vue-yan-progress) ` 🔥 7 `  - This is a cascading progress bar plugin based on vue 
+    * [vue-loading](https://github.com/HELMAB/vue-loading) ` 🔥 4 ` ` 🌐 8 ` - Using to block while client requesting. ` 📝 3 months ago`
+    * [vue-wait-for](https://github.com/MeForma/vue-wait-for) ` 🔥 2 `  - A loader manager for vue3 with reactive method 
+    * [vue-twitter-counter](https://github.com/LucasLeandro1204/vue-twitter-counter)   
+    * [vue-ins-progress-bar](https://github.com/meloalright/vue-ins-progress-bar)   
   
 * #### Tooltip [🔝](#readme)
 
-    * [v-tooltip](https://github.com/Akryum/vue-tooltip) ` 🔥 1.8k ` ` 🌐 6.9k ` - Easy tooltips, popovers, dropdown for Vue 2.x ` 📝 14 days ago`
-    * [vue-popperjs](https://github.com/RobinCK/vue-popper) ` 🔥 345 ` ` 🌐 949 ` - VueJS popover component based popper.js ` 📝 a year ago`
-    * [vue-directive-tooltip](https://github.com/hekigan/vue-directive-tooltip) ` 🔥 157 ` ` 🌐 444 ` - Vue.js tooltip directive. Easy to use, configure and style ` 📝 a year ago`
-    * [vue-popper-component](https://github.com/antongorodezkiy/vue-popper-component) ` 🔥 45 `  - Popper.js directive for Vue.js ` 📝 4 years ago`
-    * [k-pop](https://github.com/ChristianKienle/k-pop) ` 🔥 13 ` ` 🌐 17 ` - k-pop: Simple Popover Component using Vue ` 📝 2 years ago`
-    * [vue-tooltipster](https://github.com/cpfarher/vue-tooltipster) ` 🔥 6 `  - Vue tooltipster component 
-    * [@adamdehaven/vue-custom-tooltip](https://github.com/adamdehaven/vue-custom-tooltip) ` 🔥 2 ` ` 🌐 2 ` - A reusable tooltip component for Vue (and VuePress) projects. ` 📝 2 months ago`
+    * [v-tooltip](https://github.com/Akryum/vue-tooltip)   
+    * [vue-popper-component](https://github.com/antongorodezkiy/vue-popper-component)   
+    * [vue-directive-tooltip](https://github.com/hekigan/vue-directive-tooltip)   
+    * [vue-popperjs](https://github.com/RobinCK/vue-popper)   
+    * [vue-tooltipster](https://github.com/cpfarher/vue-tooltipster)   
+    * [k-pop](https://github.com/ChristianKienle/k-pop)   
+    * [@adamdehaven/vue-custom-tooltip](https://github.com/adamdehaven/vue-custom-tooltip)   
   
 * #### Overlay [🔝](#readme)
 
-    * [vue-js-modal](https://github.com/euvl/vue-js-modal) ` 🔥 3.7k ` ` 🌐 8k ` - Easy to use, highly customizable Vue.js modal library. ` 📝 25 days ago`
-    * [v-viewer](https://github.com/mirari/v-viewer) ` 🔥 1.4k ` ` 🌐 2.6k ` - Image viewer component for vue, supports rotation, scale, zoom and so on, based on viewer.js ` 📝 10 months ago`
-    * [sweet-modal-vue](https://github.com/adeptoas/sweet-modal-vue) ` 🔥 670 ` ` 🌐 872 ` - The sweetest library to happen to modals. ` 📝 5 months ago`
-    * [vue-gallery](https://github.com/RobinCK/vue-gallery) ` 🔥 401 ` ` 🌐 1.2k ` - Responsive and customizable image and video gallery, carousel and lightbox, optimized for both mobile and desktop web browsers. ` 📝 a year ago`
-    * [vuejs-dialog](https://github.com/Godofbrowser/vuejs-dialog) ` 🔥 321 ` ` 🌐 1.1k ` - A lightweight, promise based alert, prompt and confirm dialog ` 📝 5 months ago`
-    * [vodal](https://github.com/chenjiahan/vodal) ` 🔥 309 ` ` 🌐 322 ` - A Vue modal with animations. ` 📝 a month ago`
-    * [vue-modal-dialogs](https://github.com/hjkcai/vue-modal-dialogs) ` 🔥 257 `  - Promisify dialogs in Vue! 
-    * [vue-image-lightbox](https://github.com/pexea12/vue-image-lightbox) ` 🔥 252 `  - A Vue component to display an image gallery lightbox ` 📝 4 months ago`
-    * [@hscmap/vue-window](https://github.com/michitaro/vue-window) ` 🔥 243 ` ` 🌐 58 ` - Window component for vue2 ` 📝 2 years ago`
-    * [vue2-simplert](https://github.com/mazipan/vue2-simplert) ` 🔥 219 ` ` 🌐 239 ` - Vue 2 Simple Alert Component (SweetAlert Inspired) ` 📝 2 years ago`
-    * [vue-swal](https://github.com/anteriovieira/vue-swal) ` 🔥 175 ` ` 🌐 1.2k ` - A small wrapper for integrating SweetAlert to Vuejs ` 📝 2 years ago`
-    * [vue-slideout-panel](https://github.com/officert/vue-slideout-panel) ` 🔥 149 ` ` 🌐 116 ` - Vue JS component for stackable slideout panels ` 📝 4 months ago`
-    * [vue-pure-lightbox](https://github.com/DCzajkowski/vue-pure-lightbox) ` 🔥 141 ` ` 🌐 134 ` - Very simple lightbox plugin (without any dependencies) for Vuejs ` 📝 3 months ago`
-    * [vue-gallery-slideshow](https://github.com/KitchenStories/vue-gallery-slideshow) ` 🔥 140 ` ` 🌐 273 ` - Lightweight and responsive image gallery for Vue.js ` 📝 5 months ago`
-    * [vue-dialog-drag](https://github.com/emiliorizzo/vue-dialog-drag) ` 🔥 137 ` ` 🌐 50 ` - Simple vue draggable dialog ` 📝 7 months ago`
-    * [v-dialogs](https://github.com/TerryZ/v-dialogs) ` 🔥 119 `  - A simple and clean instructional dialog plugin for Vue2, dialog type including Modal, Alert, Mask and Toast 
-    * [vuedals](https://github.com/javisperez/vuedals) ` 🔥 100 ` ` 🌐 69 ` - Vue modals with a single component ` 📝 a month ago`
-    * [vue-final-modal](https://github.com/hunterliu1003/vue-final-modal) ` 🔥 79 ` ` 🌐 22 ` - Vue Final Modal is a tiny, renderless, mobile-friendly, feature-rich modal component for Vue.js. ` 📝 16 hours ago`
-    * [vue-modaltor](https://github.com/davodaslanifakor/modaltor) ` 🔥 63 ` ` 🌐 114 ` - modal component for vuejs ` 📝 a year ago`
-    * [vue-a11y-dialog](https://github.com/morkro/vue-a11y-dialog) ` 🔥 63 `  - Vue.js component for a11y-dialog ` 📝 3 months ago`
-    * [v-gallery](https://github.com/TerryZ/v-gallery) ` 🔥 60 ` ` 🌐 74 ` - A Vue2 plugin for images show in gallery or carousel ` 📝 2 years ago`
+    * [vue-final-modal](https://github.com/hunterliu1003/vue-final-modal) ` 🔥 79 ` ` 🌐 22 ` - Vue Final Modal is a tiny, renderless, mobile-friendly, feature-rich modal component for Vue.js. ` 📝 2 days ago`
     * [xmodal-vue](https://github.com/XeniacDev/xmodal) ` 🔥 59 `  - [deprecated]  A simplistic,  lightweight (5kb gzipped) and easy to use wrapper around your components that will help you create custom and dynamic modals, from your components ` 📝 4 months ago`
-    * [Vue-Semantic-Modal](https://github.com/David-Desmaisons/Vue-Semantic-Modal) ` 🔥 44 ` ` 🌐 27 ` - Vue modal component for Semantic-Ui no jquery ` 📝 3 years ago`
-    * [vue-my-photos](https://github.com/am283721/vue-my-photos) ` 🔥 42 `  - Simple lightbox component for Vue applications 
-    * [vue-img-orientation-changer](https://github.com/nikli2009/vue-img-orientation-changer) ` 🔥 41 ` ` 🌐 13 ` - A vue plugin that can help you display image in correct orientation. ` 📝 2 years ago`
-    * [vudal](https://github.com/Egorvah/vudal) ` 🔥 36 ` ` 🌐 22 ` - Modal window for vue.js ` 📝 2 years ago`
-    * [@innologica/vue-stackable-modal](https://github.com/Innologica/vue-stackable-modal) ` 🔥 33 `  - Vue stackable modal component by Innologica 
-    * [vue-img-view](https://github.com/la7ender/vue-img-view) ` 🔥 30 `  - a plugin for Vue.js, you can drag / view / rotate pictures anywhere 
-    * [vue-modal 🖼](https://github.com/MelMacaluso/vue-modal) ` 🔥 26 ` ` 🌐 45 ` - Reusable Modal component, supports own custom HTML, text and classes. ` 📝 2 years ago`
     * [@kouts/vue-modal](https://github.com/kouts/vue-modal) ` 🔥 18 ` ` 🌐 31 ` - Modal component for Vue ` 📝 a month ago`
-    * [vue-messagebox](https://github.com/zhangxiang958/vue-messageBox) ` 🔥 14 `  - the messagebox component for Vue 
-    * [vue-cute-modal](https://github.com/dillonchanis/vue-cute-modal) ` 🔥 7 ` ` 🌐 11 ` - A simple and easy to use Modal component for Vue applications. ` 📝 3 years ago`
-    * [vue-topmodal](https://github.com/adileo/vue-topmodal) ` 🔥 7 `  - A fully customisable Vue.js modal component. ` 📝 a year ago`
-    * [vue2-image-loader](https://github.com/leepyng/vue2-image-loader) ` 🔥 6 `  - a image loader component for vue2 ` 📝 2 years ago`
-    * [v-modal-backdrop](https://github.com/nash403/v-modal-backdrop) ` 🔥 2 ` ` 🌐 4 ` - A simple generic backdrop component for vue 
+    * [vuedals](https://github.com/javisperez/vuedals)   
+    * [sweet-modal-vue](https://github.com/adeptoas/sweet-modal-vue)   
+    * [vue-js-modal](https://github.com/euvl/vue-js-modal)   
+    * [vudal](https://github.com/Egorvah/vudal)   
+    * [vodal](https://github.com/chenjiahan/vodal)   
+    * [vue-image-lightbox](https://github.com/pexea12/vue-image-lightbox)   
+    * [vue2-simplert](https://github.com/mazipan/vue2-simplert)   
+    * [Vue-Semantic-Modal](https://github.com/David-Desmaisons/Vue-Semantic-Modal)   
     * [v-img](https://github.com/crowdbotics/v-img)   
+    * [vue-dialog-drag](https://github.com/emiliorizzo/vue-dialog-drag)   
     * [vue-ya-semantic-modal](https://github.com/qgp9/vue-ya-semantic-modal)   
+    * [vue-pure-lightbox](https://github.com/DCzajkowski/vue-pure-lightbox)   
+    * [v-viewer](https://github.com/mirari/v-viewer)   
+    * [vue-messagebox](https://github.com/zhangxiang958/vue-messageBox)   
+    * [vuejs-dialog](https://github.com/Godofbrowser/vuejs-dialog)   
+    * [@hscmap/vue-window](https://github.com/michitaro/vue-window)   
+    * [vue-gallery](https://github.com/RobinCK/vue-gallery)   
+    * [vue-swal](https://github.com/anteriovieira/vue-swal)   
+    * [vue-modal-dialogs](https://github.com/hjkcai/vue-modal-dialogs)   
+    * [vue-img-view](https://github.com/la7ender/vue-img-view)   
+    * [vue-modaltor](https://github.com/davodaslanifakor/modaltor)   
+    * [v-modal-backdrop](https://github.com/nash403/v-modal-backdrop)   
+    * [vue-cute-modal](https://github.com/dillonchanis/vue-cute-modal)   
+    * [v-dialogs](https://github.com/TerryZ/v-dialogs)   
+    * [vue-gallery-slideshow](https://github.com/KitchenStories/vue-gallery-slideshow)   
+    * [vue-a11y-dialog](https://github.com/morkro/vue-a11y-dialog)   
+    * [vue-slideout-panel](https://github.com/officert/vue-slideout-panel)   
+    * [v-gallery](https://github.com/TerryZ/v-gallery)   
+    * [vue2-image-loader](https://github.com/leepyng/vue2-image-loader)   
+    * [vue-my-photos](https://github.com/am283721/vue-my-photos)   
+    * [vue-img-orientation-changer](https://github.com/nikli2009/vue-img-orientation-changer)   
+    * [vue-topmodal](https://github.com/adileo/vue-topmodal)   
+    * [vue-modal 🖼](https://github.com/MelMacaluso/vue-modal)   
+    * [@innologica/vue-stackable-modal](https://github.com/Innologica/vue-stackable-modal)   
     * [vue-sweetalert2](https://github.com/avil13/vue-sweetalert2)   
     * [vue-modality](https://github.com/ovictorpereira/vue-modality)   
     * [vue-tinybox](https://github.com/NickKaramoff/vue-tinybox)   
@@ -1275,90 +1275,79 @@ Original Data from [Awesome Vue](https://github.com/vuejs/awesome-vue/blob/maste
 * #### Icons [🔝](#readme)
 
     * [vue-awesome](https://github.com/Justineo/vue-awesome) ` 🔥 2.2k ` ` 🌐 6.7k ` - Awesome SVG icon component for Vue.js, built-in with Font Awesome icons. ` 📝 6 months ago`
-    * [vue-fontawesome](https://github.com/FortAwesome/vue-fontawesome) ` 🔥 2k ` ` 🌐 35.3k ` - Font Awesome 5 Vue component ` 📝 16 days ago`
-    * [vue-unicons](https://github.com/antonreshetov/vue-unicons) ` 🔥 814 ` ` 🌐 232 ` - 1000+ Pixel-perfect svg icons for your next project as Vue components ` 📝 7 months ago`
-    * [vue-eva-icons](https://github.com/antonreshetov/vue-eva-icons) ` 🔥 187 ` ` 🌐 126 ` - Is a pack of more than 480 beautiful open source Eva icons as Vue components ` 📝 2 years ago`
+    * [vue-fontawesome](https://github.com/FortAwesome/vue-fontawesome) ` 🔥 2k ` ` 🌐 35.3k ` - Font Awesome 5 Vue component ` 📝 17 days ago`
     * [vue-ionicons](https://github.com/mazipan/vue-ionicons) ` 🔥 80 `  - Vue Icon Set Components from Ionic Team ` 📝 7 months ago`
-    * [vue-country-flag](https://github.com/P3trur0/vue-country-flag) ` 🔥 80 ` ` 🌐 441 ` - Vue component for country flags ` 📝 4 days ago`
+    * [vue-country-flag](https://github.com/P3trur0/vue-country-flag) ` 🔥 80 ` ` 🌐 441 ` - Vue component for country flags ` 📝 5 days ago`
     * [mdi-vue](https://github.com/therufa/mdi-vue) ` 🔥 49 ` ` 🌐 172 ` - Material design icons for vue.js ` 📝 a month ago`
-    * [vue-cryptoicon](https://github.com/man15h/vue-cryptoicon) ` 🔥 45 ` ` 🌐 27 ` - Cryptocurrency icons for your next Vue project ` 📝 4 days ago`
-    * [vue-hero-icons](https://github.com/matschik/vue-hero-icons) ` 🔥 33 `  - A set of free MIT-licensed high-quality SVG icons as Vue functional components. ` 📝 2 months ago`
     * [vue-icon-font](https://github.com/ganl/vue-icon-font) ` 🔥 24 ` ` 🌐 60 ` - IconFont plugin for Vuejs ` 📝 a year ago`
-    * [vue-zondicons](https://github.com/TerryMooreII/vue-zondicons) ` 🔥 18 `  - Vue.js component for accessing Zondicon svg icons 
-    * [vue-fa](https://github.com/Cweili/vue-fa) ` 🔥 18 ` ` 🌐 48 ` - Tiny FontAwesome 5 component for Vue.js. ` 📝 25 days ago`
-    * [vue-tabler-icons](https://github.com/alex-oleshkevich/vue-tabler-icons) ` 🔥 18 ` ` 🌐 3 ` - Fully customizable free SVG icons made as Vue components. ` 📝 a month ago`
     * [vue-ico](https://github.com/paulcollett/vue-ico) ` 🔥 16 `  - Dead easy, Google Material Icons for Vue 
     * [vue-simple-line-icons](https://github.com/nkoik/vue-simple-line-icons) ` 🔥 15 ` ` 🌐 26 ` - Vue component for Simple Line Icons and you may choose a SVG or a Font icon just with a prop. ` 📝 2 years ago`
     * [md-svg-vue](https://github.com/IPRIT/md-svg-vue) ` 🔥 14 `  - Material design icons by Google for Vue.js & Nuxt.js (server side support & inline svg with path) 
     * [g-icon](https://github.com/nash403/g-icon) ` 🔥 12 `  - A Vue.js plugin/component to help you manage your icons seamlessly 
     * [vue-lang-code-flags](https://github.com/qWici/vue-lang-code-flags) ` 🔥 8 ` ` 🌐 22 ` - Vue component which shows the flag of the country from which the language comes from ` 📝 3 months ago`
     * [vicon](https://github.com/Lt0/vicon) ` 🔥 6 `  - icon component for vue 
-    * [vue-heroicons](https://github.com/Kholid060/vue-heroicons) ` 🔥 4 ` ` 🌐 12 ` - Vue component for 104 premium Heroicons-UI svg icons ` 📝 7 months ago`
     * [vue-material-design-icons](https://github.com/robcresswell/vue-material-design-icons "vue-material-design-icons on GitHub")   
+    * [vue-zondicons](https://github.com/TerryMooreII/vue-zondicons)   
+    * [vue-eva-icons](https://github.com/antonreshetov/vue-eva-icons)   
+    * [vue-unicons](https://github.com/antonreshetov/vue-unicons)   
+    * [vue-fa](https://github.com/Cweili/vue-fa)   
+    * [vue-cryptoicon](https://github.com/man15h/vue-cryptoicon)   
+    * [vue-hero-icons](https://github.com/matschik/vue-hero-icons)   
+    * [vue-heroicons](https://github.com/Kholid060/vue-heroicons)   
+    * [vue-tabler-icons](https://github.com/alex-oleshkevich/vue-tabler-icons)   
   
 * #### Marquee [🔝](#readme)
 
-    * [vue-dynamic-marquee](https://github.com/YishaiBerg/vue-dynamic-marquee) ` 🔥 46 `  - Marquee component for Vue - repeatedly translate content across wrapper. Completely responsive to after-render changes with many options to customize. 
+    * [vue-dynamic-marquee](https://github.com/YishaiBerg/vue-dynamic-marquee)   
   
 * #### Menu [🔝](#readme)
 
-    * [vue-burger-menu](https://github.com/mbj36/vue-burger-menu) ` 🔥 625 ` ` 🌐 1.1k ` - An off-canvas sidebar Vue component - https://vue-burger-menu.netlify.com/ ` 📝 9 months ago`
-    * [vue-drawer-layout](https://github.com/hjl19911127/vue-drawer-layout) ` 🔥 386 ` ` 🌐 248 ` - A simple DrawerLayout component for Vue.js. ` 📝 2 years ago`
-    * [vue-js-dropdown](https://github.com/euvl/vue-js-dropdown) ` 🔥 364 ` ` 🌐 345 ` - Vue.js 2 library for dropdowns / popovers / tooltips ` 📝 8 months ago`
-    * [vue-stripe-menu](https://github.com/Alexeykhr/vue-stripe-menu) ` 🔥 245 ` ` 🌐 38 ` - Creating a navigation menu with animations like on Stripe ` 📝 2 months ago`
-    * [@hscmap/vue-menu](https://github.com/michitaro/vue-menu) ` 🔥 223 ` ` 🌐 82 ` - Menu/Contextmenu Component for vue2 ` 📝 2 years ago`
-    * [vue-quick-menu](https://github.com/AshleyLv/vue-quick-menu) ` 🔥 207 ` ` 🌐 202 ` - This is web navigation component base on vue2.0+. It can be used in both PC and mobile. ` 📝 3 years ago`
-    * [vue-accordion](https://github.com/zeratulmdq/vue-accordion) ` 🔥 168 `  - Simple accordion menu component for Vue.js ` 📝 4 years ago`
-    * [v-selectmenu](https://github.com/TerryZ/v-selectmenu) ` 🔥 167 ` ` 🌐 57 ` - SelectMenu for Vuejs, A simple, easier and highly customized menu solution ` 📝 a year ago`
-    * [vue-slideout](https://github.com/vouill/vue-slideout) ` 🔥 154 `  - Simple vue implementation of Slideout.js touch sidebar / sidemenu library 
-    * [vue-tree-navigation](https://github.com/MisRob/vue-tree-navigation) ` 🔥 145 ` ` 🌐 130 ` - A NEW MAINTAINER NEEDED! Vue.js 2 tree navigation with vue-router support 
     * [vue-navigation-bar](https://github.com/johndatserakis/vue-navigation-bar) ` 🔥 93 ` ` 🌐 180 ` - A simple, pretty navbar for your Vue projects. ` 📝 2 months ago`
     * [vue-simple-search-dropdown](https://github.com/romainsimon/vue-simple-search-dropdown) ` 🔥 66 `  - Vue.js simple autocomplete dropdown component 
-    * [vue-file-toolbar-menu](https://github.com/motla/vue-file-toolbar-menu) ` 🔥 54 ` ` 🌐 6 ` - UI file/toolbar menus for Vue apps ` 📝 a month ago`
-    * [bp-vuejs-dropdown](https://github.com/borisbutenko/bp-vuejs-dropdown) ` 🔥 40 `  - Dropdown component for Vuejs 
-    * [vue-dynamic-dropdown](https://github.com/JonathanDn/vue-dropdown) ` 🔥 38 `  - A highly dynamic vue dropdown component ` 📝 3 months ago`
-    * [vue-burger-button](https://github.com/VitorLuizC/vue-burger-button) ` 🔥 35 ` ` 🌐 22 ` - vue-burger-button is a functional component, which is faster than a regular component, and is pretty small (JS min+gzip is lower than 700b and CSS min+gzip is lower than 400b). 
-    * [vue-bulma-accordion](https://github.com/Lunrtick/vue-bulma-accordion) ` 🔥 34 `  - A simple, easily configurable accordion or collapsible for Vue, styled with Bulma ` 📝 a year ago`
-    * [vue-simple-menu](https://github.com/RGRU/vue-simple-menu) ` 🔥 31 ` ` 🌐 13 ` - Vue component for fast create simple menu block ` 📝 2 years ago`
-    * [vue-router-nav](https://github.com/classicalconditioning/vue-router-nav) ` 🔥 28 `  - Minimalistic responsive navigation bar that renders routes of vue-router. ` 📝 3 years ago`
-    * [@innologica/vue-dropdown-menu](https://github.com/Innologica/vue-dropdown-menu) ` 🔥 27 ` ` 🌐 46 ` - Dropdown menu component for Vue ` 📝 4 months ago`
-    * [v-dropdown-menu](https://github.com/RadKod/v-dropdown-menu) ` 🔥 13 ` ` 🌐 8 ` - Dropdown menu plugin for vuejs, supported ssr. ` 📝 6 months ago`
-    * [vue-menu-aim](https://github.com/Dimon24021993/vue-menu-aim) ` 🔥 6 `  - menu with triangle, for vue (: 
-    * [@satmaxt/sidebar-menu-drawer](https://github.com/satriaajiputra/sidebar-menu-drawer) ` 🔥 6 ` ` 🌐 6 ` - A Vue component sidebar menu drawer ` 📝 7 months ago`
+    * [vue-accordion](https://github.com/zeratulmdq/vue-accordion)   
+    * [vue-js-dropdown](https://github.com/euvl/vue-js-dropdown)   
+    * [vue-slideout](https://github.com/vouill/vue-slideout)   
+    * [vue-quick-menu](https://github.com/AshleyLv/vue-quick-menu)   
+    * [@hscmap/vue-menu](https://github.com/michitaro/vue-menu)   
+    * [vue-router-nav](https://github.com/classicalconditioning/vue-router-nav)   
+    * [vue-drawer-layout](https://github.com/hjl19911127/vue-drawer-layout)   
+    * [vue-simple-menu](https://github.com/RGRU/vue-simple-menu)   
+    * [vue-tree-navigation](https://github.com/MisRob/vue-tree-navigation)   
+    * [bp-vuejs-dropdown](https://github.com/borisbutenko/bp-vuejs-dropdown)   
+    * [vue-bulma-accordion](https://github.com/Lunrtick/vue-bulma-accordion)   
+    * [v-selectmenu](https://github.com/TerryZ/v-selectmenu)   
+    * [vue-burger-menu](https://github.com/mbj36/vue-burger-menu)   
+    * [vue-dynamic-dropdown](https://github.com/JonathanDn/vue-dropdown)   
+    * [@innologica/vue-dropdown-menu](https://github.com/Innologica/vue-dropdown-menu)   
+    * [vue-menu-aim](https://github.com/Dimon24021993/vue-menu-aim)   
+    * [vue-stripe-menu](https://github.com/Alexeykhr/vue-stripe-menu)   
+    * [vue-burger-button](https://github.com/VitorLuizC/vue-burger-button)   
+    * [@satmaxt/sidebar-menu-drawer](https://github.com/satriaajiputra/sidebar-menu-drawer)   
+    * [vue-file-toolbar-menu](https://github.com/motla/vue-file-toolbar-menu)   
+    * [v-dropdown-menu](https://github.com/RadKod/v-dropdown-menu)   
   
 * #### Minus Plus Input [🔝](#readme)
 
-    * [vue-numeric-input](https://github.com/JayeshLab/vue-numeric-input) ` 🔥 63 ` ` 🌐 137 ` - Number input component with controls ` 📝 a year ago`
-    * [vue-integer-plusminus](https://github.com/Keiwen/vue-integer-plusminus) ` 🔥 14 ` ` 🌐 34 ` - Integer input with increment and decrement buttons for vue 2 - https://keiwen.github.io/vue-integer-plusminus/ ` 📝 a month ago`
-    * [minus-plus-input](https://github.com/manju16832003/v-minusplusinput) ` 🔥 12 `  - A number input with plus and minus buttons, as a Vue component. ` 📝 3 years ago`
+    * [minus-plus-input](https://github.com/manju16832003/v-minusplusinput)   
+    * [vue-integer-plusminus](https://github.com/Keiwen/vue-integer-plusminus)   
+    * [vue-numeric-input](https://github.com/JayeshLab/vue-numeric-input)   
   
 * #### Carousel [🔝](#readme)
 
-    * [swiper](https://github.com/nolimits4web/swiper) ` 🔥 26k ` ` 🌐 119k ` - Most modern mobile touch slider with hardware accelerated transitions ` 📝 11 hours ago`
-    * [vue-awesome-swiper](https://github.com/surmon-china/vue-awesome-swiper) ` 🔥 11.1k ` ` 🌐 35.4k ` - Swiper component for @vuejs ` 📝 4 months ago`
-    * [vue-carousel](https://github.com/SSENSE/vue-carousel) ` 🔥 1.5k ` ` 🌐 6.6k ` - A flexible, responsive, touch-friendly carousel for Vue.js ` 📝 2 years ago`
-    * [vue-agile](https://github.com/lukaszflorczak/vue-agile) ` 🔥 1.1k ` ` 🌐 1k ` - A carousel component for Vue.js ` 📝 4 months ago`
-    * [vue-carousel-3d](https://github.com/wlada/vue-carousel-3d) ` 🔥 762 ` ` 🌐 1.3k ` - Vue Carousel 3D - Beautiful, flexible and touch supported 3D Carousel for Vue.js ` 📝 4 months ago`
+    * [swiper](https://github.com/nolimits4web/swiper) ` 🔥 26k ` ` 🌐 119k ` - Most modern mobile touch slider with hardware accelerated transitions ` 📝 a day ago`
     * [Hooper](https://github.com/baianat/hooper) ` 🔥 553 ` ` 🌐 1.1k ` - A customizable accessible carousel slider optimized for Vue ` 📝 a year ago`
-    * [vue-slick](https://github.com/staskjs/vue-slick) ` 🔥 544 ` ` 🌐 2.1k ` - Vue component for Slick-carousel (http://kenwheeler.github.io/slick) ` 📝 8 months ago`
     * [vue-slick-carousel](https://github.com/gs-shop/vue-slick-carousel) ` 🔥 409 ` ` 🌐 1.1k ` - Vue Slick Carousel with True SSR Written for Faster Luxstay ` 📝 7 months ago`
     * [vue-flux](https://github.com/deulos/vue-flux) ` 🔥 350 ` ` 🌐 253 ` - Image slider which comes with 20 cool transitions ` 📝 3 months ago`
-    * [vue-flickity](https://github.com/drewjbartlett/vue-flickity) ` 🔥 336 ` ` 🌐 750 ` - A Vue Slider / Carousel Component for Flickity.js ` 📝 a year ago`
-    * [vue-easy-slider](https://github.com/shhdgit/vue-easy-slider) ` 🔥 310 ` ` 🌐 490 ` - Slider Component of Vue.js. ` 📝 3 months ago`
     * [vue-picture-swipe](https://github.com/rap2hpoutre/vue-picture-swipe) ` 🔥 308 ` ` 🌐 161 ` - Vue Picture Swipe Gallery (a gallery of image with thumbnails, lazy-load and swipe) backed by photoswipe ` 📝 3 months ago`
     * [vueper-slides](https://github.com/antoniandre/vueper-slides) ` 🔥 307 ` ` 🌐 593 ` - A touch ready and responsive slideshow / carousel for Vue & Vue 3. ` 📝 2 months ago`
     * [vue-glide](https://github.com/antonreshetov/vue-glide) ` 🔥 220 ` ` 🌐 300 ` - A slider and carousel as vue component on top of the Glide.js ` 📝 a year ago`
-    * [vue-tiny-slider](https://github.com/viktorlarsson/vue-tiny-slider) ` 🔥 129 `  - Vanilla javascript slider for all purposes created by ganlanyuan in Vue. 
     * [vue-owl-carousel](https://github.com/s950329/vue-owl-carousel) ` 🔥 121 ` ` 🌐 1.6k ` - Vue component for Owl Carousel 2 ` 📝 2 years ago`
-    * [vue-coverflow](https://github.com/OrangeXC/vue-coverflow) ` 🔥 103 ` ` 🌐 100 ` - Vue coverflow component(vue) ` 📝 13 days ago`
     * [vue-piece-slider](https://github.com/dreambo8563/vue-piece-slider) ` 🔥 89 `  - animated slides in a fragmented look ` 📝 a year ago`
-    * [vue2-text-swimlane](https://github.com/mubaidr/vue-swimlane) ` 🔥 73 ` ` 🌐 18 ` - A Text Swimlane plugin for Vue.js ` 📝 20 days ago`
-    * [vue-pswipe](https://github.com/GuoQichen/vue-pswipe) ` 🔥 64 ` ` 🌐 110 ` - Easy to use, no need to set size, support rotation, photoswipe based vue swipe plugin ` 📝 2 days ago`
+    * [vue2-text-swimlane](https://github.com/mubaidr/vue-swimlane) ` 🔥 73 ` ` 🌐 18 ` - A Text Swimlane plugin for Vue.js ` 📝 21 days ago`
+    * [vue-pswipe](https://github.com/GuoQichen/vue-pswipe) ` 🔥 64 ` ` 🌐 110 ` - Easy to use, no need to set size, support rotation, photoswipe based vue swipe plugin ` 📝 3 days ago`
     * [vue-netflix-slider](https://github.com/fanyeh/vue-slider) ` 🔥 56 `  - A Netflix like slider developed using Vuejs 
-    * [vue-l-carousel](https://github.com/lsycxyj/vue-l-carousel) ` 🔥 55 ` ` 🌐 73 ` - A responsive carousel(namely slider or swiper) component for Vue.js v2.x+. ` 📝 3 years ago`
     * [vue-snap](https://github.com/bartdominiak/vue-snap) ` 🔥 52 ` ` 🌐 16 ` - Lightweight Carousel based on CSS Scroll Snapping (Vue 2/3) ` 📝 2 months ago`
     * [vue2-siema](https://github.com/sainf/vue2-siema) ` 🔥 47 ` ` 🌐 70 ` - A vue 2 plugin wrapper for the great siema carousel ` 📝 2 years ago`
-    * [vue-lory](https://github.com/vue-bulma/lory) ` 🔥 44 `  - Vue Slider Component is based on lory 
     * [Lingallery](https://github.com/ChristophAnastasiades/Lingallery) ` 🔥 43 ` ` 🌐 118 ` - Lingallery is a simple image gallery component for Vue.js ` 📝 3 months ago`
     * [vue-splide](https://github.com/Splidejs/vue-splide) ` 🔥 38 ` ` 🌐 137 ` - The Splide component for Vue. ` 📝 5 months ago`
     * [vuerollr](https://github.com/japick/vuerollr) ` 🔥 15 `  - Mouseover gallery plugin for Vue.js 
@@ -1366,56 +1355,68 @@ Original Data from [Awesome Vue](https://github.com/vuejs/awesome-vue/blob/maste
     * [vue-cat-carousel](https://github.com/hanssagita/vue-cat-carousel) ` 🔥 7 ` ` 🌐 4 ` - Lightweight,Simple and custom-able Vue Carousel ` 📝 5 months ago`
     * [vue2-photo-carousel](https://github.com/leepyng/vue2-photo-carousel) ` 🔥 1 `  - A component for photo carousel ` 📝 2 years ago`
     * [@jfm/vue-carousel](https://github.com/jiangfengming/vue-carousel) ` 🔥 1 `  - A Vue carousel component 
+    * [vue-easy-slider](https://github.com/shhdgit/vue-easy-slider)   
+    * [vue-l-carousel](https://github.com/lsycxyj/vue-l-carousel)   
+    * [vue-awesome-swiper](https://github.com/surmon-china/vue-awesome-swiper)   
+    * [vue-lory](https://github.com/vue-bulma/lory)   
+    * [vue-slick](https://github.com/staskjs/vue-slick)   
+    * [vue-flickity](https://github.com/drewjbartlett/vue-flickity)   
+    * [vue-carousel-3d](https://github.com/wlada/vue-carousel-3d)   
+    * [vue-carousel](https://github.com/SSENSE/vue-carousel)   
+    * [vue-coverflow](https://github.com/OrangeXC/vue-coverflow)   
+    * [vue-agile](https://github.com/lukaszflorczak/vue-agile)   
+    * [vue-tiny-slider](https://github.com/viktorlarsson/vue-tiny-slider)   
     * [@egjs/vue-flicking](https://github.com/naver/egjs-flicking/tree/master/packages/vue-flicking)   
   
 * #### Charts [🔝](#readme)
 
+    * [v-charts](https://github.com/ElemeFE/v-charts) ` 🔥 6.3k ` ` 🌐 6.3k ` - 基于 Vue2.0 和 ECharts 封装的图表组件 ` 📝 2 years ago`
     * [vue-echarts](https://github.com/Justineo/vue-echarts) ` 🔥 5.5k ` ` 🌐 7.7k ` - Apache ECharts (incubating) component for Vue.js. ` 📝 5 months ago`
     * [vue-chartjs](https://github.com/apertureless/vue-chartjs) ` 🔥 4.1k ` ` 🌐 22.5k ` - Vue.js wrapper for Chart.js ` 📝 2 months ago`
     * [vuetrend](https://github.com/QingWei-Li/vue-trend) ` 🔥 1.1k ` ` 🌐 848 ` - Simple, elegant spark lines for Vue.js ` 📝 7 months ago`
+    * [vue-echarts-v3](https://github.com/xlsdg/vue-echarts-v3) ` 🔥 883 ` ` 🌐 1.3k ` - Vue.js(v2.x+) component wrap for ECharts.js(v3.x+) ` 📝 4 months ago`
+    * [vue-apexcharts](https://github.com/apexcharts/vue-apexcharts) ` 🔥 864 ` ` 🌐 5k ` - Vue.js component for ApexCharts ` 📝 5 months ago`
+    * [vue-chartkick](https://github.com/ankane/vue-chartkick) ` 🔥 662 ` ` 🌐 2.2k ` - Create beautiful JavaScript charts with one line of Vue ` 📝 6 months ago`
+    * [vuebars](https://github.com/DeviaVir/vue-bar) ` 🔥 408 ` ` 🌐 231 ` - Simple, elegant spark bars for Vue.js ` 📝 a month ago`
+    * [vue-d3-network](https://github.com/emiliorizzo/vue-d3-network) ` 🔥 407 ` ` 🌐 279 ` - Vue component to graph networks using d3-force ` 📝 a year ago`
+    * [vue-highcharts](https://github.com/weizhenye/vue-highcharts) ` 🔥 399 ` ` 🌐 989 ` - Highcharts component for Vue ` 📝 4 months ago`
     * [hchs-vue-charts](https://github.com/hchstera/vue-charts) ` 🔥 369 ` ` 🌐 896 ` - Base on Vue2.0 wrapper for ChartJs. (Deprecated) ` 📝 9 months ago`
+    * [vue-google-charts](https://github.com/devstark-com/vue-google-charts) ` 🔥 337 ` ` 🌐 1.7k ` - Reactive Vue.js wrapper for Google Charts lib ` 📝 7 months ago`
     * [vue-morris](https://github.com/bbonnin/vue-morris) ` 🔥 210 ` ` 🌐 315 ` - VueJS component wrapping Morris.js ` 📝 a year ago`
-    * [vue-highcharts](https://github.com/weizhenye/vue-highcharts)   
-    * [vue-echarts-v3](https://github.com/xlsdg/vue-echarts-v3)   
-    * [vue-chartist](https://github.com/lakb248/vue-chartist)   
-    * [vuebars](https://github.com/DeviaVir/vue-bar)   
-    * [vue-d3-network](https://github.com/emiliorizzo/vue-d3-network)   
-    * [vue2vis](https://github.com/alexcode/vue2vis)   
-    * [vue-c3](https://github.com/chryb/vue-c3)   
-    * [vue-d2b](https://github.com/d2bjs/vue-d2b)   
-    * [VueChart](https://github.com/SeregPie/VueChart)   
-    * [vue-chartkick](https://github.com/ankane/vue-chartkick)   
-    * [d3vue](https://github.com/ignoreintuition/d3vue)   
-    * [vue2-frappe](https://github.com/JustSteveKing/vue2-frappe)   
-    * [vue-google-charts](https://github.com/devstark-com/vue-google-charts)   
-    * [vue-graph](https://github.com/juijs/vue-graph)   
-    * [vue.d3.sunburst](https://github.com/David-Desmaisons/Vue.D3.sunburst)   
-    * [v-chart-plugin](https://github.com/ignoreintuition/v-chart-plugin)   
+    * [vue-trend-chart](https://github.com/dmtrbrl/vue-trend-chart) ` 🔥 210 `  - Simple trend charts for Vue.js ` 📝 2 months ago`
+    * [vue2vis](https://github.com/alexcode/vue2vis) ` 🔥 196 ` ` 🌐 152 ` - A Vuejs 2 adapter for Visjs ` 📝 2 months ago`
+    * [v-chart-plugin](https://github.com/ignoreintuition/v-chart-plugin) ` 🔥 186 ` ` 🌐 52 ` - Easily bind a chart to the data stored in your Vue.js components. ` 📝 a year ago`
+    * [vue-funnel-graph-js](https://github.com/greghub/vue-funnel-graph-js) ` 🔥 165 ` ` 🌐 34 ` - Vue.js component drawing SVG Funnel Graphs ` 📝 a year ago`
+    * [vue2-frappe](https://github.com/JustSteveKing/vue2-frappe) ` 🔥 143 ` ` 🌐 109 ` - A Vue 2 integration using Frappe Charts ` 📝 3 months ago`
+    * [vue-plotly](https://github.com/David-Desmaisons/vue-plotly) ` 🔥 136 ` ` 🌐 205 ` - vue wrapper for plotly.js ` 📝 a year ago`
+    * [flowchart-vue](https://github.com/joyceworks/flowchart-vue) ` 🔥 113 `  - Flowchart & designer component for Vue.js. ` 📝 19 days ago`
+    * [vue-graph](https://github.com/juijs/vue-graph) ` 🔥 110 ` ` 🌐 142 ` - Vue components based on the JUI chart available in Vue.js 
+    * [vue-css-donut-chart](https://github.com/dumptyd/vue-css-donut-chart) ` 🔥 103 ` ` 🌐 186 ` - Lightweight Vue component for drawing pure CSS donut charts ` 📝 10 months ago`
+    * [d3vue](https://github.com/ignoreintuition/d3vue) ` 🔥 86 `  - A D3 Plugin for VueJS 
+    * [vue-c3](https://github.com/chryb/vue-c3) ` 🔥 75 `  - vue-c3 is a reusable vue component for c3 charts ` 📝 2 years ago`
+    * [toast-ui.vue-chart](https://github.com/nhnent/toast-ui.vue-chart) ` 🔥 51 ` ` 🌐 45 ` - Toast UI Chart for Vue ` 📝 2 years ago`
+    * [pure-vue-chart](https://github.com/djaxho/pure-vue-chart) ` 🔥 50 ` ` 🌐 62 ` - Simple and lightweight vue chart component without using chart library dependencies ` 📝 9 months ago`
+    * [vue.d3.sunburst](https://github.com/David-Desmaisons/Vue.D3.sunburst) ` 🔥 49 ` ` 🌐 35 ` - Vue sunburst component based on D3.js ` 📝 3 months ago`
+    * [vue-chartist](https://github.com/lakb248/vue-chartist) ` 🔥 40 `  - A component of Chartist implement by vuejs 2.0 
+    * [vgauge](https://github.com/amroessam/vgauge) ` 🔥 39 ` ` 🌐 26 ` - A wrapper library for GaugeJS 
+    * [vue-d2b](https://github.com/d2bjs/vue-d2b) ` 🔥 37 `  - Vue components for d2b charts. 
+    * [vue-doughnut-chart](https://github.com/mazipan/vue-doughnut-chart) ` 🔥 29 ` ` 🌐 48 ` - Doughnut chart component for Vue.js, originally created by Greg Willson ` 📝 a month ago`
+    * [echarts-for-vue](https://github.com/ambit-tsai/echarts-for-vue) ` 🔥 29 ` ` 🌐 8 ` - ECharts wrapper component for Vue 3 and 2 
+    * [VueChart](https://github.com/SeregPie/VueChart) ` 🔥 24 `  - A simple wrapper for Chart. 
+    * [vueplotlib](https://github.com/keller-mark/vueplotlib) ` 🔥 23 ` ` 🌐 1 ` - Declarative, interactive, linked  components ` 📝 8 months ago`
+    * [ZingChart-Vue](https://github.com/zingchart/zingchart-vue) ` 🔥 19 ` ` 🌐 62 ` - A Vue component to create charts with ZingChart ` 📝 4 months ago`
+    * [jscharting-vue](https://github.com/jscharting/jscharting-vue) ` 🔥 17 ` ` 🌐 14 ` - Official JSCharting Vue.js Plugin & Examples ` 📝 3 days ago`
+    * [vue3-highcharts](https://github.com/smithalan92/vue3-highcharts) ` 🔥 15 ` ` 🌐 5 ` - Vue 3 component wrapper for Highcharts.js ` 📝 7 days ago`
+    * [vue-d3-barchart](https://github.com/emiliorizzo/vue-d3-barchart) ` 🔥 12 ` ` 🌐 12 ` - Vue component to draw bar charts with d3 v4 ` 📝 7 months ago`
+    * [f2-vue](https://github.com/justice47/f2-vue) ` 🔥 9 `  - Vue component for elegant, interactive and flexible mobile chart library 
+    * [vue-gauge](https://github.com/chrisheanan/vue-gauge) ` 🔥 1 ` ` 🌐 2 ` - This is a Vue JS component plugin to create gauge charts ` 📝 2 months ago`
     * [vue-jqxchart](https://github.com/jqwidgets/vue/tree/master/chart)   
-    * [toast-ui.vue-chart](https://github.com/nhnent/toast-ui.vue-chart)   
-    * [vue-apexcharts](https://github.com/apexcharts/vue-apexcharts)   
-    * [vue-doughnut-chart](https://github.com/mazipan/vue-doughnut-chart)   
-    * [v-charts](https://github.com/ElemeFE/v-charts)   
-    * [vue-css-donut-chart](https://github.com/dumptyd/vue-css-donut-chart)   
-    * [vue-trend-chart](https://github.com/dmtrbrl/vue-trend-chart)   
-    * [vueplotlib](https://github.com/keller-mark/vueplotlib)   
-    * [vgauge](https://github.com/amroessam/vgauge)   
-    * [vue-plotly](https://github.com/David-Desmaisons/vue-plotly)   
-    * [vue-funnel-graph-js](https://github.com/greghub/vue-funnel-graph-js)   
-    * [pure-vue-chart](https://github.com/djaxho/pure-vue-chart)   
-    * [f2-vue](https://github.com/justice47/f2-vue)   
-    * [ZingChart-Vue](https://github.com/zingchart/zingchart-vue)   
-    * [jscharting-vue](https://github.com/jscharting/jscharting-vue)   
-    * [flowchart-vue](https://github.com/joyceworks/flowchart-vue)   
-    * [vue-d3-barchart](https://github.com/emiliorizzo/vue-d3-barchart)   
-    * [vue3-highcharts](https://github.com/smithalan92/vue3-highcharts)   
-    * [echarts-for-vue](https://github.com/ambit-tsai/echarts-for-vue)   
-    * [vue3-chart-v2](https://github.com/vutran6853/vue3-chart-v2)   
-    * [vue-gauge](https://github.com/chrisheanan/vue-gauge)   
+    * [vue3-chart-v2](https://github.com/vutran6853/vue3-chart-v2) ` 🔥 0 ` ` 🌐 1 ` - vue3-chart-v2 is a wrapper for Chart.js in vue 3. You can easily create reuseable chart components. Inspired by vue-chartjs ` 📝 6 days ago`
   
 * #### Time [🔝](#readme)
 
     * [vue-moment](https://github.com/brockpetrie/vue-moment) ` 🔥 1.2k ` ` 🌐 13.1k ` - Handy Moment.js filters for your Vue.js project. ` 📝 a year ago`
+    * [vue-timeago](https://github.com/egoist/vue-timeago) ` 🔥 723 ` ` 🌐 1.2k ` - A timeago component for Vue. ` 📝 2 days ago`
     * [vue-awesome-countdown](https://github.com/mlinquan/vue-awesome-countdown) ` 🔥 138 ` ` 🌐 169 ` - Countdown plug-in with high performance and high accuracy for [Vue](http://vuejs.org/)2.5.0+. ` 📝 2 months ago`
     * [vue2-flip-countdown](https://github.com/philipjkim/vue2-flip-countdown) ` 🔥 129 ` ` 🌐 205 ` - A countdown timer with flip effect for Vue 2.x ` 📝 a month ago`
     * [vuejs-countdown](https://github.com/getanwar/vuejs-countdown) ` 🔥 95 `  - [ NOT MAINTAINED] A simple countdown timer component for vue js 2.0 ` 📝 3 years ago`
@@ -1431,21 +1432,20 @@ Original Data from [Awesome Vue](https://github.com/vuejs/awesome-vue/blob/maste
     * [v-idle](https://github.com/malekim/v-idle) ` 🔥 11 ` ` 🌐 10 ` - A Vue.js plugin to detect idle/non-active users 
     * [bs-vue-timeline](https://github.com/x10sv/bs-vue-timeline) ` 🔥 8 ` ` 🌐 5 ` - An alternative responsive boostrap-vue timeline ` 📝 2 months ago`
     * [v-digital-time-picker](https://github.com/runyasak/v-digital-time-picker) ` 🔥 7 ` ` 🌐 1 ` - Digital Time Picker for Vuetify ` 📝 7 months ago`
-    * [digital-clock-vue](https://github.com/zkerhcy/digital-clock-vue) ` 🔥 4 ` ` 🌐 5 ` - ️A digital clock simulation build on Vue. ` 📝 24 days ago`
-    * [vue-timeago](https://github.com/egoist/vue-timeago)   
+    * [digital-clock-vue](https://github.com/zkerhcy/digital-clock-vue) ` 🔥 4 ` ` 🌐 5 ` - ️A digital clock simulation build on Vue. ` 📝 25 days ago`
   
 * #### Calendar [🔝](#readme)
 
-    * [v-calendar](https://github.com/nathanreyes/v-calendar) ` 🔥 2.6k ` ` 🌐 2.5k ` - An elegant calendar and datepicker plugin for Vue. ` 📝 4 days ago`
+    * [v-calendar](https://github.com/nathanreyes/v-calendar) ` 🔥 2.6k ` ` 🌐 2.5k ` - An elegant calendar and datepicker plugin for Vue. ` 📝 5 days ago`
     * [vue-fullcalendar](https://github.com/Wanderxx/vue-fullcalendar) ` 🔥 1.4k ` ` 🌐 1.9k ` - vue calendar fullCalendar. no jquery required. Schedule events management ` 📝 4 years ago`
-    * [vue2-datepicker](https://github.com/mengxiong10/vue2-datepicker) ` 🔥 1.1k ` ` 🌐 2.8k ` - A datepicker / datetimepicker component for Vue2 ` 📝 a month ago`
+    * [vue2-datepicker](https://github.com/mengxiong10/vue2-datepicker) ` 🔥 1.1k ` ` 🌐 2.8k ` - A datepicker / datetimepicker component for Vue2 ` 📝 2 months ago`
     * [vue-event-calendar](https://github.com/GeoffZhu/vue-event-calendar) ` 🔥 620 ` ` 🌐 696 ` - A simple events calendar for Vue2, no dependencies except Vue2. ` 📝 3 years ago`
-    * [vue-cal](https://github.com/antoniandre/vue-cal) ` 🔥 618 ` ` 🌐 385 ` - A Vue JS full calendar, no dependency, no BS. ` 📝 20 days ago`
+    * [vue-cal](https://github.com/antoniandre/vue-cal) ` 🔥 618 ` ` 🌐 385 ` - A Vue JS full calendar, no dependency, no BS. ` 📝 21 days ago`
     * [vue-simple-calendar](https://github.com/richardtallent/vue-simple-calendar) ` 🔥 563 ` ` 🌐 1.2k ` - Simple Vue component to show a month-grid calendar with events ` 📝 a month ago`
     * [vue-full-calendar](https://github.com/CroudSupport/vue-fullcalendar) ` 🔥 494 ` ` 🌐 1.1k ` - FullCalendar Wrapper for vue ` 📝 2 years ago`
     * [vue2-slot-calendar](https://github.com/icai/vue2-calendar) ` 🔥 476 ` ` 🌐 84 ` - vue 2.x calendar component ` 📝 2 years ago`
-    * [vue-functional-calendar](https://github.com/ManukMinasyan/vue-functional-calendar) ` 🔥 291 ` ` 🌐 122 ` - Vue.js Functional Calendar | Component/Package ` 📝 23 days ago`
-    * [vue-datepicker-ui](https://github.com/edisdev/vue-datepicker-ui) ` 🔥 247 ` ` 🌐 35 ` - Datepicker Component For Vue ` 📝 9 days ago`
+    * [vue-functional-calendar](https://github.com/ManukMinasyan/vue-functional-calendar) ` 🔥 291 ` ` 🌐 122 ` - Vue.js Functional Calendar | Component/Package ` 📝 24 days ago`
+    * [vue-datepicker-ui](https://github.com/edisdev/vue-datepicker-ui) ` 🔥 247 ` ` 🌐 35 ` - Datepicker Component For Vue ` 📝 10 days ago`
     * [quasar-calendar](https://github.com/stormseed/quasar-calendar) ` 🔥 231 ` ` 🌐 17 ` - A full event display calendar for the Quasar framework that has multiple viewing formats. ` 📝 a year ago`
     * [toast-ui.vue-calendar](https://github.com/nhnent/toast-ui.vue-calendar) ` 🔥 154 ` ` 🌐 104 ` - Toast UI Calendar for Vue ` 📝 a year ago`
     * [vue-tuicalendar](https://github.com/lkmadushan/vue-tuicalendar) ` 🔥 125 ` ` 🌐 38 ` - Vue.js wrapper for TOAST UI Calendar ` 📝 3 years ago`
@@ -1456,7 +1456,7 @@ Original Data from [Awesome Vue](https://github.com/vuejs/awesome-vue/blob/maste
     * [vue2-calendar](https://github.com/Trekels/vue2-calendar) ` 🔥 53 ` ` 🌐 37 ` - A lightweight calendar component for Vue2 
     * [vue-calendar-picker](https://github.com/FranckFreiburger/vue-calendar-picker) ` 🔥 48 ` ` 🌐 28 ` - Calendar component ` 📝 3 years ago`
     * [vue-calendar](https://github.com/kylin-z/vue-calendar) ` 🔥 47 ` ` 🌐 17 ` - A calendar component for Vue.js ` 📝 3 years ago`
-    * [vue-jlunar-datepicker](https://github.com/tuhe32/vue-jLunar-datePicker) ` 🔥 45 ` ` 🌐 23 ` - VUE chinese-lunar date-picker component with festivals and solar terms ` 📝 a month ago`
+    * [vue-jlunar-datepicker](https://github.com/tuhe32/vue-jLunar-datePicker) ` 🔥 45 ` ` 🌐 23 ` - VUE chinese-lunar date-picker component with festivals and solar terms ` 📝 2 months ago`
     * [vue-pikaday](https://github.com/enrian/vue-pikaday) ` 🔥 38 ` ` 🌐 3 ` - VueJS wrapper component for Pikaday datepicker ` 📝 a month ago`
     * [vue-spring-calendar](https://github.com/boussadjra/vue-spring-calendar) ` 🔥 24 `  - Full Calendar based on Vue.js 
     * [vue2-datePicker-infinite](https://github.com/leepyng/vue-datepicker-infinite) ` 🔥 16 `  - easy datepicker of a vue 2.0 component ` 📝 a year ago`
@@ -1471,27 +1471,27 @@ Original Data from [Awesome Vue](https://github.com/vuejs/awesome-vue/blob/maste
     * [vue-baidu-map](https://github.com/Dafrok/vue-baidu-map) ` 🔥 2k ` ` 🌐 3.9k ` - Baidu Map components for Vue 2.x ` 📝 3 months ago`
     * [vue2-google-maps](https://github.com/xkjyeah/vue-google-maps) ` 🔥 1.8k `  - Google maps component for vue with 2-way data binding ` 📝 9 months ago`
     * [vue2-leaflet](https://github.com/KoRiGaN/Vue2Leaflet) ` 🔥 1.6k ` ` 🌐 4.2k ` - Vue 2 components for Leaflet maps ` 📝 3 months ago`
+    * [vue-googlemaps](https://github.com/Akryum/vue-googlemaps) ` 🔥 515 ` ` 🌐 301 ` - Integrate Google Maps in your Vue application ` 📝 2 years ago`
+    * [vuelayers](https://github.com/ghettovoice/vuelayers) ` 🔥 511 ` ` 🌐 377 ` - Web map Vue components with the power of OpenLayers ` 📝 a month ago`
+    * [vue-cesium](https://github.com/zouyaoji/vue-cesium) ` 🔥 402 ` ` 🌐 63 ` - Vue 2.x components for CesiumJS. ` 📝 8 days ago`
+    * [vue-mapbox](https://github.com/soal/vue-mapbox) ` 🔥 345 ` ` 🌐 654 ` - Vuejs 2 components for interacting with mapbox-gl-js ` 📝 4 months ago`
     * [vue-yandex-maps](https://github.com/PNKBizz/vue-yandex-map) ` 🔥 279 ` ` 🌐 1.2k ` - Yandex Maps Component for VueJS ` 📝 5 months ago`
     * [vue-mapbox-gl](https://github.com/phegman/vue-mapbox-gl) ` 🔥 239 `  - A Vue.js component for Mapbox GL JS 
+    * [vue2-gmap-custom-marker](https://github.com/eregnier/vue2-gmap-custom-marker) ` 🔥 117 ` ` 🌐 184 ` - vue google map custom marker component ` 📝 2 months ago`
     * [vue-choropleth](https://github.com/voluntadpear/vue-choropleth) ` 🔥 103 `  - Choropleth Map component for Vue.js 
-    * [vuelayers](https://github.com/ghettovoice/vuelayers)   
-    * [vue-googlemaps](https://github.com/Akryum/vue-googlemaps)   
-    * [vue-static-map](https://github.com/eperedo/vue-static-map)   
-    * [vue-mapbox](https://github.com/soal/vue-mapbox)   
-    * [vue-cesium](https://github.com/zouyaoji/vue-cesium)   
-    * [vue-async-gmaps](https://github.com/vanderb/vue-async-gmaps)   
-    * [@geospoc/v-mapbox](https://github.com/geospoc/v-mapbox)   
-    * [@geospoc/v-mapbox-geocoder](https://github.com/geospoc/v-mapbox-geocoder)   
-    * [x5-gmaps](https://github.com/xon52/x5-gmaps)   
-    * [vue2-gmap-custom-marker](https://github.com/eregnier/vue2-gmap-custom-marker)   
+    * [x5-gmaps](https://github.com/xon52/x5-gmaps) ` 🔥 65 ` ` 🌐 74 ` - A lightweight Google Maps plugin for Vue ` 📝 a month ago`
+    * [@geospoc/v-mapbox](https://github.com/geospoc/v-mapbox) ` 🔥 28 ` ` 🌐 12 ` - A cloned & maintained version of vue-mapbox ` 📝 a day ago`
+    * [vue-static-map](https://github.com/eperedo/vue-static-map) ` 🔥 20 ` ` 🌐 40 ` - a simple component to generate an static google map ` 📝 2 years ago`
+    * [@geospoc/v-mapbox-geocoder](https://github.com/geospoc/v-mapbox-geocoder) ` 🔥 6 `  - Wrapper for vue-mapbox-geocoder ` 📝 a day ago`
+    * [vue-async-gmaps](https://github.com/vanderb/vue-async-gmaps) ` 🔥 3 `  - Load google maps with privacy 
   
 * #### Audio / Video [🔝](#readme)
 
     * [vue-plyr](https://github.com/redxtech/vue-plyr) ` 🔥 517 ` ` 🌐 932 ` - A Vue component for the plyr (https://github.com/sampotts/plyr) video & audio player. ` 📝 3 months ago`
     * [vue-audio-recorder](https://github.com/grishkovelli/vue-audio-recorder) ` 🔥 357 ` ` 🌐 129 ` - A simple audio recorder for VueJS applications ` 📝 10 months ago`
     * [vue-core-video-player](https://github.com/core-player/vue-core-video-player) ` 🔥 148 ` ` 🌐 201 ` - A Lightweight Video Player For Vue.js. ` 📝 a month ago`
-    * [vue-responsive-video-background-player](https://github.com/avidofood/vue-responsive-video-background-player) ` 🔥 98 ` ` 🌐 119 ` - Play your own videos in background responsively in different resolutions. ` 📝 23 days ago`
-    * [vue-use-sound](https://github.com/Tahul/vue-use-sound) ` 🔥 67 ` ` 🌐 0 ` - A Vue composable for playing sound effects. ` 📝 3 days ago`
+    * [vue-responsive-video-background-player](https://github.com/avidofood/vue-responsive-video-background-player) ` 🔥 98 ` ` 🌐 119 ` - Play your own videos in background responsively in different resolutions. ` 📝 24 days ago`
+    * [vue-use-sound](https://github.com/Tahul/vue-use-sound) ` 🔥 67 ` ` 🌐 0 ` - A Vue composable for playing sound effects. ` 📝 4 days ago`
     * [vue-audio-better](https://github.com/forijk/vue-audio-better) ` 🔥 53 ` ` 🌐 40 ` - Easy to create custom audio player components for Vue. 一个有灵魂的进度条。 A progress bar with soul. ` 📝 7 months ago`
     * [vue-video-section](https://github.com/johndatserakis/vue-video-section) ` 🔥 25 ` ` 🌐 32 ` - A simple video header/section component for Vue. Good for video backgrounds and overlaying content on them. ` 📝 2 years ago`
     * [vue-waveform](https://github.com/chenqiaoen521/vue-waveform) ` 🔥 22 ` ` 🌐 2 ` - waveform wavesurfer -waveform js html 音频audio波形图 ` 📝 4 months ago`
@@ -1499,7 +1499,7 @@ Original Data from [Awesome Vue](https://github.com/vuejs/awesome-vue/blob/maste
     * [v-playback](https://github.com/TerryZ/v-playback) ` 🔥 19 ` ` 🌐 32 ` - A Vue2 plugin to make video play easier ` 📝 8 months ago`
     * [vue-sounds](https://github.com/redcodemohammed/vue-sounds) ` 🔥 9 `  - A Vue.js plugin to play sounds. 
     * [vue-h5-audio-controls](https://github.com/cycjimmy/vue-h5-audio-controls) ` 🔥 7 ` ` 🌐 1 ` - A simple h5 music controller for vue ` 📝 3 months ago`
-    * [xns-audio-player-simple](https://github.com/xinnks/xns-audio-player-simple) ` 🔥 7 ` ` 🌐 2 ` - xns-audio-player vue plugin with a simple ui ` 📝 4 days ago`
+    * [xns-audio-player-simple](https://github.com/xinnks/xns-audio-player-simple) ` 🔥 7 ` ` 🌐 2 ` - xns-audio-player vue plugin with a simple ui ` 📝 5 days ago`
     * [vue-soundcloud-player](https://github.com/matswainson/vue-soundcloud-player) ` 🔥 3 `  - Custom Soundcloud player for Vue, supporting single tracks & playlists ` 📝 4 months ago`
     * [Vue-APlayer](https://github.com/SevenOutman/vue-aplayer)   
     * [vue-audio](https://github.com/shershen08/vuejs-sound-player)   
@@ -1529,15 +1529,15 @@ Original Data from [Awesome Vue](https://github.com/vuejs/awesome-vue/blob/maste
   
 * #### Markdown [🔝](#readme)
 
-    * [vue-mavonEditor](https://github.com/hinesboy/mavonEditor) ` 🔥 4.5k ` ` 🌐 9.5k ` - mavonEditor - A markdown editor based on Vue that supports a variety of personalized features ` 📝 19 days ago`
+    * [vue-mavonEditor](https://github.com/hinesboy/mavonEditor) ` 🔥 4.5k ` ` 🌐 9.5k ` - mavonEditor - A markdown editor based on Vue that supports a variety of personalized features ` 📝 20 days ago`
     * [vue-markdown](https://github.com/miaolz123/vue-markdown) ` 🔥 1.6k ` ` 🌐 4.3k ` - A Powerful and Highspeed Markdown Parser for Vue ` 📝 2 years ago`
-    * [vue-simplemde](https://github.com/F-loat/vue-simplemde) ` 🔥 723 ` ` 🌐 3.1k ` - Vue SimpleMDE - use simplemde with vue.js ` 📝 4 days ago`
+    * [vue-simplemde](https://github.com/F-loat/vue-simplemde) ` 🔥 723 ` ` 🌐 3.1k ` - Vue SimpleMDE - use simplemde with vue.js ` 📝 5 days ago`
     * [vue-simple-markdown](https://github.com/Vivify-Ideas/vue-simple-markdown) ` 🔥 73 ` ` 🌐 252 ` - A Simple and Highspeed Markdown Parser for Vue ` 📝 8 months ago`
   
 * #### PDF [🔝](#readme)
 
     * [vue-pdf](https://github.com/FranckFreiburger/vue-pdf) ` 🔥 1.4k ` ` 🌐 2.5k ` - vue.js pdf viewer ` 📝 3 months ago`
-    * [pdfvuer](https://github.com/arkokoley/pdfvuer) ` 🔥 425 ` ` 🌐 240 ` - A PDF viewer for Vue using Mozilla's PDF.js ` 📝 25 days ago`
+    * [pdfvuer](https://github.com/arkokoley/pdfvuer) ` 🔥 425 ` ` 🌐 240 ` - A PDF viewer for Vue using Mozilla's PDF.js ` 📝 a month ago`
   
 * #### Tree [🔝](#readme)
 
@@ -1551,7 +1551,7 @@ Original Data from [Awesome Vue](https://github.com/vuejs/awesome-vue/blob/maste
     * [vue-tree-list](https://github.com/ParadeTo/vue-tree-list) ` 🔥 259 ` ` 🌐 125 ` - A vue component for tree structure ` 📝 2 months ago`
     * [vuejs-tree](https://github.com/scalia/vuejs-tree) ` 🔥 205 ` ` 🌐 44 ` - A highly customizable and blazing fast Vue tree component ` 📝 a month ago`
     * [object-visualizer](https://github.com/iendeavor/object-visualizer) ` 🔥 152 ` ` 🌐 2 ` - Vue JSON inspector with Chrome-like theme. ` 📝 a month ago`
-    * [plantain-00/tree-component](https://github.com/plantain-00/tree-component) ` 🔥 138 ` ` 🌐 15 ` - A reactjs and vuejs tree component. ` 📝 6 days ago`
+    * [plantain-00/tree-component](https://github.com/plantain-00/tree-component) ` 🔥 138 ` ` 🌐 15 ` - A reactjs and vuejs tree component. ` 📝 7 days ago`
     * [vue-finder](https://github.com/jledentu/vue-finder) ` 🔥 81 ` ` 🌐 1 ` - A Vue.js component to display hierarchical data (like the MacOS X finder) ` 📝 3 months ago`
     * [he-tree-vue](https://github.com/phphe/he-tree-vue) ` 🔥 62 ` ` 🌐 35 ` - A draggable sortable vue tree component, with dragging placeholder, types definition. ` 📝 a month ago`
     * [vue-json-component](https://github.com/tylerkrupicka/vue-json-component) ` 🔥 62 ` ` 🌐 70 ` - Component for rendering a tree view of JSON. ` 📝 a year ago`
@@ -1562,12 +1562,12 @@ Original Data from [Awesome Vue](https://github.com/vuejs/awesome-vue/blob/maste
 * #### Graph [🔝](#readme)
 
     * [vue-pipeline](https://github.com/jinfang134/vue-pipeline) ` 🔥 154 ` ` 🌐 11 ` - A pipeline component like jenkins blue ocean plugin. ` 📝 a month ago`
-    * [vnodes](https://github.com/txlabs/vnodes) ` 🔥 1 `  - Vue node based svg visual graphs ` 📝 13 days ago`
+    * [vnodes](https://github.com/txlabs/vnodes) ` 🔥 1 `  - Vue node based svg visual graphs ` 📝 14 days ago`
   
 * #### Social Sharing [🔝](#readme)
 
     * [vue-social-sharing](https://github.com/nicolasbeauvais/vue-social-sharing) ` 🔥 1k ` ` 🌐 2.7k ` - A renderless Vue.js component for sharing links to social networks, compatible with SSR ` 📝 2 months ago`
-    * [vue-goodshare](https://github.com/koddr/vue-goodshare) ` 🔥 340 ` ` 🌐 188 ` - Vue.js component for social share. A simple way to share a link on the pages of your website in the most popular (and not so) social networks. Powered by goodshare.js project. ` 📝 10 days ago`
+    * [vue-goodshare](https://github.com/koddr/vue-goodshare) ` 🔥 340 ` ` 🌐 188 ` - Vue.js component for social share. A simple way to share a link on the pages of your website in the most popular (and not so) social networks. Powered by goodshare.js project. ` 📝 11 days ago`
     * [vue-socialmedia-share](https://github.com/mbj36/vue-socialmedia-share) ` 🔥 58 ` ` 🌐 178 ` - Vue component for social sharing of links - https://codesandbox.io/s/kk0mqj11lv ` 📝 3 years ago`
     * [vuesocial](https://github.com/growthbunker/vuesocial) ` 🔥 37 ` ` 🌐 16 ` - One easy-to-use button component for Vue.js with 65+ social networks. ` 📝 a month ago`
     * [vue-share-buttons](https://github.com/Alexandrshy/vue-share-buttons) ` 🔥 32 ` ` 🌐 81 ` - A set of social buttons for Vue.js ` 📝 7 months ago`
@@ -1584,7 +1584,7 @@ Original Data from [Awesome Vue](https://github.com/vuejs/awesome-vue/blob/maste
   
 * #### Search [🔝](#readme)
 
-    * [reactivesearch-vue](https://github.com/appbaseio/reactivesearch) ` 🔥 4.3k ` ` 🌐 929 ` - React, React Native and Vue UI components for building data-driven apps with Elasticsearch ` 📝 7 days ago`
+    * [reactivesearch-vue](https://github.com/appbaseio/reactivesearch) ` 🔥 4.3k ` ` 🌐 929 ` - React, React Native and Vue UI components for building data-driven apps with Elasticsearch ` 📝 8 days ago`
     * [vue-innersearch](https://github.com/InnerSearch/vue-innersearch) ` 🔥 133 ` ` 🌐 10 ` - UI components built with Vue.js for ElasticSearch ` 📝 3 years ago`
     * [vue-search-panel](https://github.com/TheoXiong/vue-search-panel) ` 🔥 22 ` ` 🌐 3 ` - A search component with suggestions, customizable and extendable. ` 📝 2 years ago`
     * [vue-fuse](https://github.com/shayneo/vue-fuse)   
@@ -1594,58 +1594,27 @@ Original Data from [Awesome Vue](https://github.com/vuejs/awesome-vue/blob/maste
 
     * [tsParticles](https://github.com/matteobruni/tsparticles) ` 🔥 1.5k ` ` 🌐 1.6k ` - tsParticles - Easily create highly customizable particles animations and use them as animated backgrounds for your website. Ready to use components available for React, Vue.js (2.x and 3.x), Angular, Svelte, jQuery, Preact, Inferno. ` 📝 2 months ago`
     * [vue-clipboard2](https://github.com/Inndy/vue-clipboard2) ` 🔥 1.4k ` ` 🌐 11.8k ` - A simple vue2 binding to clipboard.js ` 📝 10 months ago`
-    * [vue-content-placeholders](https://github.com/michalsnik/vue-content-placeholders) ` 🔥 1.4k ` ` 🌐 512 ` - Composable components for rendering fake (progressive) content like facebook in vue ` 📝 3 years ago`
     * [vue-particles](https://github.com/creotip/vue-particles) ` 🔥 1.2k `  - Vue.js component for particles backgrounds ` 📝 3 years ago`
-    * [vue-moveable](https://github.com/probil/vue-moveable) ` 🔥 761 ` ` 🌐 118 ` - Vue.js wrapper for Moveable ` 📝 6 days ago`
     * [vue-typer](https://github.com/cngu/vue-typer) ` 🔥 687 ` ` 🌐 1.2k ` - Vue component that simulates a user typing, selecting, and erasing text. ` 📝 3 years ago`
-    * [vue-page-designer](https://github.com/fireyy/vue-page-designer) ` 🔥 674 ` ` 🌐 12 ` - Vue component for drag-and-drop to design and build mobile website. ` 📝 4 months ago`
     * [vue-kanban](https://github.com/BrockReece/vue-kanban) ` 🔥 630 ` ` 🌐 181 ` - A vue based drag and drop kanban board ` 📝 a month ago`
     * [vue-avatar](https://github.com/eliep/vue-avatar) ` 🔥 545 ` ` 🌐 1.1k ` - An avatar component for vue.js 
     * [vue-query-builder](https://github.com/dabernathy89/vue-query-builder) ` 🔥 523 ` ` 🌐 48 ` - A UI component for building complex queries with nested conditionals. 
-    * [vue-star-rating](https://github.com/craigh411/vue-star-rating) ` 🔥 497 `  - A simple, highly customisable star rating component for Vue 2.x. / 3.x ` 📝 3 months ago`
-    * [vue-mindmap](https://github.com/anteriovieira/vue-mindmap) ` 🔥 440 ` ` 🌐 41 ` - VueMindmap is a vue component for mindnode maps 
     * [vue-touch-ripple](https://github.com/surmon-china/vue-touch-ripple) ` 🔥 438 ` ` 🌐 160 ` - Touch ripple component for @vuejs ` 📝 10 months ago`
     * [v-clipboard](https://github.com/euvl/v-clipboard) ` 🔥 413 `  - Vue.js clipboard library (no dependencies, less than 2kb) 
     * [vue-affix](https://github.com/eddiemf/vue-affix) ` 🔥 384 `  - A Vue.js plugin that affixes an element on the window while scrolling based on a relative element 
     * [vue-cookie-law](https://github.com/apertureless/vue-cookie-law) ` 🔥 329 ` ` 🌐 512 ` - Hackable EU Cookie Law Plugin for Vue.js ` 📝 3 months ago`
     * [vue-highlightjs](https://github.com/metachris/vue-highlightjs) ` 🔥 294 ` ` 🌐 2.3k ` - Syntax highlighting with highlight.js for Vue.js 2.x 
-    * [vue-emoji-picker](https://github.com/DCzajkowski/vue-emoji-picker) ` 🔥 213 ` ` 🌐 252 ` - Very simple, yet powerful, vue emoji picker ` 📝 2 years ago`
-    * [vue-particle-effect-buttons](https://github.com/dreambo8563/vue-particle-effect-buttons) ` 🔥 212 ` ` 🌐 40 ` - A bursting particles effects buttons component ` 📝 4 months ago`
-    * [vue-sticker](https://github.com/KamilOcean/vue-sticker) ` 🔥 188 ` ` 🌐 16 ` - Vue component, that helps to make sticky effects ` 📝 3 years ago`
     * [vue-twentytwenty](https://github.com/mhayes/vue-twentytwenty) ` 🔥 179 ` ` 🌐 48 ` - Image comparison utility ` 📝 8 months ago`
-    * [vue-google-adsense](https://github.com/mazipan/vue-google-adsense) ` 🔥 175 ` ` 🌐 314 ` - Vue.js Google Adsense Component with InFeed and InArticle Ads support ` 📝 18 days ago`
-    * [vuejs-avataaars](https://github.com/orgordin/vuejs-avataaars) ` 🔥 159 ` ` 🌐 19 ` - Simple avatar generator Vue component for avataaars. ` 📝 3 months ago`
-    * [vue-status-indicator](https://github.com/coderdiaz/vue-status-indicator) ` 🔥 156 `  - A Vue component to show status indicator as colored dots. ` 📝 2 years ago`
     * [vue-keyboard](https://github.com/MartyWallace/vue-keyboard) ` 🔥 151 `  - A simple virtual keyboard for Vue.js. 
-    * [vue-twemoji-picker](https://github.com/kevinfaguiar/vue-twemoji-picker) ` 🔥 149 ` ` 🌐 46 ` - Vue Twemoji Picker - A fast plug-n-play Twemoji Picker (+textarea for Twemoji rendering) for Vue. Support Unicode Emoji 13.0. ` 📝 7 months ago`
-    * [vue-fixed-header](https://github.com/potato4d/vue-fixed-header) ` 🔥 142 ` ` 🌐 332 ` - Simple and cross-browser friendly fixed header component for Vue.js written by TypeScript. ` 📝 4 days ago`
-    * [vue-command](https://github.com/ndabAP/vue-command) ` 🔥 138 ` ` 🌐 37 ` - A fully working, most feature-rich Vue.js terminal emulator ` 📝 20 days ago`
     * [vue-flashcard](https://github.com/cuduy197/vue-flashcard) ` 🔥 114 ` ` 🌐 48 ` - Rich flashcard component for vue js 2 ` 📝 4 years ago`
-    * [emoji-vue](https://github.com/shershen08/emoji-vue) ` 🔥 111 ` ` 🌐 142 ` - Add emoji keyboard to your vuejs project ` 📝 2 years ago`
     * [vue-gravatar](https://github.com/JiriChara/vue-gravatar) ` 🔥 105 ` ` 🌐 963 ` - A dead-simple gravatar component for VueJS ` 📝 a year ago`
-    * [vue-chessboard](https://github.com/vitogit/vue-chessboard) ` 🔥 101 ` ` 🌐 54 ` - Chessboard vue component to load positions, create positions and see threats ` 📝 6 months ago`
     * [vue-truncate-collapsed](https://github.com/kavalcante/vue-truncate-collapsed) ` 🔥 95 `  - A simple component that truncates your text and adds a 'Read More/Show Less' clickable. ` 📝 3 months ago`
-    * [vue-balloon](https://github.com/kevinwarne/vue-balloon) ` 🔥 78 `  - A zoomable fixed balloon container. Useful for adding tutorial videos or other page specific content. 
-    * [vue-dataflow-editor](https://github.com/krthr/vue-dataflow-editor) ` 🔥 70 `  - Vue 2 dataflow graph editor 
     * [vue-invisible-recaptcha](https://github.com/MicroDroid/vue-invisible-recaptcha) ` 🔥 59 ` ` 🌐 44 ` - A simple component to implement Invisible Recaptcha with no hassle ` 📝 3 years ago`
     * [vue-letter-avatar](https://github.com/aidewoode/vue-letter-avatar) ` 🔥 58 ` ` 🌐 50 ` - A simple and elegant letter avatar component for vue.js ` 📝 3 years ago`
-    * [vue-embed](https://github.com/Gomah/vue-embed) ` 🔥 56 ` ` 🌐 40 ` - Vue 2.x component based on embed.js https://github.com/ritz078/embed.js ` 📝 20 days ago`
-    * [v-rating](https://github.com/vinayakkulkarni/v-rating) ` 🔥 47 ` ` 🌐 46 ` - Rating component in Semantic-UI made with VueJS (`< 1kB, blazing fast) ` 📝 12 days ago`
-    * [vue-jazzicon](https://github.com/man15h/vue-jazzicon) ` 🔥 38 ` ` 🌐 69 ` - A dead-simple jazzicon component for VueJS ` 📝 2 years ago`
-    * [vue-terminal-ui](https://github.com/shershen08/vue-terminal-ui) ` 🔥 36 ` ` 🌐 23 ` - Terminal UI emulator VueJS component 
-    * [vue-camera-gestures](https://github.com/danielelkington/vue-camera-gestures) ` 🔥 34 `  - Let users control your Vue app using AI and their camera in just 1 line of HTML! 
+    * [vue-embed](https://github.com/Gomah/vue-embed) ` 🔥 56 ` ` 🌐 40 ` - Vue 2.x component based on embed.js https://github.com/ritz078/embed.js ` 📝 21 days ago`
     * [vue-uniq-ids](https://github.com/termosa/vue-uniq-ids) ` 🔥 33 `  - Vue.js 2.x plugin that helps to use id-related attributes with no side-effect 
-    * [query-builder-vue](https://github.com/rtucek/vue-query-builder) ` 🔥 28 `  - A Vue-Query-Builder ` 📝 22 days ago`
-    * [vue-aspect-ratio](https://github.com/albertodeago/vue-aspect-ratio) ` 🔥 27 ` ` 🌐 14 ` - A component to render defined aspect ratio elements ` 📝 a year ago`
-    * [v-currency](https://github.com/ignoreintuition/v-currency) ` 🔥 24 `  - A plugin for formatting currency for different countries in Vue 
     * [X-Browser-Update-Vue](https://github.com/OXOYO/X-Browser-Update-Vue) ` 🔥 23 ` ` 🌐 4 ` - A Vue.js browser-update plugin ` 📝 a year ago`
-    * [vue-8-puzzle](https://github.com/meganetaaan/vue-8-puzzle) ` 🔥 21 ` ` 🌐 8 ` - A simple 8-puzzle game made as a Vue.js component ` 📝 a year ago`
     * [vue-multivue](https://github.com/drewjbartlett/vue-multivue) ` 🔥 17 `  - Use multiple Vue apps of the same class on the same page 
-    * [avatio-avatar](https://github.com/trunda/avatio-avatar) ` 🔥 17 `  - VueJS component to display SVG avatars. 
-    * [vue-ribbon](https://github.com/P3trur0/vue-ribbon) ` 🔥 14 ` ` 🌐 40 ` - Vue component for GitHub ribbons ` 📝 2 years ago`
-    * [vue-insomnia](https://github.com/gorbypark/vue-insomnia) ` 🔥 10 `  - Prevents the display of a mobile device from going to sleep by playing a small mp4 video that's positioned off screen on a loop (aka wake lock). 
-    * [vue-creativecommons](https://github.com/julon/vue-creativecommons) ` 🔥 7 ` ` 🌐 4 ` - CreativeCommons.org Vue.js components library ! ` 📝 3 years ago`
-    * [vue-car-plate-keyboard](https://github.com/yimocanxue/vue-car-plate-keyboard) ` 🔥 7 ` ` 🌐 1 ` - A vehicle license plate number keyboard ` 📝 2 years ago`
     * [vue-info-card](https://github.com/karakanb/vue-info-card)   
     * [v-offline](https://github.com/vinayakkulkarni/v-offline)   
     * [vue-word-cloud](https://github.com/SeregPie/VueWordCloud)   
@@ -1655,6 +1624,20 @@ Original Data from [Awesome Vue](https://github.com/vuejs/awesome-vue/blob/maste
     * [vue-heatmapjs](https://github.com/BrockReece/vue-heatmapjs)   
     * [vue-maze](https://github.com/meganetaaan/vue-maze)   
     * [vue-drag-verify](https://github.com/AshleyLv/vue-drag-verify)   
+    * [vue-balloon](https://github.com/kevinwarne/vue-balloon)   
+    * [vue-sticker](https://github.com/KamilOcean/vue-sticker)   
+    * [v-rating](https://github.com/vinayakkulkarni/v-rating)   
+    * [vue-content-placeholders](https://github.com/michalsnik/vue-content-placeholders)   
+    * [vue-page-designer](https://github.com/fireyy/vue-page-designer)   
+    * [vue-creativecommons](https://github.com/julon/vue-creativecommons)   
+    * [vue-status-indicator](https://github.com/coderdiaz/vue-status-indicator)   
+    * [vue-google-adsense](https://github.com/mazipan/vue-google-adsense)   
+    * [emoji-vue](https://github.com/shershen08/emoji-vue)   
+    * [vue-chessboard](https://github.com/vitogit/vue-chessboard)   
+    * [vue-mindmap](https://github.com/anteriovieira/vue-mindmap)   
+    * [v-currency](https://github.com/ignoreintuition/v-currency)   
+    * [vue-emoji-picker](https://github.com/DCzajkowski/vue-emoji-picker)   
+    * [vue-8-puzzle](https://github.com/meganetaaan/vue-8-puzzle)   
     * [vue-e164](https://github.com/evildvl/vue-e164)   
     * [vue-pgn](https://github.com/deemaagog/vue-pgn)   
     * [vue-avatar-editor](https://github.com/fpluquet/vue-avatar-editor)   
@@ -1694,6 +1677,23 @@ Original Data from [Awesome Vue](https://github.com/vuejs/awesome-vue/blob/maste
     * [vue-dynamic-star-rating](https://github.com/JonathanDn/vue-stars-rating)   
     * [vue-katex](https://github.com/lucpotage/vue-katex)   
     * [vue-baberrage](https://github.com/superhos/vue-baberrage)   
+    * [vue-terminal-ui](https://github.com/shershen08/vue-terminal-ui)   
+    * [vue-command](https://github.com/ndabAP/vue-command)   
+    * [vue-ribbon](https://github.com/P3trur0/vue-ribbon)   
+    * [avatio-avatar](https://github.com/trunda/avatio-avatar)   
+    * [vue-jazzicon](https://github.com/man15h/vue-jazzicon)   
+    * [vue-star-rating](https://github.com/craigh411/vue-star-rating)   
+    * [vue-fixed-header](https://github.com/potato4d/vue-fixed-header)   
+    * [vue-particle-effect-buttons](https://github.com/dreambo8563/vue-particle-effect-buttons)   
+    * [vue-insomnia](https://github.com/gorbypark/vue-insomnia)   
+    * [vue-car-plate-keyboard](https://github.com/yimocanxue/vue-car-plate-keyboard)   
+    * [vue-dataflow-editor](https://github.com/krthr/vue-dataflow-editor)   
+    * [vue-twemoji-picker](https://github.com/kevinfaguiar/vue-twemoji-picker)   
+    * [vuejs-avataaars](https://github.com/orgordin/vuejs-avataaars)   
+    * [vue-moveable](https://github.com/probil/vue-moveable)   
+    * [vue-camera-gestures](https://github.com/danielelkington/vue-camera-gestures)   
+    * [vue-aspect-ratio](https://github.com/albertodeago/vue-aspect-ratio)   
+    * [query-builder-vue](https://github.com/rtucek/vue-query-builder)   
     * [vue-meeting-selector](https://github.com/IneoO/vue-meeting-selector)   
     * [cool-emoji-picker](https://github.com/kevinfaguiar/cool-emoji-picker)   
     * [vue-web-cam](https://github.com/VinceG/vue-web-cam)   
@@ -1728,10 +1728,10 @@ Original Data from [Awesome Vue](https://github.com/vuejs/awesome-vue/blob/maste
 * #### Form [🔝](#readme)
 
     * [vuedraggable](https://github.com/SortableJS/Vue.Draggable) ` 🔥 14.1k ` ` 🌐 32.4k ` - Vue drag-and-drop component based on Sortable.js ` 📝 2 months ago`
-    * [tiptap](https://github.com/heyscrumpy/tiptap) ` 🔥 8.7k ` ` 🌐 2.1k ` - A renderless rich-text editor for Vue.js ` 📝 9 days ago`
+    * [tiptap](https://github.com/heyscrumpy/tiptap) ` 🔥 8.7k ` ` 🌐 2.1k ` - A renderless rich-text editor for Vue.js ` 📝 10 days ago`
     * [vue-text-mask](https://github.com/text-mask/text-mask) ` 🔥 7.9k ` ` 🌐 13.7k ` - Input mask for React, Angular, Ember, Vue, & plain JavaScript ` 📝 a month ago`
     * [vue-quill-editor](https://github.com/surmon-china/vue-quill-editor) ` 🔥 6.3k ` ` 🌐 22.9k ` - @quilljs editor component for @vuejs ` 📝 10 months ago`
-    * [vue-multiselect](https://github.com/monterail/vue-multiselect) ` 🔥 5.6k ` ` 🌐 10.3k ` - Universal select/multiselect/tagging component for Vue.js ` 📝 23 days ago`
+    * [vue-multiselect](https://github.com/monterail/vue-multiselect) ` 🔥 5.6k ` ` 🌐 10.3k ` - Universal select/multiselect/tagging component for Vue.js ` 📝 24 days ago`
     * [vue-interactive-paycard](https://github.com/muhammederdem/vue-interactive-paycard) ` 🔥 5k ` ` 🌐 11 ` - Credit card form with smooth and sweet micro-interactions ` 📝 6 months ago`
     * [vue-select](https://github.com/sagalbot/vue-select) ` 🔥 3.7k ` ` 🌐 9.6k ` - Everything you wish the HTML `<select>` element could do, wrapped up into a lightweight, extensible Vue component. ` 📝 a month ago`
     * [vue-color](https://github.com/xiaokaike/vue-color) ` 🔥 2.1k ` ` 🌐 3.5k ` - Vue Color Pickers for Sketch, Photoshop, Chrome & more http://vue-color.surge.sh ` 📝 a month ago`
@@ -1741,21 +1741,27 @@ Original Data from [Awesome Vue](https://github.com/vuejs/awesome-vue/blob/maste
     * [vue-draggable-resizable](https://github.com/mauricius/vue-draggable-resizable) ` 🔥 2k ` ` 🌐 1.7k ` - Vue2 Component for draggable and resizable elements. ` 📝 a month ago`
     * [vue-codemirror](https://github.com/surmon-china/vue-codemirror) ` 🔥 1.8k ` ` 🌐 3.5k ` - @codemirror component for @vuejs ` 📝 10 months ago`
     * [vue-the-mask](https://github.com/vuejs-tips/vue-the-mask) ` 🔥 1.4k ` ` 🌐 4.2k ` - Tiny (`<2k gzipped) and dependency free mask input for Vue.js ` 📝 3 years ago`
+    * [vue-filepond](https://github.com/pqina/vue-filepond) ` 🔥 1.2k ` ` 🌐 828 ` - A handy FilePond adapter component for Vue ` 📝 2 months ago`
     * [vue-smooth-dnd](https://github.com/kutlugsahin/vue-smooth-dnd) ` 🔥 1.1k ` ` 🌐 442 ` - Vue wrapper components for smooth-dnd ` 📝 a year ago`
     * [vue-form-wizard](https://github.com/cristijora/vue-form-wizard) ` 🔥 1k ` ` 🌐 2.2k ` - Vue.js 2 wizard ` 📝 4 months ago`
     * [vue-slicksort](https://github.com/Jexordexan/vue-slicksort) ` 🔥 975 ` ` 🌐 546 ` - A set of vue mixins to turn any list into an animated, touch-friendly, sortable list ` 📝 2 years ago`
     * [vue-drag-resize](https://github.com/kirillmurashov/vue-drag-resize) ` 🔥 953 ` ` 🌐 468 ` - Vue Component for resize and drag elements ` 📝 6 months ago`
     * [v-distpicker](https://github.com/jcc/v-distpicker) ` 🔥 908 `  - A flexible, highly available district picker for picking provinces, cities and districts of China. 
+    * [vuep](https://github.com/QingWei-Li/vuep) ` 🔥 828 ` ` 🌐 125 ` - A component for rendering Vue components with live editor and preview. ` 📝 2 years ago`
     * [vue-js-toggle-button](https://github.com/euvl/vue-js-toggle-button) ` 🔥 822 ` ` 🌐 2k ` - Vue.js 2 toggle / switch button - simple, pretty, customizable 
     * [v-region](https://github.com/TerryZ/v-region) ` 🔥 717 ` ` 🌐 60 ` - A simple region cascade selector, provide 4 levels Chinese administrative division data ` 📝 a year ago`
     * [awe-dnd](https://github.com/hilongjw/vue-dragging) ` 🔥 686 ` ` 🌐 818 ` - A sortable list directive with Vue ` 📝 2 years ago`
     * [vue-ctk-date-time-picker](https://github.com/chronotruck/vue-ctk-date-time-picker) ` 🔥 675 ` ` 🌐 695 ` - VueJS component to select dates & time, including a range mode ` 📝 7 months ago`
     * [v-money](https://github.com/vuejs-tips/v-money) ` 🔥 654 ` ` 🌐 1.5k ` - Tiny (`<2k gzipped) input/directive mask for currency ` 📝 3 years ago`
+    * [vue-mc](https://github.com/FiguredLimited/vue-mc) ` 🔥 577 ` ` 🌐 205 ` - Models and Collections for Vue 
     * [vue-img-inputer](https://github.com/waynecz/vue-img-inputer) ` 🔥 549 ` ` 🌐 260 ` - A graceful image type inputer / uploader ` 📝 a year ago`
-    * [vue-froala-wysiwyg](https://github.com/froala/vue-froala-wysiwyg) ` 🔥 538 ` ` 🌐 656 ` - Vue component for Froala WYSIWYG HTML Rich Text Editor. ` 📝 3 days ago`
+    * [vue-file-agent](https://github.com/safrazik/vue-file-agent) ` 🔥 540 ` ` 🌐 101 ` - The most beautiful and full featured file upload component for Vue JS 
+    * [vue-froala-wysiwyg](https://github.com/froala/vue-froala-wysiwyg) ` 🔥 538 ` ` 🌐 656 ` - Vue component for Froala WYSIWYG HTML Rich Text Editor. ` 📝 4 days ago`
     * [vue-input-tag](https://github.com/matiastucci/vue-input-tag) ` 🔥 510 ` ` 🌐 693 ` - Vue.js 2.0 Input Tag Component ` 📝 10 months ago`
+    * [vue-password-strength-meter](https://github.com/apertureless/vue-password-strength-meter) ` 🔥 508 ` ` 🌐 325 ` - Password strength meter based on zxcvbn in vue.js ` 📝 3 months ago`
     * [vue-autosuggest](https://github.com/Educents/vue-autosuggest) ` 🔥 486 ` ` 🌐 465 ` - Vue autosuggest component. ` 📝 7 months ago`
     * [vue-wysiwyg](https://github.com/chmln/vue-wysiwyg) ` 🔥 463 ` ` 🌐 1.1k ` - A lightweight WYSIWYG HTML editor for Vue.js ` 📝 8 months ago`
+    * [vue-google-autocomplete](https://github.com/olefirenko/vue-google-autocomplete) ` 🔥 454 `  - A Vue.js autosuggest component for the Google Places API. ` 📝 3 months ago`
     * [vue-at](https://github.com/fritx/vue-at) ` 🔥 448 ` ` 🌐 135 ` - At.js for Vue. ` 📝 2 years ago`
     * [vue-swatches](https://github.com/saintplay/vue-swatches) ` 🔥 440 ` ` 🌐 701 ` - Help the user picking beautiful colors! ` 📝 8 months ago`
     * [vue-drag-drop](https://github.com/cameronhimself/vue-drag-drop) ` 🔥 431 ` ` 🌐 666 ` - A lightweight Vue wrapper that abstracts away the wonkier parts of the Drag and Drop Browser API ` 📝 3 years ago`
@@ -1769,15 +1775,21 @@ Original Data from [Awesome Vue](https://github.com/vuejs/awesome-vue/blob/maste
     * [vue-numeric](https://github.com/kevinongko/vue-numeric) ` 🔥 335 ` ` 🌐 2k ` - Input field component to display a formatted currency value based on Vue.js ` 📝 3 years ago`
     * [v-autocomplete](https://github.com/paliari/v-autocomplete) ` 🔥 324 ` ` 🌐 416 ` - Autocomplete component for Vue.js ` 📝 2 years ago`
     * [vue-simple-suggest](https://github.com/KazanExpress/vue-simple-suggest) ` 🔥 313 ` ` 🌐 854 ` - Feature-rich autocomplete component for Vue.js ` 📝 3 months ago`
-    * [vue-form-builder](https://github.com/openfext/vue-form-builder) ` 🔥 312 `  - Build powerful vue form with JSON schema and composition api. ` 📝 7 months ago`
+    * [vue-stepper](https://github.com/PygmySlowLoris/vue-stepper) ` 🔥 311 ` ` 🌐 186 ` - A simple stepper with simple actions such as next, back and end to perform simple forms. ` 📝 2 years ago`
     * [vue-search-select](https://github.com/moreta/vue-search-select) ` 🔥 292 `  - A Vue.js search select component ` 📝 7 months ago`
     * [draggable-vue-directive](https://github.com/IsraelZablianov/draggable-vue-directive) ` 🔥 280 ` ` 🌐 154 ` - Vue2 directive that handles drag & drop ` 📝 a year ago`
-    * [vue-cleave-component](https://github.com/ankurk91/vue-cleave-component) ` 🔥 268 ` ` 🌐 619 ` - Vue.js component for Cleave.js ` 📝 11 days ago`
+    * [vue-cleave-component](https://github.com/ankurk91/vue-cleave-component) ` 🔥 268 ` ` 🌐 619 ` - Vue.js component for Cleave.js ` 📝 12 days ago`
+    * [vue-context-menu](https://github.com/vmaimone/vue-context-menu) ` 🔥 264 ` ` 🌐 401 ` - A context menu component for vue js ` 📝 3 years ago`
+    * [vue-ripple-directive](https://github.com/PygmySlowLoris/vue-ripple-directive) ` 🔥 261 ` ` 🌐 482 ` - Material Ripple Effect as Vue Directive. 
     * [vue-draggable](https://github.com/Vivify-Ideas/vue-draggable) ` 🔥 248 ` ` 🌐 595 ` - Vue Drag and Drop library without any dependency ` 📝 a year ago`
-    * [vue-currency-input](https://github.com/dm4t2/vue-currency-input) ` 🔥 247 ` ` 🌐 330 ` - Easy input of currency formatted numbers for Vue.js. ` 📝 22 days ago`
+    * [vue-currency-input](https://github.com/dm4t2/vue-currency-input) ` 🔥 247 ` ` 🌐 330 ` - Easy input of currency formatted numbers for Vue.js. ` 📝 23 days ago`
+    * [vue-context](https://github.com/rawilk/vue-context) ` 🔥 241 `  - A simple vue context menu component. ` 📝 11 hours ago`
     * [pretty-checkbox-vue](https://github.com/hamed-ehtesham/pretty-checkbox-vue) ` 🔥 236 ` ` 🌐 486 ` - Quickly integrate pretty checkbox components with Vue.js ` 📝 2 years ago`
     * [toast-ui.vue-editor](https://github.com/nhnent/toast-ui.vue-editor) ` 🔥 233 `  - This repository is DEPRECATED! GO TO  https://github.com/nhn/tui.editor/tree/master/apps/vue-editor 
+    * [vue-fab](https://github.com/PygmySlowLoris/vue-fab) ` 🔥 227 ` ` 🌐 227 ` - Vue Floating Action Button ` 📝 2 years ago`
     * [vue-trumbowyg](https://github.com/ankurk91/vue-trumbowyg) ` 🔥 221 `  - Vue.js component for Trumbowyg WYSIWYG editor ` 📝 3 months ago`
+    * [vue-diagrams](https://github.com/gwenaelp/vue-diagrams) ` 🔥 217 ` ` 🌐 19 ` - Diagram component for vue.js, inspired by react-diagrams ` 📝 2 years ago`
+    * [v-uploader](https://github.com/TerryZ/v-uploader) ` 🔥 214 ` ` 🌐 123 ` - A Vue2 plugin make files upload simple and easier, single file upload with image preview, multiple upload with drag and drop ` 📝 6 months ago`
     * [vue-tinymce-editor](https://github.com/dyonir/vue-tinymce-editor) ` 🔥 213 `  - This a component provides use of tinymce for vue developers 
     * [v-selectpage](https://github.com/TerryZ/v-selectpage) ` 🔥 208 ` ` 🌐 49 ` - SelectPage for Vue2, list or table view of pagination, use tags for multiple selection, i18n and server side resources supports ` 📝 6 months ago`
     * [vue2-dragula](https://github.com/kristianmandrup/vue2-dragula) ` 🔥 206 `  - Drag and drop so simple it hurts http://astray-git.github.io/vue-dragula 
@@ -1785,41 +1797,53 @@ Original Data from [Awesome Vue](https://github.com/vuejs/awesome-vue/blob/maste
     * [vue-nestable](https://github.com/rhwilr/vue-nestable) ` 🔥 204 ` ` 🌐 99 ` - A simple drag & drop hierarchical list made as a vue component. ` 📝 5 months ago`
     * [vue-bootstrap-typeahead](https://github.com/alexurquhart/vue-bootstrap-typeahead) ` 🔥 204 ` ` 🌐 548 ` - An autocomplete/typeahead component for Vue 2 and Bootstrap 4 ` 📝 2 years ago`
     * [vue-circle-slider](https://github.com/devstark-com/vue-circle-slider) ` 🔥 198 ` ` 🌐 106 ` - Circle slider component for Vue.js ` 📝 3 years ago`
+    * [vue-rate](https://github.com/SinanMtl/vue-rate) ` 🔥 198 ` ` 🌐 172 ` - Rate component for Vue ` 📝 7 months ago`
     * [vue-swing](https://github.com/goweiwen/vue-swing) ` 🔥 189 ` ` 🌐 148 ` - Vue.js wrapper for Swing 
-    * [vue-editor-js](https://github.com/ChangJoo-Park/vue-editor-js) ` 🔥 188 ` ` 🌐 124 ` - editor.js for Vue users ` 📝 a day ago`
+    * [vue-editor-js](https://github.com/ChangJoo-Park/vue-editor-js) ` 🔥 188 ` ` 🌐 124 ` - editor.js for Vue users ` 📝 2 days ago`
     * [vue-cool-select](https://github.com/iliyaZelenko/vue-cool-select) ` 🔥 185 ` ` 🌐 157 ` - Select with autocomplete, slots, bootstrap and material design themes. ` 📝 5 months ago`
     * [vue-switches](https://github.com/drewjbartlett/vue-switches) ` 🔥 183 ` ` 🌐 589 ` - An on/off switch component for Vue.js with theme support. ` 📝 3 years ago`
+    * [vue-float-label](https://github.com/bkzl/vue-float-label) ` 🔥 177 ` ` 🌐 150 ` - Float label pattern ` 📝 2 years ago`
     * [vue-highlightable-input](https://github.com/SyedWasiHaider/vue-highlightable-input) ` 🔥 158 ` ` 🌐 26 ` - A vue component to highlight text as you're typing ` 📝 2 years ago`
-    * [vue-trix](https://github.com/hanhdt/vue-trix) ` 🔥 151 ` ` 🌐 187 ` - Trix text editor component for Vue.js ` 📝 20 days ago`
+    * [vue-trix](https://github.com/hanhdt/vue-trix) ` 🔥 151 ` ` 🌐 187 ` - Trix text editor component for Vue.js ` 📝 21 days ago`
     * [vue-comment-grid](https://github.com/TugayYaldiz/vue-comment-grid) ` 🔥 142 ` ` 🌐 13 ` - Responsive Vue.js comment system plugin that built with CSS Grid and Firebase REST API + Authentication. https://tugayyaldiz.github.io/vue-comment-grid ` 📝 a month ago`
     * [vue-auto-complete](https://github.com/charliekassel/vuejs-autocomplete) ` 🔥 131 ` ` 🌐 384 ` - Autocomplete component for Vue js ` 📝 2 years ago`
     * [vue-slide-bar](https://github.com/biigpongsatorn/vue-slide-bar) ` 🔥 126 ` ` 🌐 291 ` - A Simple Vue Slider Bar Component. ` 📝 2 years ago`
     * [vue-select-image](https://github.com/mazipan/vue-select-image) ` 🔥 111 ` ` 🌐 186 ` - Vue 2.x component for selecting image from list ` 📝 a month ago`
     * [verte](https://github.com/baianat/verte) ` 🔥 110 ` ` 🌐 205 ` - A Color picker component. Built from the bottom to work with Vue.js. ` 📝 a year ago`
+    * [vue-poll](https://github.com/ppietris/vue-poll) ` 🔥 110 ` ` 🌐 33 ` - A Vue.js component for voting ` 📝 2 years ago`
+    * [vue-simple-context-menu](https://github.com/johndatserakis/vue-simple-context-menu) ` 🔥 108 ` ` 🌐 109 ` - Simple context-menu component built for Vue. Works well with both left and right clicks. Nothing too fancy, just works and is simple to use. ` 📝 17 days ago`
     * [vue-inputmask](https://github.com/scleriot/vue-inputmask) ` 🔥 106 ` ` 🌐 314 ` - Vue.js directive to add inputmask library to your inputs (vanilla javascript). ` 📝 3 years ago`
+    * [vue-gmaps](https://github.com/ridermansb/vue-gmaps) ` 🔥 106 ` ` 🌐 76 ` - Search places and address using Google Maps API ` 📝 6 months ago`
+    * [vue-places](https://github.com/Gomah/vue-places) ` 🔥 106 ` ` 🌐 104 ` - Places component is based on places.js for Vue 2.x. Turn any `<input>` into an address autocomplete. ` 📝 4 days ago`
     * [@k186/pd-select](https://github.com/k186/pd-select) ` 🔥 101 ` ` 🌐 13 ` - vue components ,like ios 3D picker style,vue 3d 选择器组件,3D滚轮 ` 📝 10 months ago`
     * [vue-checkbox-radio](https://github.com/mariomka/vue-checkbox-radio) ` 🔥 101 ` ` 🌐 156 ` - Checkbox and radio component for Vue.js ` 📝 3 years ago`
     * [vue-date-picker](https://github.com/8788/vue-date-picker) ` 🔥 99 ` ` 🌐 576 ` - datepicker component for Vue 2.x ` 📝 2 years ago`
     * [vue-datepicker](https://github.com/mathieustan/vue-datepicker) ` 🔥 92 ` ` 🌐 49 ` - A clean datepicker made with VueJs 
     * [vue-multi-select](https://github.com/IneoO/vue-multi-select) ` 🔥 91 ` ` 🌐 71 ` - This component gives you a multi/single select with the power of Vuejs components. ` 📝 a month ago`
+    * [vuetify-google-autocomplete](https://github.com/MadimetjaShika/vuetify-google-autocomplete) ` 🔥 91 `  - A Vuetify ready Vue.js autosuggest component for the Google Places API. ` 📝 3 months ago`
     * [vue-tinder](https://github.com/shanlh/vue-tinder) ` 🔥 90 ` ` 🌐 37 ` - Have your own Tinder and TanTan. ` 📝 a month ago`
-    * [vue-drag-n-drop](https://github.com/smaharj1/vue-drag-and-drop-kanban) ` 🔥 84 ` ` 🌐 17 ` - A simple kanban board where the items can be dragged and dropped from the list. This is a hybrid implementation of vue-smooth-dnd. ` 📝 6 days ago`
+    * [vue-stepper-component](https://github.com/adi518/vue-stepper-component) ` 🔥 86 `  - 👨🏻‍🚀 A renderless component for composing a Stepper ` 📝 5 months ago`
+    * [vue-drag-n-drop](https://github.com/smaharj1/vue-drag-and-drop-kanban) ` 🔥 84 ` ` 🌐 17 ` - A simple kanban board where the items can be dragged and dropped from the list. This is a hybrid implementation of vue-smooth-dnd. ` 📝 7 days ago`
     * [vue-draggable-cal](https://github.com/liloow/vue-draggableCal) ` 🔥 78 ` ` 🌐 23 ` - Not your ordinary datepicker. A Vuejs draggable date selector with a fresh responsive design, mobile ready and 0 dependencies, 17kb gzipped ` 📝 2 years ago`
     * [vue-histogram-slider](https://github.com/oguzhaninan/vue-histogram-slider) ` 🔥 77 ` ` 🌐 27 ` - Range slider with histogram for Vue.js ` 📝 a month ago`
     * [vue2-collapse](https://github.com/roszpun/vue-collapse/) ` 🔥 76 ` ` 🌐 194 ` - Vue.js 2 plugin allowing developers to create very custom accordion lists. 
     * [vue-dropdowns](https://github.com/mikerodham/vue-dropdowns) ` 🔥 74 `  - A better way to display select boxes when using `v-for` on objects. ` 📝 3 months ago`
+    * [vue-longpress](https://github.com/javisperez/vuelongpress) ` 🔥 74 `  - Confirmation button for sensitive action, which requires to be hold for an amount of seconds 
     * [vue-mobiledoc-editor](https://github.com/alidcastano/vue-mobiledoc-editor) ` 🔥 73 `  - A lightweight and customizable editor that allows you to embed rich content using Vuejs components. ` 📝 3 years ago`
     * [vue-drag-it-dude](https://github.com/Esvalirion/vue-drag-it-dude) ` 🔥 69 ` ` 🌐 55 ` - Vue2 component, that allows you to drag object wherever you want ` 📝 2 years ago`
     * [vue-autonumeric](https://github.com/autoNumeric/vue-autoNumeric) ` 🔥 69 ` ` 🌐 99 ` - A Vue.js component that wraps the awesome autoNumeric input formatter library ` 📝 a year ago`
     * [vue-mce](https://github.com/Eazymov/vue-mce) ` 🔥 68 `  - VueJS component for TinyMCE 
     * [v-suggest](https://github.com/TerryZ/v-suggest) ` 🔥 67 ` ` 🌐 35 ` - A Vue2 plugin for input content suggestions, support using keyboard to navigate and quick pick, it make use experience like search engine input element ` 📝 9 months ago`
     * [vue-input-code](https://github.com/zhouyuexie/vue-input-code) ` 🔥 65 ` ` 🌐 43 ` - base on vue2.0+ verification code input component. (基于Vue2.0+的移动端验证码输入组件) ` 📝 3 months ago`
+    * [vue-mouse-menu](https://github.com/zgj233/vue-mouse-menu) ` 🔥 64 ` ` 🌐 28 ` - 基于vue2.6，多端支持的弹出菜单插件，只有9kb ` 📝 a year ago`
     * [stf-vue-select](https://github.com/stfalcon-studio/stf-vue-select) ` 🔥 61 ` ` 🌐 30 ` - stf vue select - most flexible and customized select ` 📝 3 years ago`
     * [vue-select-sides](https://github.com/juliorosseti/vue-select-sides) ` 🔥 61 ` ` 🌐 9 ` - A component for Vue.js to select double-sided data. ` 📝 2 months ago`
     * [material-vue-daterange-picker](https://github.com/ly525/material-vue-daterange-picker) ` 🔥 59 ` ` 🌐 65 ` - a date-range-picker follows the Material Design spec powered by vue.js (alpha) ` 📝 9 months ago`
+    * [vuejs-uploader](https://github.com/charliekassel/vuejs-uploader) ` 🔥 57 ` ` 🌐 23 ` - Vue multipart file uploader 
     * [vue-input-facade](https://github.com/RonaldJerez/vue-input-facade) ` 🔥 53 `  - A lightweight and dependency free input masking library created specific for Vue 
     * [radial-color-picker](https://github.com/radial-color-picker/vue-color-picker) ` 🔥 52 ` ` 🌐 87 ` - Radial Color Picker - Vue ` 📝 8 months ago`
-    * [@vueform/multiselect](https://github.com/vueform/multiselect) ` 🔥 51 ` ` 🌐 9 ` - Vue 3 multiselect component with single select, multiselect and tagging options. ` 📝 5 days ago`
+    * [@vueform/multiselect](https://github.com/vueform/multiselect) ` 🔥 51 ` ` 🌐 9 ` - Vue 3 multiselect component with single select, multiselect and tagging options. ` 📝 6 days ago`
+    * [vue-confirmation-button](https://github.com/imRohan/vue-confirmation-button) ` 🔥 50 ` ` 🌐 34 ` - A Vuejs component that asks uses to confirm before performing an action ` 📝 2 years ago`
     * [vue-mathlive](https://github.com/arnog/vue-mathlive) ` 🔥 49 `  - Example of using the Vue wrapper for MathLive math editor ` 📝 2 months ago`
     * [vuecsv](https://github.com/ynishi/vuecsv) ` 🔥 47 ` ` 🌐 5 ` - CSV components for Vue.js ` 📝 3 years ago`
     * [vue-selectize](https://github.com/isneezy/vue-selectize) ` 🔥 45 `  - Vanilla Vue.js component that mimics Selectize behavior (no jquery dependency) ` 📝 2 months ago`
@@ -1827,18 +1851,18 @@ Original Data from [Awesome Vue](https://github.com/vuejs/awesome-vue/blob/maste
     * [vue-knob-control](https://github.com/kramer99/vue-knob-control) ` 🔥 43 `  - A rotary knob control for Vue.js 
     * [@alfsnd/vue-bootstrap-select](https://github.com/Sandalf/vue-bootstrap-select) ` 🔥 42 ` ` 🌐 83 ` - A vue version of bootstrap select ` 📝 2 years ago`
     * [vue-long-click](https://github.com/ittus/vue-long-click) ` 🔥 41 ` ` 🌐 77 ` - Long click directive library for VueJS ` 📝 a year ago`
-    * [vue-paycard](https://github.com/guastallaigor/vue-paycard) ` 🔥 41 ` ` 🌐 6 ` - Credit card component made with Vue.js ` 📝 3 days ago`
+    * [vue-paycard](https://github.com/guastallaigor/vue-paycard) ` 🔥 41 ` ` 🌐 6 ` - Credit card component made with Vue.js ` 📝 4 days ago`
     * [vue-gridmultiselect](https://github.com/ProticM/vue-gridmultiselect) ` 🔥 37 ` ` 🌐 3 ` - Simple multi-select component with items displayed in a table like UI ` 📝 4 months ago`
     * [vue-timeselector](https://github.com/alexiscolin/vue-timeselector) ` 🔥 36 ` ` 🌐 71 ` - Simply customizable powerful time picker for Vue.js ` 📝 a year ago`
     * [vue-toggle-btn](https://github.com/JonathanDn/vue-toggle-btn) ` 🔥 36 ` ` 🌐 10 ` - Vue.js Toggle Button - A dynamic, fully customizable toggle button aka toggle switch ` 📝 3 months ago`
     * [vue-pell-editor](https://github.com/CinKon/vue-pell-editor) ` 🔥 35 `  - Vue-Wrapper for the minimalistic pell-WYSIWYG-Editor 
     * [vue-business-hours](https://github.com/sbarry50/vue-business-hours) ` 🔥 34 ` ` 🌐 8 ` - Vue component for selecting business hours. Supports days of the week, holidays and any other special business hours. 
-    * [v-image](https://github.com/vinayakkulkarni/v-image) ` 🔥 34 ` ` 🌐 11 ` - Tiny little component for input type=file (css free! style it as you want!) ` 📝 16 hours ago`
+    * [v-image](https://github.com/vinayakkulkarni/v-image) ` 🔥 34 ` ` 🌐 11 ` - Tiny little component for input type=file (css free! style it as you want!) ` 📝 2 days ago`
     * [vue-simple-password-meter](https://github.com/miladd3/vue-simple-password-meter) ` 🔥 34 `  - Vue Simple Password Meter is a simple password strength meter component written in vanilla js and extremly lightweight 
     * [v-cascade](https://github.com/zanseven007/v-cascade) ` 🔥 32 ` ` 🌐 5 ` - a lovely component of cascade selector with vue.js ` 📝 3 years ago`
     * [yimo-vue-editor](https://github.com/yimogit/yimo-vue-editor) ` 🔥 32 ` ` 🌐 49 ` - Vue-editor component modified and encapsulated based on wangeditor2.5.11 source code 
     * [@mycure/vue-wysiwyg](https://github.com/mycurelabs/vue-wysiwyg) ` 🔥 32 ` ` 🌐 6 ` - A simple wysiwyg editor for Vue.js ` 📝 3 months ago`
-    * [ckeditor4-vue](https://github.com/ckeditor/ckeditor4-vue) ` 🔥 31 ` ` 🌐 238 ` - Official CKEditor 4 Vue component ` 📝 9 days ago`
+    * [ckeditor4-vue](https://github.com/ckeditor/ckeditor4-vue) ` 🔥 31 ` ` 🌐 238 ` - Official CKEditor 4 Vue component ` 📝 10 days ago`
     * [vue-vanilla-datetime-picker](https://github.com/Shchepotin/vue-vanilla-datetime-picker) ` 🔥 29 ` ` 🌐 42 ` - Fast, powerful and easy to use component datetime picker for VueJS ` 📝 a year ago`
     * [vue-card-stack](https://github.com/rodleviton/vue-card-stack) ` 🔥 29 ` ` 🌐 17 ` - Stackable, swipeable, tweakable Vue card component. ` 📝 a month ago`
     * [textra](https://github.com/hosein2398/Textra) ` 🔥 27 `  - Vue js add-on to slide text. 
@@ -1854,27 +1878,33 @@ Original Data from [Awesome Vue](https://github.com/vuejs/awesome-vue/blob/maste
     * [vue-jquery-mask](https://github.com/ankurk91/vue-jquery-mask) ` 🔥 19 `  - Vue.js component for jQuery mask plugin ` 📝 3 months ago`
     * [vue-card-swipe](https://github.com/eshengsky/vue-card-swipe) ` 🔥 18 ` ` 🌐 5 ` - A touch slider for vue.js, support sliding in any direction to switch cards, compatible with PC and mobile. ` 📝 a year ago`
     * [vue-enhanced-check](https://github.com/Keiwen/vue-enhancedCheck) ` 🔥 18 ` ` 🌐 24 ` - enhanced-check component for vue 2 ` 📝 a month ago`
+    * [vue-model-autoset](https://github.com/outluch/vue-model-autoset) ` 🔥 18 `  - A Vue.js plugin to workaround Vue limitation in observing dynamically added properties with v-model directive. 
     * [vue-img-preview](https://github.com/dameety/vue-image-preview) ` 🔥 17 ` ` 🌐 23 ` - An image input preview component in vuejs2 ` 📝 4 years ago`
+    * [vue-default-value](https://github.com/termosa/vue-default-value) ` 🔥 17 ` ` 🌐 15 ` - Vue.js 2.x directive to set a default value for editable elements with no affect to the model state ` 📝 4 years ago`
     * [vue-toggles](https://github.com/juliandreas/vue-toggles) ` 🔥 15 ` ` 🌐 11 ` - A highly customizable and accessible toggle component for Vue ` 📝 a month ago`
     * [v-unicode](https://github.com/ndelvalle/v-unicode) ` 🔥 15 ` ` 🌐 3 ` - Vue directive to restrict an input by unicode values ` 📝 3 years ago`
-    * [@myena/advanced-select](https://github.com/myENA/advanced-select) ` 🔥 14 ` ` 🌐 8 ` - Custom select component using Vue.JS ` 📝 10 days ago`
+    * [@myena/advanced-select](https://github.com/myENA/advanced-select) ` 🔥 14 ` ` 🌐 8 ` - Custom select component using Vue.JS ` 📝 11 days ago`
     * [vue-tag-selector](https://github.com/tomquinonero/vue-tag-selector) ` 🔥 14 ` ` 🌐 24 ` - A simple tag selector as a vue component. ` 📝 2 years ago`
     * [vue-input-number](https://github.com/joseluisq/vue-input-number) ` 🔥 14 ` ` 🌐 22 ` - A custom input number component for Vue.js 2 ` 📝 3 years ago`
+    * [vue-lil-context-menu](https://github.com/timwis/vue-lil-context-menu) ` 🔥 13 `  - A flexible context menu component for Vue 
     * [vue-easy-polls](https://github.com/updivision/vue-easy-polls) ` 🔥 13 ` ` 🌐 10 ` - A Vue.js component for creating polls, voting and showing results. It’s easy to implement and easy to customize. ` 📝 2 years ago`
     * [v-autosuggest](https://github.com/soraino/v-autosuggest) ` 🔥 11 ` ` 🌐 11 ` - A simple modular Vuejs component that autosuggest input from a dyanamic or static data querying. ` 📝 2 years ago`
     * [vue-color-picker-board](https://github.com/shlomnissan/vue-color-picker-board) ` 🔥 11 `  - A natural color picker component for Vue.js ` 📝 2 years ago`
     * [vue-m-button](https://github.com/mengdu/m-button) ` 🔥 11 `  - A beautiful button component for vue. 
     * [vue-input-contenteditable](https://github.com/Cobertos/vue-input-contenteditable) ` 🔥 11 ` ` 🌐 6 ` - The same features you expect from ``<input type='text'>`` but in a `contenteditable` Vue component ` 📝 4 months ago`
-    * [vue-restricted-input](https://github.com/Scrum/vue-restricted-input) ` 🔥 10 ` ` 🌐 2 ` - Input mask library for vue.js based on credit-card-input-mask ` 📝 18 hours ago`
+    * [vue-restricted-input](https://github.com/Scrum/vue-restricted-input) ` 🔥 10 ` ` 🌐 2 ` - Input mask library for vue.js based on credit-card-input-mask ` 📝 2 days ago`
+    * [vue-complexify](https://github.com/mazipan/vue-complexify) ` 🔥 10 `  - Vuejs porting library from jquery.complexify.js ` 📝 7 months ago`
     * [vue-list-picker](https://github.com/guastallaigor/vue-list-picker) ` 🔥 10 ` ` 🌐 7 ` - Just a simple list picker component made with Vue.js. ` 📝 4 months ago`
     * [iv-slider](https://github.com/lycHub/v-slider) ` 🔥 8 `  - 一款基于vue的滑块插件 
-    * [@vueform/slider](https://github.com/vueform/slider) ` 🔥 8 ` ` 🌐 1 ` - Vue 3 slider component with multihandles, tooltips merging and formatting. ` 📝 16 days ago`
-    * [@vueform/toggle](https://github.com/vueform/toggle) ` 🔥 7 ` ` 🌐 1 ` - Vue 3 toggle component with labels, custom slots and styling options. ` 📝 9 days ago`
+    * [@vueform/slider](https://github.com/vueform/slider) ` 🔥 8 ` ` 🌐 1 ` - Vue 3 slider component with multihandles, tooltips merging and formatting. ` 📝 17 days ago`
+    * [@vueform/toggle](https://github.com/vueform/toggle) ` 🔥 7 ` ` 🌐 1 ` - Vue 3 toggle component with labels, custom slots and styling options. ` 📝 10 days ago`
     * [vue-infinite-autocomplete](https://github.com/Attrash-Islam/vue-infinite-autocomplete) ` 🔥 5 `  - Vue infinite-autocomplete wrapper 
     * [vue-tristate-checkbox](https://github.com/hartwork/vue-tristate-checkbox) ` 🔥 4 `  - Vue.js component implementing a cycling tristate checkbox that supports form submission ` 📝 9 months ago`
+    * [@kiyoaki_w/vue-context](https://github.com/Kiyoaki-w/Ki-vue-context) ` 🔥 3 ` ` 🌐 4 ` - A customizable context menu component built for Vue2, supporting fontawesome icons, auto right/bottom boundary detection. ` 📝 2 years ago`
     * [vue-autosizer](https://github.com/hfalucas/vue-autosizer) ` 🔥 3 `  - A light replacement for built-in `<textarea>` and `<input>` elements allowing them to automatically grow to fit the content. 
     * [simple-vue2-datetimepicker](https://github.com/jamespjarvis/simple-vue2-datetimepicker) ` 🔥 2 ` ` 🌐 11 ` - a vue.js component for easy date and time picking. ` 📝 2 years ago`
     * [xns-seek-bar](https://github.com/xinnks/xns-seek-bar) ` 🔥 2 ` ` 🌐 5 ` - A seekable progress bar component for Vue.js ` 📝 a month ago`
+    * [@overcoder/vue-context-menu](https://github.com/MicroDroid/vue-context-menu) ` 🔥 2 `  - Context menus for VueJS 
     * [@utlime/vue-zoom](https://github.com/utlime/vue-zoom) ` 🔥 2 `  - vue zoom component 
     * [vue-combo-blocks](https://github.com/sssmi/vue-combo-blocks) ` 🔥 1 ` ` 🌐 2 ` - Very Downshift like autocomplete solution for Vue ` 📝 3 months ago`
     * [vue-input-text-to-tags](https://github.com/leepyng/vue-input-text-to-tags) ` 🔥 1 `  - a input component that can create tags for the result display ` 📝 9 months ago`
@@ -1895,6 +1925,7 @@ Original Data from [Awesome Vue](https://github.com/vuejs/awesome-vue/blob/maste
     * [vue-ele-form](https://github.com/dream2023/vue-ele-form)   
     * [vue-otp-2](https://github.com/tonghoai/vue-otp-2)   
     * [vue-form-generator](https://github.com/vue-generators/vue-form-generator)   
+    * [vue-form-builder](https://github.com/openfext/vue-form-builder)   
     * [vue-dynamic-inputs](https://github.com/taverasady/vue-dynamic-inputs)   
     * [Vue Flow Form](https://github.com/ditdot-dev/vue-flow-form)   
     * [vue-datepicker](https://github.com/hilongjw/vue-datepicker)   
@@ -1948,43 +1979,12 @@ Original Data from [Awesome Vue](https://github.com/vuejs/awesome-vue/blob/maste
     * [vue-upload-component](https://github.com/lian-yue/vue-upload-component)   
     * [vue-uploader](https://github.com/simple-uploader/vue-uploader)   
     * [ic-firebase-uploader](https://github.com/InCuca/ic-firebase-uploader)   
-    * [vuejs-uploader](https://github.com/charliekassel/vuejs-uploader)   
-    * [vue-filepond](https://github.com/pqina/vue-filepond)   
-    * [v-uploader](https://github.com/TerryZ/v-uploader)   
-    * [vue-file-agent](https://github.com/safrazik/vue-file-agent)   
-    * [vue-cloudinary-uploader](https://github.com/xinnks/vue-cloudinary-uploader)   
-    * [vue-context-menu](https://github.com/vmaimone/vue-context-menu)   
-    * [vue-lil-context-menu](https://github.com/timwis/vue-lil-context-menu)   
-    * [vue-mouse-menu](https://github.com/zgj233/vue-mouse-menu)   
-    * [vue-context](https://github.com/rawilk/vue-context)   
-    * [vue-simple-context-menu](https://github.com/johndatserakis/vue-simple-context-menu)   
+    * [vue-cloudinary-uploader](https://github.com/xinnks/vue-cloudinary-uploader) ` 🔥 0 `  - A cloudinary image cropper and uploader component for VueJs ` 📝 6 days ago`
     * [vue-context-menu-popup](https://github.com/Johnathan/vue-context-menu-popup)   
-    * [@kiyoaki_w/vue-context](https://github.com/Kiyoaki-w/Ki-vue-context)   
-    * [@overcoder/vue-context-menu](https://github.com/MicroDroid/vue-context-menu)   
-    * [vue-gmaps](https://github.com/ridermansb/vue-gmaps)   
-    * [vuep](https://github.com/QingWei-Li/vuep)   
-    * [vue-places](https://github.com/Gomah/vue-places)   
-    * [vue-password-strength-meter](https://github.com/apertureless/vue-password-strength-meter)   
-    * [vue-float-label](https://github.com/bkzl/vue-float-label)   
-    * [vue-longpress](https://github.com/javisperez/vuelongpress)   
-    * [vue-google-autocomplete](https://github.com/olefirenko/vue-google-autocomplete)   
-    * [vue-default-value](https://github.com/termosa/vue-default-value)   
-    * [vue-model-autoset](https://github.com/outluch/vue-model-autoset)   
     * [vue-submit](https://github.com/NxtChg/pieces/tree/master/js/vue/vue-submit)   
-    * [vue-rate](https://github.com/SinanMtl/vue-rate)   
-    * [vuetify-google-autocomplete](https://github.com/MadimetjaShika/vuetify-google-autocomplete)   
-    * [vue-ripple-directive](https://github.com/PygmySlowLoris/vue-ripple-directive)   
-    * [vue-fab](https://github.com/PygmySlowLoris/vue-fab)   
-    * [vue-complexify](https://github.com/mazipan/vue-complexify)   
-    * [vue-mc](https://github.com/FiguredLimited/vue-mc)   
     * [vue-stars](https://www.tallent.us/vue-stars/)   
-    * [vue-confirmation-button](https://github.com/imRohan/vue-confirmation-button)   
-    * [vue-poll](https://github.com/ppietris/vue-poll)   
-    * [vue-diagrams](https://github.com/gwenaelp/vue-diagrams)   
     * [vue-ui-predicate](https://github.com/FGRibreau/ui-predicate/tree/master/packages/ui-predicate-vue)   
-    * [vue-stepper](https://github.com/PygmySlowLoris/vue-stepper)   
-    * [vue-stepper-component](https://github.com/adi518/vue-stepper-component)   
-    * [fastcomments-vue](https://github.com/fastcomments/fastcomments-vue) ` 🔥 0 ` ` 🌐 2 ` - A Vue Component for FastComments ` 📝 10 days ago`
+    * [fastcomments-vue](https://github.com/fastcomments/fastcomments-vue) ` 🔥 0 ` ` 🌐 2 ` - A Vue Component for FastComments ` 📝 11 days ago`
   
 * #### Canvas [🔝](#readme)
 
@@ -1995,7 +1995,7 @@ Original Data from [Awesome Vue](https://github.com/vuejs/awesome-vue/blob/maste
     * [vue-canvas-effect](https://github.com/chenxuan0000/vue-canvas-effect) ` 🔥 94 ` ` 🌐 36 ` - vue canvas动效库 ` 📝 3 years ago`
     * [vue-html2canvas](https://github.com/mycure-inc/vue-html2canvas) ` 🔥 87 `  - Vue mixin for Html2Canvas ` 📝 3 months ago`
     * [vue-easeljs](http://github.com/dankuck/vue-easeljs) ` 🔥 74 ` ` 🌐 27 ` - A Vue.js plugin to control an HTML5 canvas using EaselJS ` 📝 9 months ago`
-    * [vue-scratchable](https://github.com/sebastianwachter/vue-scratchable) ` 🔥 18 `  - A Vue.js wrapper component that turns everything into fun scratch cards. ` 📝 10 days ago`
+    * [vue-scratchable](https://github.com/sebastianwachter/vue-scratchable) ` 🔥 18 `  - A Vue.js wrapper component that turns everything into fun scratch cards. ` 📝 11 days ago`
     * [vue-rough](https://github.com/dneustadt/vue-rough) ` 🔥 10 `  - A small components library to use Rough.js in Vue. 
     * [vue-pencil.js](https://github.com/pencil-js/vue-pencil.js) ` 🔥 5 ` ` 🌐 4 ` - Pencil.js  Vue - Build reactive 2D graphics scene in your Vue project ` 📝 2 months ago`
   
@@ -2011,11 +2011,11 @@ Original Data from [Awesome Vue](https://github.com/vuejs/awesome-vue/blob/maste
 ## UI Layout [🔝](#readme)
 
 * [vue-virtual-scroller](https://github.com/Akryum/vue-virtual-scroller) ` 🔥 5.2k ` ` 🌐 2.1k ` - Blazing fast scrolling for any amount of data ` 📝 8 months ago `
-* [vue-grid-layout](https://github.com/jbaysolutions/vue-grid-layout) ` 🔥 4.4k ` ` 🌐 1.6k ` - A draggable and resizable grid layout, for Vue.js. ` 📝 4 days ago `
+* [vue-grid-layout](https://github.com/jbaysolutions/vue-grid-layout) ` 🔥 4.4k ` ` 🌐 1.6k ` - A draggable and resizable grid layout, for Vue.js. ` 📝 5 days ago `
 * [vue-virtual-scroll-list](https://github.com/tangbc/vue-virtual-scroll-list) ` 🔥 2.5k ` ` 🌐 817 ` - A vue component support big amount data list with high render performance and efficient. ` 📝 2 months ago `
 * [vue-waterfall](https://github.com/MopTym/vue-waterfall) ` 🔥 1.9k ` ` 🌐 691 ` - A waterfall layout component for Vue.js ` 📝 4 years ago `
 * [vue-fullpage.js](https://github.com/alvarotrigo/vue-fullpage.js) ` 🔥 1.5k ` ` 🌐 1k ` - Official Vue.js wrapper for fullPage.js http://alvarotrigo.com/vue-fullpage/ ` 📝 5 months ago `
-* [vue-masonry](https://github.com/shershen08/vue-masonry) ` 🔥 497 ` ` 🌐 1.2k ` - Vue.js directive for masonry blocks layouting ` 📝 25 days ago `
+* [vue-masonry](https://github.com/shershen08/vue-masonry) ` 🔥 497 ` ` 🌐 1.2k ` - Vue.js directive for masonry blocks layouting ` 📝 a month ago `
 * [vue-virtual-collection](https://github.com/starkwang/vue-virtual-collection) ` 🔥 485 ` ` 🌐 74 ` - Vue component for efficiently rendering large collection data ` 📝 8 months ago `
 * [splitpanes](https://github.com/antoniandre/splitpanes) ` 🔥 448 `  - A Vue & Vue3 reliable, simple and touch-ready panes splitter / resizer. 
 * [vue-masonry-css](https://github.com/paulcollett/vue-masonry-css) ` 🔥 378 ` ` 🌐 618 ` - Vue.js Masonry layout component powered by CSS, dependancy free ` 📝 2 years ago `
@@ -2026,10 +2026,10 @@ Original Data from [Awesome Vue](https://github.com/vuejs/awesome-vue/blob/maste
 * [vue-extend-layout](https://github.com/ktquez/vue-extend-layout) ` 🔥 130 `  - Default layout or create custom layouts for the pages of your Vue.js SPA (Multiple layouts) 
 * [vue-responsive-dash](https://github.com/bensladden/vue-responsive-dash) ` 🔥 110 ` ` 🌐 41 ` - Responsive, Draggable & Resizable Dashboard (Grid) for Vue ` 📝 5 months ago `
 * [vue-drag-zone](https://github.com/surmon-china/vue-drag-zone) ` 🔥 108 ` ` 🌐 20 ` - Drag Zone component for @vuejs ` 📝 10 months ago `
-* [vue-inview](https://github.com/rachmanzz/vue-inview) ` 🔥 90 ` ` 🌐 71 ` - vue-plugin for in-view package ` 📝 3 days ago `
+* [vue-inview](https://github.com/rachmanzz/vue-inview) ` 🔥 90 ` ` 🌐 71 ` - vue-plugin for in-view package ` 📝 4 days ago `
 * [vue-fraction-grid](https://github.com/bkzl/vue-fraction-grid) ` 🔥 88 `  - Flexbox based responsive fraction grid system 
-* [vue-horizontal-list](https://github.com/fuxingloh/vue-horizontal-list) ` 🔥 73 ` ` 🌐 111 ` - A pure vue native horizontal list implementation for mobile/touch and responsive web. ` 📝 15 days ago `
-* [vue-masonry-wall](https://github.com/fuxingloh/vue-masonry-wall) ` 🔥 65 ` ` 🌐 46 ` - A pure vue responsive masonry layout without direct dom manipulation and ssr support. ` 📝 12 days ago `
+* [vue-horizontal-list](https://github.com/fuxingloh/vue-horizontal-list) ` 🔥 73 ` ` 🌐 111 ` - A pure vue native horizontal list implementation for mobile/touch and responsive web. ` 📝 16 days ago `
+* [vue-masonry-wall](https://github.com/fuxingloh/vue-masonry-wall) ` 🔥 65 ` ` 🌐 46 ` - A pure vue responsive masonry layout without direct dom manipulation and ssr support. ` 📝 13 days ago `
 * [vue-smart-widget](https://github.com/xiaoluoboding/vue-smart-widget) ` 🔥 54 `  - Smart widget is a flexible and extensible content container component for Vue2.x. 
 * [vue-simple-drawer](https://github.com/dreambo8563/vue-simple-drawer) ` 🔥 48 ` ` 🌐 54 ` - A tiny Drawer component with bounced animation for Vue ` 📝 a year ago `
 * [vue-grd](https://github.com/1000ch/vue-grd) ` 🔥 38 ` ` 🌐 15 ` - Simple, Light-weight and Flexible Vue.js component for grid layout. ` 📝 6 months ago `
@@ -2052,36 +2052,36 @@ Original Data from [Awesome Vue](https://github.com/vuejs/awesome-vue/blob/maste
   
 * #### Responsive [🔝](#readme)
 
-    * [element-ui](https://github.com/ElemeFE/element) ` 🔥 48.9k ` ` 🌐 209k ` - A Vue.js 2.0 UI Toolkit for Web ` 📝 7 days ago`
-    * [vuetify](https://github.com/vuetifyjs/vuetify) ` 🔥 29.3k ` ` 🌐 127k ` - Material Component Framework for Vue ` 📝 2 days ago`
-    * [quasar-framework](https://github.com/quasarframework/quasar) ` 🔥 17.4k ` ` 🌐 10.4k ` - Quasar Framework - Build high-performance VueJS user interfaces in record time ` 📝 2 days ago`
-    * [ant-design-vue](https://github.com/vueComponent/ant-design-vue) ` 🔥 13.5k ` ` 🌐 15.1k ` - An enterprise-class UI components based on Ant Design and Vue. ` 📝 2 days ago`
-    * [BootstrapVue](https://github.com/bootstrap-vue/bootstrap-vue) ` 🔥 12.8k ` ` 🌐 85.9k ` - BootstrapVue provides one of the most comprehensive implementations of Bootstrap v4 for Vue.js. With extensive and automated WAI-ARIA accessibility markup. ` 📝 2 days ago`
+    * [element-ui](https://github.com/ElemeFE/element) ` 🔥 48.9k ` ` 🌐 209k ` - A Vue.js 2.0 UI Toolkit for Web ` 📝 8 days ago`
+    * [vuetify](https://github.com/vuetifyjs/vuetify) ` 🔥 29.3k ` ` 🌐 127k ` - Material Component Framework for Vue ` 📝 3 days ago`
+    * [quasar-framework](https://github.com/quasarframework/quasar) ` 🔥 17.4k ` ` 🌐 10.4k ` - Quasar Framework - Build high-performance VueJS user interfaces in record time ` 📝 3 days ago`
+    * [ant-design-vue](https://github.com/vueComponent/ant-design-vue) ` 🔥 13.5k ` ` 🌐 15.1k ` - An enterprise-class UI components based on Ant Design and Vue. ` 📝 3 days ago`
+    * [BootstrapVue](https://github.com/bootstrap-vue/bootstrap-vue) ` 🔥 12.8k ` ` 🌐 85.9k ` - BootstrapVue provides one of the most comprehensive implementations of Bootstrap v4 for Vue.js. With extensive and automated WAI-ARIA accessibility markup. ` 📝 3 days ago`
     * [vue-material](https://github.com/vuematerial/vue-material) ` 🔥 9.2k ` ` 🌐 13.2k ` - Material design for Vue.js ` 📝 a month ago`
-    * [buefy](https://github.com/rafaelpimpa/buefy) ` 🔥 8.4k ` ` 🌐 14.4k ` - Lightweight UI components for Vue.js based on Bulma ` 📝 4 days ago`
+    * [buefy](https://github.com/rafaelpimpa/buefy) ` 🔥 8.4k ` ` 🌐 14.4k ` - Lightweight UI components for Vue.js based on Bulma ` 📝 5 days ago`
     * [muse-ui](https://github.com/museui/muse-ui) ` 🔥 8.2k ` ` 🌐 4.9k ` - Material Design UI library for Vuejs 2.0 ` 📝 2 years ago`
-    * [element3](https://github.com/kkbjs/element3) ` 🔥 2.5k ` ` 🌐 52 ` - A Vue.js 3.0 UI Toolkit for Web. ` 📝 11 days ago`
+    * [element3](https://github.com/kkbjs/element3) ` 🔥 2.5k ` ` 🌐 52 ` - A Vue.js 3.0 UI Toolkit for Web. ` 📝 12 days ago`
     * [heyui](https://github.com/heyui/heyui) ` 🔥 2.3k ` ` 🌐 173 ` - UI Toolkit for Web, Vue2.0 http://www.heyui.top ` 📝 a month ago`
     * [N3-components](https://github.com/N3-components/N3-components) ` 🔥 1k ` ` 🌐 81 ` - N3-components , Powerful Vue UI Library. 
-    * [Chakra UI Vue](https://github.com/chakra-ui/chakra-ui-vue) ` 🔥 925 ` ` 🌐 110 ` - Build scalable and accessible Vue.js applications with ease. ` 📝 16 days ago`
+    * [Chakra UI Vue](https://github.com/chakra-ui/chakra-ui-vue) ` 🔥 925 ` ` 🌐 110 ` - Build scalable and accessible Vue.js applications with ease. ` 📝 17 days ago`
     * [zircle-ui](https://github.com/zircleUI/zircleUI) ` 🔥 859 ` ` 🌐 27 ` - zircle-ui is a frontend library to develop zoomable user interfaces. ` 📝 5 months ago`
     * [MDBootstrap](https://github.com/mdbootstrap/Vue-Bootstrap-with-Material-Design) ` 🔥 801 ` ` 🌐 2.3k ` - Vue Bootstrap with Material Design - Powerful and free UI KIT ` 📝 2 months ago`
     * [Inkline](https://github.com/inkline/inkline/) ` 🔥 579 ` ` 🌐 75 ` - Inkline is the customizable Vue.js UI/UX Library designed for creating flawless responsive websites. ` 📝 2 months ago`
     * [Shards Vue](https://github.com/designrevision/shards-vue) ` 🔥 387 ` ` 🌐 192 ` - Shards Vue is a free, beautiful and modern Vue.js UI kit based on Shards. ` 📝 2 years ago`
     * [Material Components Vue](https://github.com/matsp/material-components-vue) ` 🔥 317 ` ` 🌐 67 ` - Material Design styled components for Vue.js ` 📝 7 months ago`
-    * [@Carbon/vue](https://github.com/carbon-design-system/carbon-components-vue) ` 🔥 312 `  - Vue implementation of the Carbon Design System ` 📝 8 days ago`
+    * [@Carbon/vue](https://github.com/carbon-design-system/carbon-components-vue) ` 🔥 312 `  - Vue implementation of the Carbon Design System ` 📝 9 days ago`
     * [vue-awesome-mui](https://github.com/Wscats/vue-awesome-mui) ` 🔥 308 `  - Mui component for Vue.js(1.x ~ 2.x) 
     * [CoreUI for Vue.js](https://github.com/coreui/coreui-vue) ` 🔥 301 ` ` 🌐 1.4k ` - Over 90 Bootstrap based Vue.js components and directives. CoreUI React.js UI Components. CoreUI for Vue.js replaces and extends the Bootstrap javascript. Components have been built from scratch as true Vue components, without jQuery and unneeded dependencies. ` 📝 a month ago`
-    * [Framevuerk](https://github.com/framevuerk/framevuerk) ` 🔥 248 ` ` 🌐 31 ` - Fast, Responsive, Multi Language, Both Direction Support and Configurable UI Framework based on Vue.js. ` 📝 13 days ago`
-    * [oruga](https://github.com/oruga-ui/oruga) ` 🔥 219 ` ` 🌐 10 ` - Oruga is a lightweight library of UI components without CSS framework dependency ` 📝 a day ago`
-    * [Fundamental Vue](https://github.com/SAP/fundamental-vue) ` 🔥 165 ` ` 🌐 25 ` - Vue.js components implementation of Fundamental Library Styles guidelines. The library is aiming to provide a Vue.js implementation of the components designed in Fundamental Library Styles. ` 📝 13 days ago`
+    * [Framevuerk](https://github.com/framevuerk/framevuerk) ` 🔥 248 ` ` 🌐 31 ` - Fast, Responsive, Multi Language, Both Direction Support and Configurable UI Framework based on Vue.js. ` 📝 14 days ago`
+    * [oruga](https://github.com/oruga-ui/oruga) ` 🔥 219 ` ` 🌐 10 ` - Oruga is a lightweight library of UI components without CSS framework dependency ` 📝 2 days ago`
+    * [Fundamental Vue](https://github.com/SAP/fundamental-vue) ` 🔥 165 ` ` 🌐 25 ` - Vue.js components implementation of Fundamental Library Styles guidelines. The library is aiming to provide a Vue.js implementation of the components designed in Fundamental Library Styles. ` 📝 14 days ago`
     * [vue-bulma-components](https://github.com/vouill/vue-bulma-components) ` 🔥 159 `  - Translate Bulma css api to vue components ` 📝 2 years ago`
-    * [Qui](https://github.com/Qvant-lab/qui) ` 🔥 137 ` ` 🌐 1 ` - A Vue.js design-system for Web. ` 📝 2 days ago`
+    * [Qui](https://github.com/Qvant-lab/qui) ` 🔥 137 ` ` 🌐 1 ` - A Vue.js design-system for Web. ` 📝 3 days ago`
     * [BalmUI](https://github.com/balmjs/balm-ui) ` 🔥 113 ` ` 🌐 31 ` - A modular and customizable UI library based on Material Design and Vue 
     * [DaoStyle](https://github.com/DaoCloud/dao-style) ` 🔥 105 `  - A high quality component library built on Vue.js 2.0 ` 📝 7 months ago`
-    * [Wave UI](https://github.com/antoniandre/wave-ui) ` 🔥 73 ` ` 🌐 15 ` - An emerging UI framework for Vue.js & Vue 3 with only the bright side. ` 📝 11 days ago`
+    * [Wave UI](https://github.com/antoniandre/wave-ui) ` 🔥 73 ` ` 🌐 15 ` - An emerging UI framework for Vue.js & Vue 3 with only the bright side. ` 📝 12 days ago`
     * [VueFace](https://github.com/sudheerj/vueface) ` 🔥 70 `  - UI Components for Vue 
-    * [vue-material-adapter](https://github.com/pgbross/vue-material-adapter) ` 🔥 55 ` ` 🌐 13 ` - Vue wrapper arround Material Components for the Web ` 📝 15 days ago`
+    * [vue-material-adapter](https://github.com/pgbross/vue-material-adapter) ` 🔥 55 ` ` 🌐 13 ` - Vue wrapper arround Material Components for the Web ` 📝 16 days ago`
     * [vue-canvas](https://github.com/loo41/vuc) ` 🔥 47 `  - 基于 Vuejs 的 Canvas 组件库 ` 📝 a year ago`
     * [vectre](https://github.com/vectrejs/vectre) ` 🔥 43 ` ` 🌐 3 ` - Most complete implementation of Spectre.css on Vue.js ` 📝 3 months ago`
     * [superBVue](https://github.com/superbvue/SuperBVue) ` 🔥 1 ` ` 🌐 1 ` - The Most Complete Vue UI Component Library using bootstrap v5 
@@ -2097,11 +2097,11 @@ Original Data from [Awesome Vue](https://github.com/vuejs/awesome-vue/blob/maste
 * #### Mobile [🔝](#readme)
 
     * [vux](https://github.com/airyland/vux) ` 🔥 17.4k ` ` 🌐 10.4k ` - Mobile UI Components based on Vue & WeUI ` 📝 9 months ago`
-    * [vant](https://github.com/youzan/vant) ` 🔥 16.5k ` ` 🌐 27.1k ` - Lightweight Mobile UI Components built on Vue ` 📝 2 days ago`
+    * [vant](https://github.com/youzan/vant) ` 🔥 16.5k ` ` 🌐 27.1k ` - Lightweight Mobile UI Components built on Vue ` 📝 3 days ago`
     * [mint-ui](https://github.com/ElemeFE/mint-ui) ` 🔥 16.2k ` ` 🌐 32.7k ` - Mobile UI elements for Vue.js ` 📝 3 years ago`
-    * [Framework7-Vue](https://github.com/framework7io/framework7) ` 🔥 16k ` ` 🌐 3.4k ` - Full featured HTML framework for building iOS & Android apps ` 📝 a day ago`
-    * [vue-onsenui](https://github.com/OnsenUI/OnsenUI) ` 🔥 8.2k ` ` 🌐 2.7k ` - Mobile app development framework and SDK using HTML5 and JavaScript. Create beautiful and performant cross-platform mobile apps. Based on Web Components, and provides bindings for Angular 1, 2, React and Vue.js. ` 📝 4 days ago`
-    * [NutUI](https://github.com/jdf2e/nutui/) ` 🔥 2.5k ` ` 🌐 294 ` - 轻量级移动端 Vue 组件库 (A Vue.js UI Toolkit for Mobile Web) ` 📝 8 days ago`
+    * [Framework7-Vue](https://github.com/framework7io/framework7) ` 🔥 16k ` ` 🌐 3.4k ` - Full featured HTML framework for building iOS & Android apps ` 📝 2 days ago`
+    * [vue-onsenui](https://github.com/OnsenUI/OnsenUI) ` 🔥 8.2k ` ` 🌐 2.7k ` - Mobile app development framework and SDK using HTML5 and JavaScript. Create beautiful and performant cross-platform mobile apps. Based on Web Components, and provides bindings for Angular 1, 2, React and Vue.js. ` 📝 5 days ago`
+    * [NutUI](https://github.com/jdf2e/nutui/) ` 🔥 2.5k ` ` 🌐 294 ` - 轻量级移动端 Vue 组件库 (A Vue.js UI Toolkit for Mobile Web) ` 📝 9 days ago`
     * [weex-eros](https://github.com/bmfe/eros-template) ` 🔥 141 `  - eros app 开发模板。 
     * [Weex](https://weex.incubator.apache.org/)   
     * [cube-ui](https://didi.github.io/cube-ui)   
@@ -2116,14 +2116,14 @@ Original Data from [Awesome Vue](https://github.com/vuejs/awesome-vue/blob/maste
     * [vuikit](https://github.com/vuikit/vuikit) ` 🔥 1.5k ` ` 🌐 368 ` - A responsive Vue UI library for web site interfaces ` 📝 9 months ago`
     * [vue-mdc](https://github.com/posva/vue-mdc) ` 🔥 1.2k ` ` 🌐 28 ` - Material web components for Vue.js ` 📝 3 years ago`
     * [vuedarkmode](https://github.com/LeCoupa/vuedarkmode) ` 🔥 1k ` ` 🌐 85 ` - A minimalist dark design system for Vue.js. Based components designed for the insomniacs who enjoy dark interfaces as much as we do. ` 📝 a month ago`
-    * [vue-tailwind](https://github.com/alfonsobries/vue-tailwind) ` 🔥 992 ` ` 🌐 376 ` - Vue UI components with configurable classes ready for TailwindCSS ` 📝 a day ago`
+    * [vue-tailwind](https://github.com/alfonsobries/vue-tailwind) ` 🔥 992 ` ` 🌐 376 ` - Vue UI components with configurable classes ready for TailwindCSS ` 📝 2 days ago`
     * [Semantic UI Vue](https://github.com/Semantic-UI-Vue/Semantic-UI-Vue) ` 🔥 911 ` ` 🌐 1.3k ` - Semantic UI integration for Vue 
-    * [uiv](https://github.com/uiv-lib/uiv) ` 🔥 875 ` ` 🌐 632 ` - Bootstrap 3 components implemented by Vue 2. ` 📝 a day ago`
+    * [uiv](https://github.com/uiv-lib/uiv) ` 🔥 875 ` ` 🌐 632 ` - Bootstrap 3 components implemented by Vue 2. ` 📝 2 days ago`
     * [wffranco/vue-strap](https://github.com/wffranco/vue-strap) ` 🔥 344 `  - Bootstrap components built with Vue.js 
-    * [Equal UI](https://github.com/quatrochan/Equal) ` 🔥 303 ` ` 🌐 9 ` - Equal is a Vue 3 UI library based on TypeScript ` 📝 14 days ago`
+    * [Equal UI](https://github.com/quatrochan/Equal) ` 🔥 303 ` ` 🌐 9 ` - Equal is a Vue 3 UI library based on TypeScript ` 📝 15 days ago`
     * [office-ui-fabric-vue](https://github.com/aidewoode/office-ui-fabric-vue) ` 🔥 271 ` ` 🌐 34 ` - Office UI Fabric implementation for Vue.js 
-    * [DevExtreme Vue Components](https://github.com/DevExpress/devextreme-vue) ` 🔥 199 ` ` 🌐 293 ` - Vue UI and data visualization components ` 📝 18 hours ago`
-    * [Vuent](https://github.com/arturmiz/vuent) ` 🔥 192 ` ` 🌐 7 ` - Vue.js components implementing Microsoft Fluent Design ` 📝 16 days ago`
+    * [DevExtreme Vue Components](https://github.com/DevExpress/devextreme-vue) ` 🔥 199 ` ` 🌐 293 ` - Vue UI and data visualization components ` 📝 2 days ago`
+    * [Vuent](https://github.com/arturmiz/vuent) ` 🔥 192 ` ` 🌐 7 ` - Vue.js components implementing Microsoft Fluent Design ` 📝 17 days ago`
     * [vue-atlas](https://github.com/nvms/vue-atlas) ` 🔥 174 ` ` 🌐 30 ` - A Vue.js 2 UI component library. 
     * [Banshee](https://github.com/banshee-ui/banshee) ` 🔥 86 ` ` 🌐 2 ` - A mostly renderless Vue UI component and utility framework. ` 📝 2 years ago`
     * [Vue Component Development Kit](https://github.com/christiankienle/cdk) ` 🔥 76 `  - Vue Component Development Kit 
@@ -2139,7 +2139,7 @@ Original Data from [Awesome Vue](https://github.com/vuejs/awesome-vue/blob/maste
 * #### Admin Template [🔝](#readme)
 
     * [vue-element-admin](https://github.com/PanJiaChen/vue-element-admin) ` 🔥 64.2k ` ` 🌐 11 ` - A magical vue admin https://panjiachen.github.io/vue-element-admin ` 📝 2 months ago`
-    * [D2 Admin](https://github.com/d2-projects/d2-admin) ` 🔥 9.9k `  - An elegant dashboard ` 📝 16 days ago`
+    * [D2 Admin](https://github.com/d2-projects/d2-admin) ` 🔥 9.9k `  - An elegant dashboard ` 📝 17 days ago`
     * [Vue Material Admin](https://github.com/tookit/vue-material-admin) ` 🔥 2k `  - A vue material design admin template ` 📝 2 months ago`
     * [rest-admin](https://github.com/wxs77577/rest-admin) ` 🔥 553 `  - Restful Admin Dashboard Based on Vue and Boostrap 4 ` 📝 6 months ago`
     * [dashboard](https://github.com/zce/dashboard) ` 🔥 488 `  - A dashboard scaffolding based on Vue.js created by Vue CLI. ` 📝 a month ago`
@@ -2153,16 +2153,16 @@ Original Data from [Awesome Vue](https://github.com/vuejs/awesome-vue/blob/maste
   
 * #### Server-side rendering [🔝](#readme)
 
-    * [Nuxt.js](https://github.com/nuxt/nuxt.js) ` 🔥 33.2k ` ` 🌐 106k ` - The Intuitive Vue Framework ` 📝 2 days ago`
+    * [Nuxt.js](https://github.com/nuxt/nuxt.js) ` 🔥 33.2k ` ` 🌐 106k ` - The Intuitive Vue Framework ` 📝 3 days ago`
     * [Factor Platform](https://github.com/fiction-com/factor) ` 🔥 1.1k ` ` 🌐 40 ` - 100% JavaScript framework for marketing sites and application dashboards. ` 📝 2 months ago`
-    * [Vapper](https://github.com/shuidi-fed/vapper) ` 🔥 428 `  - A Vue-based server-side rendering framework ` 📝 7 days ago`
+    * [Vapper](https://github.com/shuidi-fed/vapper) ` 🔥 428 `  - A Vue-based server-side rendering framework ` 📝 8 days ago`
     * [Ream](https://github.com/ream/ream) ` 🔥 190 ` ` 🌐 65 ` - [Alpha] A full-stack framework for building web apps, powered by Vue 3. ` 📝 2 months ago`
     * [Universal vue](https://github.com/universal-vue/uvue) ` 🔥 116 ` ` 🌐 48 ` - Vue CLI plugin to create universal Vue applications with ease ` 📝 6 months ago`
   
 * #### Static website generator [🔝](#readme)
 
-    * [VuePress](https://github.com/vuejs/vuepress) ` 🔥 18.2k ` ` 🌐 14.5k ` - Minimalistic Vue-powered static site generator ` 📝 2 days ago`
-    * [Gridsome](https://github.com/gridsome/gridsome) ` 🔥 7.2k ` ` 🌐 10.3k ` - The Jamstack framework for Vue.js ` 📝 9 days ago`
+    * [VuePress](https://github.com/vuejs/vuepress) ` 🔥 18.2k ` ` 🌐 14.5k ` - Minimalistic Vue-powered static site generator ` 📝 3 days ago`
+    * [Gridsome](https://github.com/gridsome/gridsome) ` 🔥 7.2k ` ` 🌐 10.3k ` - The Jamstack framework for Vue.js ` 📝 10 days ago`
     * [Saber](https://github.com/saberland/saber) ` 🔥 2k `  - ()==[:::::::::::::>` Build static sites in Vue.js, without the hassle ` 📝 5 months ago`
     * [Peco](https://github.com/egojump/peco) ` 🔥 213 ` ` 🌐 13 ` - nothing here, move on.. ` 📝 2 years ago`
     * [Servue](https://github.com/futureaus/servue) ` 🔥 50 ` ` 🌐 8 ` - Server-side rendering engine that renders vue files into html strings ` 📝 a year ago`
@@ -2171,31 +2171,31 @@ Original Data from [Awesome Vue](https://github.com/vuejs/awesome-vue/blob/maste
 
     * [Vue-Access-Control](https://github.com/tower1229/Vue-Access-Control) ` 🔥 1.1k ` ` 🌐 11 ` - Frontend access control framework based Vue ` 📝 5 months ago`
     * [app-framework](https://github.com/scriptPilot/app-framework) ` 🔥 638 ` ` 🌐 24 ` - Applications for any device with HTML, CSS and JavaScript - free and open source! ` 📝 9 months ago`
+    * [vue-notion](https://github.com/janniks/vue-notion) ` 🔥 310 ` ` 🌐 2 ` - A fast Vue renderer for Notion pages ` 📝 2 days ago`
+    * [Figma-Low-Code](https://github.com/KlausSchaefers/figma-low-code) ` 🔥 251 `  - A repository to bootstrap Figma low code projects ` 📝 2 months ago`
+    * [CabloyJS](https://github.com/zhennann/cabloy) ` 🔥 196 ` ` 🌐 3 ` - A Node.js full-stack framework with workflow engine, based on koa + egg + vue + framework7 ` 📝 12 hours ago`
+    * [Basys](https://github.com/basys/basys) ` 🔥 111 ` ` 🌐 4 ` - Toolbox for building full-stack Vue.js apps ` 📝 3 years ago`
+    * [DataFormsJS](https://github.com/dataformsjs/dataformsjs) ` 🔥 88 `  - DataFormsJS  A minimal JavaScript Framework and standalone React and Web Components for rapid development of high quality websites and single page applications. ` 📝 9 days ago`
+    * [V-Craft](https://github.com/yoychen/v-craft) ` 🔥 79 ` ` 🌐 1 ` - A Toolset for Building Extensible Page Builders with Vue.js ` 📝 a month ago`
     * [Myfirebase](https://github.com/myfirebase/myfirebase) ` 🔥 70 `  - A SPA/PWA framework which is highly compatible with Google Firebase ` 📝 a year ago`
-    * [Basys](https://github.com/basys/basys)   
-    * [CabloyJS](https://github.com/zhennann/cabloy)   
-    * [vue-service-model](https://github.com/freakzlike/vue-service-model)   
-    * [DataFormsJS](https://github.com/dataformsjs/dataformsjs)   
-    * [V-Craft](https://github.com/yoychen/v-craft)   
-    * [Vue-Low-Code](https://github.com/KlausSchaefers/vue-low-code)   
-    * [Figma-Low-Code](https://github.com/KlausSchaefers/figma-low-code)   
-    * [vue-notion](https://github.com/janniks/vue-notion)   
+    * [Vue-Low-Code](https://github.com/KlausSchaefers/vue-low-code) ` 🔥 40 ` ` 🌐 11 ` - Quant-UX standalone ` 📝 2 days ago`
+    * [vue-service-model](https://github.com/freakzlike/vue-service-model) ` 🔥 13 ` ` 🌐 4 ` - Vue.js library for handling REST service requests and model definitions. ` 📝 6 days ago`
   
 ## UI Utilities [🔝](#readme)
 
   
 * #### Event Handling [🔝](#readme)
 
-    * [vue-shortkey](https://github.com/iFgR/vue-shortkey)   
-    * [vue-throttle-event](https://github.com/scaccogatto/vue-throttle-event)   
-    * [vue-waypoint](https://github.com/scaccogatto/vue-waypoint)   
-    * [vue-clickaway](https://github.com/simplesmiler/vue-clickaway)   
-    * [vue-scrollfire](https://github.com/vue-comps/vue-scrollfire)   
-    * [vue-resize-directive](https://github.com/David-Desmaisons/Vue.resize)   
-    * [v-click-outside](https://github.com/ndelvalle/v-click-outside)   
-    * [vue-outside-events](https://github.com/nchutchind/vue-outside-events)   
-    * [vue-selectable](https://github.com/JSmith01/vue-selectable)   
-    * [vue-click-helper](https://github.com/huangshuwei/vue-click-helper)   
+    * [vue-clickaway](https://github.com/simplesmiler/vue-clickaway) ` 🔥 905 ` ` 🌐 7.1k ` - Reusable clickaway directive for reusable Vue.js components ` 📝 3 years ago`
+    * [v-click-outside](https://github.com/ndelvalle/v-click-outside) ` 🔥 727 ` ` 🌐 2.8k ` - Vue directive to react on clicks outside an element without stopping the event propagation ` 📝 5 days ago`
+    * [vue-shortkey](https://github.com/iFgR/vue-shortkey) ` 🔥 705 ` ` 🌐 1.1k ` - Vue-ShortKey - The ultimate shortcut plugin to improve the UX ` 📝 a year ago`
+    * [vue-waypoint](https://github.com/scaccogatto/vue-waypoint) ` 🔥 332 ` ` 🌐 417 ` - trigger functions and events based on the element position on the screen ` 📝 6 months ago`
+    * [vue-resize-directive](https://github.com/David-Desmaisons/Vue.resize) ` 🔥 311 ` ` 🌐 807 ` - Vue directive to detect resize events with deboucing and throttling capacity. ` 📝 2 years ago`
+    * [vue-selectable](https://github.com/JSmith01/vue-selectable) ` 🔥 54 `  - Directive to create mouse selection of objects in Vue.js applications 
+    * [vue-outside-events](https://github.com/nchutchind/vue-outside-events) ` 🔥 52 ` ` 🌐 78 ` - Vue 2.x directive to help a specified element listen for specific events occurring outside of itself. ` 📝 3 years ago`
+    * [vue-scrollfire](https://github.com/vue-comps/vue-scrollfire) ` 🔥 25 `  - Fires an event on a specific scroll position ` 📝 4 years ago`
+    * [vue-throttle-event](https://github.com/scaccogatto/vue-throttle-event) ` 🔥 21 ` ` 🌐 8 ` - throttle events based on requestAnimationFrame ` 📝 3 years ago`
+    * [vue-click-helper](https://github.com/huangshuwei/vue-click-helper) ` 🔥 9 `  - A Vue directive to distinguish between click and double click 
     * [v-hotkey](https://github.com/Dafrok/v-hotkey)   
     * [vue-resize](https://github.com/Akryum/vue-resize)   
     * [vue-observe-visibility](https://github.com/Akryum/vue-observe-visibility)   
@@ -2230,7 +2230,7 @@ Original Data from [Awesome Vue](https://github.com/vuejs/awesome-vue/blob/maste
 * #### Form [🔝](#readme)
 
     * [vform](https://github.com/cretueusebiu/vform) ` 🔥 468 ` ` 🌐 4.6k ` - A simple way to handle Laravel back-end validation in Vue 2. 
-    * [FormVuelar](https://github.com/janiskelemen/formvuelar) ` 🔥 260 ` ` 🌐 18 ` - Vue form components with server-side validation in mind ` 📝 11 days ago`
+    * [FormVuelar](https://github.com/janiskelemen/formvuelar) ` 🔥 260 ` ` 🌐 18 ` - Vue form components with server-side validation in mind ` 📝 12 days ago`
     * [vue-form-container](https://github.com/VitorLuizC/vue-form-container) ` 🔥 24 ` ` 🌐 1 ` - A Provider Component that encapsulate your forms and handle their states and validations. ` 📝 2 years ago`
     * [ps-validation](https://github.com/PrimitiveSocial/ps-validation) ` 🔥 12 ` ` 🌐 1 ` - Vue data validation rules, very much inspired from Laravel validation ` 📝 8 months ago`
     * [vue-laravel-errors](https://github.com/Sohaib-Sherif/vue-laravel-errors) ` 🔥 8 `  - A Vue.JS plugin that adds a global mixin which can be used to fill an errors variable from a laravel error response and display it as an object or array, can also be used as a local mixin. 
@@ -2262,15 +2262,15 @@ Original Data from [Awesome Vue](https://github.com/vuejs/awesome-vue/blob/maste
   
 * #### Resize [🔝](#readme)
 
-    * [vue-window-size](https://github.com/mya-ake/vue-window-size) ` 🔥 75 ` ` 🌐 179 ` - Provides reactivity window size properties for Vue.js ` 📝 a day ago`
+    * [vue-window-size](https://github.com/mya-ake/vue-window-size) ` 🔥 75 ` ` 🌐 179 ` - Provides reactivity window size properties for Vue.js ` 📝 2 days ago`
     * [vue-not-visible](https://github.com/PxyUp/vue-not-visible) ` 🔥 22 ` ` 🌐 6 ` - Vue directive for conditional rendering element on screen smaller than breakpoints ` 📝 2 years ago`
     * [vue-responsive-text](https://github.com/shwilliam/vue-responsive-text) ` 🔥 20 `  - Vue component that scales its child node in relation to its parent node's width 
   
 * #### Scroll [🔝](#readme)
 
-    * [vue-scrollto](https://github.com/rigor789/vue-scrollTo) ` 🔥 1.7k ` ` 🌐 7.9k ` - Adds a directive that listens for click events and scrolls to elements. ` 📝 2 days ago`
+    * [vue-scrollto](https://github.com/rigor789/vue-scrollTo) ` 🔥 1.7k ` ` 🌐 7.9k ` - Adds a directive that listens for click events and scrolls to elements. ` 📝 3 days ago`
     * [vue-seamless-scroll](https://github.com/chenxuan0000/vue-seamless-scroll) ` 🔥 1.1k ` ` 🌐 873 ` - A simple, seamless scrolling for Vue.js vue无缝滚动component ` 📝 a month ago`
-    * [vuescroll](https://github.com/YvesCoding/vuescroll) ` 🔥 985 ` ` 🌐 1.7k ` - A customizable scrollbar plugin based on vue.js for PC , mobile phone, touch screen, laptop. ` 📝 16 days ago`
+    * [vuescroll](https://github.com/YvesCoding/vuescroll) ` 🔥 985 ` ` 🌐 1.7k ` - A customizable scrollbar plugin based on vue.js for PC , mobile phone, touch screen, laptop. ` 📝 17 days ago`
     * [vue-chat-scroll](https://github.com/theomessin/vue-chat-scroll) ` 🔥 514 ` ` 🌐 3.1k ` - Vue directive to keep things scrolled to the bottom. 
     * [vue-scrollactive](https://github.com/eddiemf/vue-scrollactive) ` 🔥 438 ` ` 🌐 725 ` - Lightweight and simple to use vue component that highlights menu items as you scroll the page, also scrolling to target section when clicked. ` 📝 8 months ago`
     * [vue-intersect](https://github.com/heavyy/vue-intersect) ` 🔥 282 `  - A Vue component to add intersection-observer to a Vue component or HTML element. 
@@ -2301,7 +2301,7 @@ Original Data from [Awesome Vue](https://github.com/vuejs/awesome-vue/blob/maste
   
 * #### Routing [🔝](#readme)
 
-    * [vue-router](https://github.com/vuejs/vue-router) ` 🔥 17.6k ` ` 🌐 973k ` - The official router for Vue.js. ` 📝 7 days ago`
+    * [vue-router](https://github.com/vuejs/vue-router) ` 🔥 17.6k ` ` 🌐 973k ` - The official router for Vue.js. ` 📝 8 days ago`
     * [vue-router-storage](https://github.com/ElderJames/vue-router-storage) ` 🔥 88 ` ` 🌐 13 ` - A vue router storage solution. -If your vue application needs to jump to a third party page, and then jump back, want to restore to the original history and continue to operate, the use of this plug-in is the best solution.如果你的vue应用需要跳转到第三方页面，再跳转回来时，想恢复到原来的历史记录并继续操作，使用本插件是最好的解决方案。 ` 📝 2 years ago`
     * [vue-tidyroutes](https://github.com/edgarnadal/vue-tidyroutes) ` 🔥 51 `  - Tidy routes definitions across your entire project 
     * [vue-routisan](https://github.com/mikerockett/vue-routisan)   
@@ -2347,7 +2347,7 @@ Original Data from [Awesome Vue](https://github.com/vuejs/awesome-vue/blob/maste
     * [vue-ads-pagination](https://github.com/arnedesmedt/vue-ads-pagination) ` 🔥 44 `  - Vue pagination component 
     * [vue-pagination-bootstrap](https://github.com/brunoseco/vue-pagination-bootstrap) ` 🔥 24 `  - Server-side paging component in vue, template based on bootstrap 
     * [vue-smart-pagination](https://github.com/grinmax/vue-smart-pagination) ` 🔥 24 ` ` 🌐 35 ` - VueJS pagination component ` 📝 2 years ago`
-    * [vue-tiny-pagination](https://github.com/coderdiaz/vue-tiny-pagination) ` 🔥 19 ` ` 🌐 17 ` - A Vue component for create a tiny pagination with Flexbox ` 📝 10 months ago`
+    * [vue-tiny-pagination](https://github.com/coderdiaz/vue-tiny-pagination) ` 🔥 19 ` ` 🌐 17 ` - A Vue component for create a tiny pagination with Flexbox ` 📝 a year ago`
     * [v-pagy](https://github.com/trandaison/v-pagy) ` 🔥 14 `  - A lightweight and customizeable Bootstrap Pagination for Vue 
     * [vue-paginatron](https://github.com/sbaidon/vue-paginatron) ` 🔥 11 `  - Simple pagination component 
     * [laravel-vue-semantic-ui-pagination](https://github.com/vinayakkulkarni/laravel-vue-semantic-ui-pagination) ` 🔥 8 ` ` 🌐 25 ` - A VueJS 2.x pagination used with Laravel & Semantic-UI ` 📝 3 years ago`
@@ -2520,93 +2520,62 @@ Original Data from [Awesome Vue](https://github.com/vuejs/awesome-vue/blob/maste
   
 * #### i18n [🔝](#readme)
 
-    * [vue-i18n](https://github.com/kazupon/vue-i18n)   
-    * [vue-translate-plugin](https://github.com/javisperez/vuetranslate)   
-    * [vuex-i18n](https://github.com/dkfbasel/vuex-i18n)   
-    * [vue-gettext](https://github.com/Polyconseil/vue-gettext)   
-    * [vue-i18n](https://github.com/MattyRad/vue-i18n)   
-    * [vue-multilanguage](https://github.com/leonardovilarinho/vue-multilanguage)   
-    * [vue-ts-locale](https://github.com/twcapps/vue-ts-locale)   
-    * [vue-i18next](https://github.com/panter/vue-i18next)   
-    * [vue-polyglot](https://github.com/guillaumevincent/vue-polyglot)   
-    * [v-localize](https://github.com/neetjn/v-localize)   
-    * [vue-simple-i18n](https://github.com/ClassicOldSong/vue-simple-i18n)   
+    * [vue-i18n](https://github.com/kazupon/vue-i18n) ` 🔥 6k ` ` 🌐 57.4k ` - Internationalization plugin for Vue.js ` 📝 5 days ago`
+    * [vscode-vue-i18n-ally](https://github.com/antfu/vue-i18n-ally) ` 🔥 1.3k `  - All in one i18n extension for VS Code ` 📝 17 hours ago`
+    * [vuex-i18n](https://github.com/dkfbasel/vuex-i18n) ` 🔥 658 ` ` 🌐 4.9k ` - Localization plugin for vue.js 2.0 using vuex as store ` 📝 a year ago`
+    * [vue-gettext](https://github.com/Polyconseil/vue-gettext) ` 🔥 254 ` ` 🌐 138 ` - Translate your Vue.js applications with gettext. 
+    * [vue-multilanguage](https://github.com/leonardovilarinho/vue-multilanguage) ` 🔥 174 ` ` 🌐 268 ` - Plugin for multilanguage VueJS 2.0 ` 📝 7 months ago`
+    * [vue-i18next](https://github.com/panter/vue-i18next) ` 🔥 170 `  - Internationalization for vue using the i18next i18n ecosystem. 
+    * [vue-i18n-service](https://github.com/f/vue-i18n-service) ` 🔥 129 `  - vue-i18n single file component exporter/importer ` 📝 7 months ago`
+    * [vue-i18n-extract](https://github.com/pixari/vue-i18n-extract) ` 🔥 112 ` ` 🌐 2.6k ` - Manage vue-i18n localization with static analysis ` 📝 2 months ago`
+    * [vue-translate-plugin](https://github.com/javisperez/vuetranslate) ` 🔥 81 `  - VueJS plugin for translations 
+    * [vue-polyglot](https://github.com/guillaumevincent/vue-polyglot) ` 🔥 44 `  - basic translation plugin for VueJS 2+ 
+    * [vue-i18n](https://github.com/MattyRad/vue-i18n) ` 🔥 40 `  - A small package for implementing translations in Vue.js 
+    * [vue-ts-locale](https://github.com/twcapps/vue-ts-locale) ` 🔥 35 ` ` 🌐 33 ` - Advanced localization support for VueJS ` 📝 4 years ago`
+    * [v-localize](https://github.com/neetjn/v-localize) ` 🔥 32 ` ` 🌐 12 ` - Simple localization plugin for the amazing Vue.js. ` 📝 a year ago`
+    * [vue-simple-i18n](https://github.com/ClassicOldSong/vue-simple-i18n) ` 🔥 31 `  - Probably the thinnest library to end all Vue i18n solutions within 1kb 
+    * [vue-translations](https://github.com/owl1n/vue-translations) ` 🔥 14 `  - VueJs translations very similar to Laravel Translation system 
+    * [vue-i18n-filter](https://github.com/chiaweilee/vue-i18n-filter) ` 🔥 14 ` ` 🌐 14 ` - { 'vue-i18n' | t } ` 📝 2 years ago`
+    * [vue-translation-manager](https://github.com/cyon/vue-translation-manager) ` 🔥 12 ` ` 🌐 1 ` - Interactively translate strings in Vue single file components ` 📝 2 years ago`
+    * [v-intl](https://github.com/vinayakkulkarni/v-intl) ` 🔥 11 `  - Add i18n to your awesome Vue 3 app ` 📝 a day ago`
+    * [vue-simple-inline-translation](https://github.com/alidrus/vue-simple-inline-translation) ` 🔥 6 `  - A Vue component that simplifies the way text is translated: by translating it inline. ` 📝 a year ago`
+    * [vue-t9n](https://github.com/Ni55aN/vue-t9n) ` 🔥 5 `  - Plugin for translation your Vue.js applications without headache 
+    * [excel-vue-i18n](https://github.com/grafikri/excel-vue-i18n) ` 🔥 5 `  - This CLI application is used to transform Excel file to JSON which is able to use by the plugin of Vue i18n ` 📝 4 months ago`
     * [template-string-i18n](https://github.com/cutsin/template-string-i18n)   
-    * [vue-translations](https://github.com/owl1n/vue-translations)   
-    * [vue-i18n-service](https://github.com/f/vue-i18n-service)   
-    * [vue-i18n-filter](https://github.com/chiaweilee/vue-i18n-filter)   
-    * [vue-translation-manager](https://github.com/cyon/vue-translation-manager)   
-    * [vue-t9n](https://github.com/Ni55aN/vue-t9n)   
-    * [vue-simple-inline-translation](https://github.com/alidrus/vue-simple-inline-translation)   
-    * [vue-i18n-extract](https://github.com/pixari/vue-i18n-extract)   
-    * [vscode-vue-i18n-ally](https://github.com/antfu/vue-i18n-ally)   
-    * [v-intl](https://github.com/vinayakkulkarni/v-intl)   
-    * [excel-vue-i18n](https://github.com/grafikri/excel-vue-i18n)   
   
 * #### Custom Events [🔝](#readme)
 
-    * [vue-events](https://github.com/cklmercer/vue-events)   
-    * [vue-event-handler](https://github.com/sandeepk01/vue-event-handler)   
-    * [vue-event-manager](https://github.com/pagekit/vue-event-manager)   
-    * [vue-geb](https://github.com/vouill/vue-geb)   
-    * [vue-bus](https://github.com/fffixed/vue-bus)   
-    * [vue-simple-events](https://github.com/VeryWow/vue-simple-events)   
-    * [vue-option-events](https://github.com/Cweili/vue-option-events)   
-    * [vue-emit](https://github.com/denisinvader/vue-emit)   
-    * [vue-plugin-events](https://github.com/nolde/vue-plugin-events)   
-    * [vue3-custom-hooks](https://github.com/PoluosmakAndrew/vue3-custom-hooks)   
-    * [vue-catch-hrefs](https://github.com/Tahul/vue-catch-hrefs)   
+    * [vue-events](https://github.com/cklmercer/vue-events) ` 🔥 234 ` ` 🌐 918 ` - Simple event handling for Vue.js ` 📝 2 years ago`
+    * [vue-event-manager](https://github.com/pagekit/vue-event-manager) ` 🔥 83 ` ` 🌐 18 ` - The event manager for Vue.js ` 📝 9 months ago`
+    * [vue-bus](https://github.com/fffixed/vue-bus) ` 🔥 52 `  - Tiny simple central event bus plugin for Vue.js ` 📝 3 years ago`
+    * [vue-geb](https://github.com/vouill/vue-geb) ` 🔥 41 `  - A Vue js Global Event Bus plugin using the power of Observable 
+    * [vue-emit](https://github.com/denisinvader/vue-emit) ` 🔥 22 `  - Helper function for emitting events in Vue.js (functional) components 
+    * [vue-event-handler](https://github.com/sandeepk01/vue-event-handler) ` 🔥 14 `  - Event handling plugin for VueJS 
+    * [vue-simple-events](https://github.com/VeryWow/vue-simple-events) ` 🔥 8 `  - Yet another event management plugin, but WITHOUT Vue instance 
+    * [vue-option-events](https://github.com/Cweili/vue-option-events) ` 🔥 6 ` ` 🌐 3 ` - Bring Vue.js 1 events option and $emit to Vue.js 2. ` 📝 a month ago`
+    * [vue-plugin-events](https://github.com/nolde/vue-plugin-events) ` 🔥 5 `  - Simple global event bus for Vue.js applications with automatic subscription control. 
+    * [vue3-custom-hooks](https://github.com/PoluosmakAndrew/vue3-custom-hooks) ` 🔥 2 `  - Build custom hooks for Vue3 Composition API ` 📝 5 months ago`
+    * [vue-catch-hrefs](https://github.com/Tahul/vue-catch-hrefs) ` 🔥 1 `  - Catch clicks on hrefs links (in v-html) and route them to vue-router. ` 📝 a month ago`
   
 * #### Persistence [🔝](#readme)
 
-    * [vue-localstorage](https://github.com/pinguinjkeke/vue-local-storage)   
-    * [vue-ls](https://github.com/RobinCK/vue-ls)   
-    * [vue-pouch](https://github.com/qurateinc/vue-pouch)   
+    * [vue-localstorage](https://github.com/pinguinjkeke/vue-local-storage) ` 🔥 632 ` ` 🌐 2.3k ` - Vue.js localStorage plugin with types support ` 📝 7 months ago`
+    * [vue-ls](https://github.com/RobinCK/vue-ls) ` 🔥 463 ` ` 🌐 2.9k ` - Vue plugin for work with local storage, session storage and memory storage from Vue context ` 📝 11 days ago`
+    * [vue-pouch](https://github.com/qurateinc/vue-pouch) ` 🔥 168 `  - Live and reactive PouchDB bindings for Vuejs 
+    * [vue-warehouse](https://github.com/bazzite/vue-warehouse) ` 🔥 161 ` ` 🌐 49 ` - A Cross-browser storage for Vue.js and Nuxt.js, with plugins support and easy extensibility based on Store.js. ` 📝 18 days ago`
+    * [vue2-storage](https://github.com/yarkovaleksei/vue2-storage) ` 🔥 91 ` ` 🌐 117 ` - Wrapper over browser storage for Vue.js ` 📝 a month ago`
+    * [vue-web-storage](https://github.com/ankurk91/vue-web-storage) ` 🔥 76 ` ` 🌐 100 ` - Vue.js plugin for local storage and session storage (1.8 kb min+gz) ` 📝 6 days ago`
+    * [VueStorage](https://github.com/SeregPie/VueStorage) ` 🔥 50 `  - Allows the components to save and load their data across the browser sessions. 
+    * [vue-storage-watcher](https://github.com/dreambo8563/vue-storage-watcher) ` 🔥 50 ` ` 🌐 14 ` - a reactive storage plugin for vue ` 📝 6 months ago`
+    * [vue-browserstore](https://github.com/gvost/vue-browserstore) ` 🔥 8 ` ` 🌐 1 ` - A very thin VueJS wrapper around local & session browser storage ` 📝 3 years ago`
     * [vue-idb](https://github.com/ddgll/vue-idb)   
-    * [vue-browserstore](https://github.com/gvost/vue-browserstore)   
-    * [VueStorage](https://github.com/SeregPie/VueStorage)   
-    * [vue-web-storage](https://github.com/ankurk91/vue-web-storage)   
     * [vue-universal-cookies](https://github.com/S64/vue-universal-cookies)   
-    * [vue2-storage](https://github.com/yarkovaleksei/vue2-storage)   
-    * [vue-warehouse](https://github.com/bazzite/vue-warehouse)   
-    * [vue-storage-watcher](https://github.com/dreambo8563/vue-storage-watcher)   
     * [vue-use-local-storage](https://github.com/HJ29/vue-use-local-storage)   
   
 * #### State Management [🔝](#readme)
 
-    * [vuex-persistedstate](https://github.com/robinvdvleuten/vuex-persistedstate) ` 🔥 4.9k ` ` 🌐 19.8k ` - Persist and rehydrate your Vuex state between page reloads. ` 📝 11 days ago`
-    * [vuex-orm](https://github.com/vuex-orm/vuex-orm) ` 🔥 2.1k `  - The Vuex plugin to enable Object-Relational Mapping access to the Vuex Store. ` 📝 2 months ago`
-    * [vuex-persist](https://github.com/championswimmer/vuex-persist) ` 🔥 1.3k ` ` 🌐 7.1k ` - A Vuex plugin to persist the store. (Fully Typescript enabled) ` 📝 4 months ago`
-    * [vuex-map-fields](https://github.com/maoberlehner/vuex-map-fields) ` 🔥 1.3k ` ` 🌐 988 ` - Enable two-way data binding for form fields saved in a Vuex store ` 📝 4 months ago`
-    * [vuex-cache](https://github.com/superwf/vuex-cache) ` 🔥 476 `  - cache vuex action when dispatch ` 📝 6 months ago`
-    * [vuex-rest-api](https://github.com/christianmalek/vuex-rest-api) ` 🔥 361 ` ` 🌐 144 ` - A utility to simplify the use of REST APIs with Vuex ` 📝 6 months ago`
-    * [Vuenut](https://github.com/lusaxweb/vuenut) ` 🔥 306 ` ` 🌐 10 ` - Developer tools for vue js (Vuex) ` 📝 3 years ago`
-    * [vuex-search](https://github.com/AlbertLucianto/vuex-search) ` 🔥 146 ` ` 🌐 22 ` - Vuex binding for client-side search with indexers and Web Workers ` 📝 a year ago`
-    * [jsonapi-vuex](https://github.com/mrichar1/jsonapi-vuex) ` 🔥 115 ` ` 🌐 33 ` - Use a JSONAPI api with a Vuex store, with data restructuring/normalization. ` 📝 15 days ago`
-    * [vuejs-storage](https://github.com/maple3142/vuejs-storage) ` 🔥 114 ` ` 🌐 57 ` - Vue and Vuex plugin to persistence data with localStorage/sessionStorage ` 📝 4 months ago`
-    * [vuex-pagination](https://github.com/cyon/vuex-pagination) ` 🔥 96 ` ` 🌐 22 ` - Use paginated resources in your Vue/Vuex app with ease ` 📝 17 days ago`
-    * [vuex-iframe-sync](https://github.com/L-Chris/vuex-iframe-sync) ` 🔥 91 ` ` 🌐 9 ` - Vuex state synchronization between iframe/window 
-    * [vue-msal](https://github.com/mvertopoulos/vue-msal) ` 🔥 84 ` ` 🌐 40 ` - Vue plugin for using Microsoft Authentication Library (MSAL) ` 📝 7 months ago`
-    * [vuex-api](https://github.com/vouill/vuex-api) ` 🔥 83 `  - Deprecated - Effortlessly handle api calls with vuex without repeating yourself. 
-    * [vuex-local](https://github.com/ktsn/vuex-local) ` 🔥 63 ` ` 🌐 5 ` - Local state management within Vuex ` 📝 3 years ago`
-    * [vuex-dry](https://github.com/eunjae-lee/vuex-dry) ` 🔥 55 ` ` 🌐 4 ` - [NO LONGER MAINTAINED] `vuex-dry` helps keep your vuex codes DRY. ` 📝 a year ago`
-    * [vuex-action](https://github.com/varHarrie/vuex-action) ` 🔥 26 `  - Utilities for vuex to easily create and manage actions. 
-    * [vuex-plugin-jsdata](https://github.com/AlexandreBonaventure/vuex-jsdata-plugin) ` 🔥 20 `  - A plugin for syncing Vuex store with js-data 
-    * [vuex-local-state](https://github.com/biluochun/vuex-localState) ` 🔥 18 `  - vuex plugin 
-    * [vuex-cli-scaffold](https://github.com/ndabAP/vuex-cli-scaffold) ` 🔥 17 `  - NOT MAINTAINED Scaffold vuex actions, mutations, getters and the state 
-    * [vue-auth-href](https://github.com/nachodd/vue-auth-href) ` 🔥 14 ` ` 🌐 2 ` - A VueJS directive for downloading files that are under a protected route schema ` 📝 16 days ago`
-    * [vuex-async-module](https://github.com/liqueflies/vuex-async-module) ` 🔥 14 `  - Reduce async boilerplate code generating Vuex modules. Compatible with Vue 2.x. 
-    * [vuex-queries](https://github.com/whtsky/vuex-queries) ` 🔥 12 ` ` 🌐 1 ` - Vuex-Queries helps you write query functions in Vuex ` 📝 2 years ago`
-    * [Vuex Stateshot](https://github.com/xiaoluoboding/vuex-stateshot) ` 🔥 11 ` ` 🌐 2 ` - A State Snapshot plugin on Actions/Mutations for Vuex3.1+. ` 📝 2 months ago`
-    * [Vue Rest Resource](https://github.com/ProReNata/VueRestResource) ` 🔥 7 ` ` 🌐 1 ` - Rest resource management for Vue.js and Vuex projects ` 📝 3 months ago`
-    * [vuex-listener](https://github.com/TimurKiyivinski/vuex-listener) ` 🔥 6 `  - A global Vuex action and mutation listener plugin 
-    * [vuexi](https://github.com/mikefaraponov/vuexi) ` 🔥 6 `  - Utility for Vuex Async Flows and Vue-Router Routes 
-    * [vuex-module-builder](https://github.com/oncebot/vuex-module-builder) ` 🔥 5 `  - Easily create Vuex modules with DRY code 
-    * [vuex-action-reload](https://github.com/chlab/vuex-action-reload) ` 🔥 3 `  - A vuex plugin that reloads actions when a condition is met ` 📝 3 years ago`
-    * [vuex-loading](https://github.com/anthinkingcoder/vuex-loading) ` 🔥 3 `  - Simplify vuex loading state management 
-    * [vuex-loopback](https://github.com/mikeevstropov/vuex-loopback) ` 🔥 3 ` ` 🌐 1 ` - Vuex module factory and Vue components for Loopback ` 📝 a month ago`
-    * [vuex-state-snapshot](https://github.com/dezull/vuex-state-snapshot) ` 🔥 1 `  - A Vuex plugin to take state snapshot on mutation 
-    * [vuex](https://github.com/vuejs/vuex)   
+    * [vuex](https://github.com/vuejs/vuex) ` 🔥 25.6k ` ` 🌐 643k ` - Centralized State Management for Vue.js. ` 📝 18 days ago`
+    * [effector](https://github.com/zerobias/effector) ` 🔥 3k `  - The state manager ` 📝 a day ago`
     * [vue-sync](https://github.com/buhrmi/vue-sync)   
     * [vuelm](https://github.com/keuller/vuelm)   
     * [vuez](https://github.com/markselby9/vuez)   
@@ -2623,7 +2592,6 @@ Original Data from [Awesome Vue](https://github.com/vuejs/awesome-vue/blob/maste
     * [vuex-module-generator](https://github.com/abdullah/vuex-module-generator)   
     * [vuex-declaration](https://github.com/kbdsbx/vuex-declaration)   
     * [vuex-up](https://github.com/Hokid/vuex-up)   
-    * [effector](https://github.com/zerobias/effector)   
     * [nano-state-vue](https://gitlab.com/sophosoft/nano-state-vue)   
     * [universal-model-vue](https://github.com/universal-model/universal-model-vue)   
     * [vue-states](https://github.com/sumcumo/vue-states)   
@@ -2645,10 +2613,42 @@ Original Data from [Awesome Vue](https://github.com/vuejs/awesome-vue/blob/maste
     * [vue-auth-plugin](https://github.com/d0whc3r/vue-auth-plugin)   
     * [vue-google-signin-button](https://github.com/phanan/vue-google-signin-button)   
     * [vue-facebook-signin-button](https://github.com/phanan/vue-facebook-signin-button)   
+    * [vue-auth-href](https://github.com/nachodd/vue-auth-href)   
+    * [vue-msal](https://github.com/mvertopoulos/vue-msal)   
+    * [vuex-persistedstate](https://github.com/robinvdvleuten/vuex-persistedstate)   
+    * [vuex-plugin-jsdata](https://github.com/AlexandreBonaventure/vuex-jsdata-plugin)   
+    * [vuex-local](https://github.com/ktsn/vuex-local)   
+    * [vuex-action](https://github.com/varHarrie/vuex-action)   
+    * [vuex-rest-api](https://github.com/christianmalek/vuex-rest-api)   
+    * [vuex-cache](https://github.com/superwf/vuex-cache)   
+    * [vuex-persist](https://github.com/championswimmer/vuex-persist)   
+    * [vuex-local-state](https://github.com/biluochun/vuex-localState)   
+    * [vuex-cli-scaffold](https://github.com/ndabAP/vuex-cli-scaffold)   
+    * [vuex-action-reload](https://github.com/chlab/vuex-action-reload)   
+    * [vuejs-storage](https://github.com/maple3142/vuejs-storage)   
+    * [vuex-orm](https://github.com/vuex-orm/vuex-orm)   
+    * [vuex-async-module](https://github.com/liqueflies/vuex-async-module)   
+    * [vuex-api](https://github.com/vouill/vuex-api)   
+    * [vuex-queries](https://github.com/whtsky/vuex-queries)   
+    * [vuex-iframe-sync](https://github.com/L-Chris/vuex-iframe-sync)   
     * [vuex-aspect](https://gitlab.com/frissdiegurke/vuex-aspect)   
+    * [Vuenut](https://github.com/lusaxweb/vuenut)   
+    * [vuex-map-fields](https://github.com/maoberlehner/vuex-map-fields)   
+    * [vuex-search](https://github.com/AlbertLucianto/vuex-search)   
+    * [vuex-dry](https://github.com/eunjae-lee/vuex-dry)   
     * [vuex-pathify](https://davestewart.github.io/vuex-pathify/#/)   
+    * [vuex-loading](https://github.com/anthinkingcoder/vuex-loading)   
+    * [vuex-module-builder](https://github.com/oncebot/vuex-module-builder)   
+    * [vuex-pagination](https://github.com/cyon/vuex-pagination)   
     * [vuex-easy-firestore](https://mesqueeb.github.io/vuex-easy-firestore/)   
+    * [vuex-listener](https://github.com/TimurKiyivinski/vuex-listener)   
+    * [jsonapi-vuex](https://github.com/mrichar1/jsonapi-vuex)   
+    * [vuexi](https://github.com/mikefaraponov/vuexi)   
     * [stfalcon-vuex-loading-plugin](https://github.com/stfalcon-studio/stfalcon-vuex-loading-plugin)   
+    * [Vue Rest Resource](https://github.com/ProReNata/VueRestResource)   
+    * [Vuex Stateshot](https://github.com/xiaoluoboding/vuex-stateshot)   
+    * [vuex-loopback](https://github.com/mikeevstropov/vuex-loopback)   
+    * [vuex-state-snapshot](https://github.com/dezull/vuex-state-snapshot)   
     * [vuex-awesome-async](https://github.com/Schoolmouv-team/vuex-awesome-async)   
     * [vuex-factories](https://github.com/Goldziher/vuex-factories)   
     * [vuex-hooks](https://github.com/Goldziher/vuex-hooks)   
@@ -2726,7 +2726,7 @@ Original Data from [Awesome Vue](https://github.com/vuejs/awesome-vue/blob/maste
     * [vue-inject](https://github.com/jpex-js/vue-inject) ` 🔥 176 ` ` 🌐 153 ` - Dependency Injection for vue ` 📝 a year ago`
     * [vue-deepset](https://github.com/bhoriuchi/vue-deepset) ` 🔥 86 `  - Deep set Vue.js objects 
     * [vue-super](https://github.com/rpkilby/vue-super) ` 🔥 32 ` ` 🌐 11 ` - Vue.js plugin that allows you to reference methods on parent classes ` 📝 4 years ago`
-    * [v-fetch](https://github.com/shaynekasai/v-fetch) ` 🔥 8 `  - Vue 2 directive to easily add AJAX requests to your application ` 📝 3 days ago`
+    * [v-fetch](https://github.com/shaynekasai/v-fetch) ` 🔥 8 `  - Vue 2 directive to easily add AJAX requests to your application ` 📝 4 days ago`
     * [@skyrpex/props-to-local](https://github.com/skyrpex/props-to-local) ` 🔥 7 `  - Vue mixin that maps props to local data 
     * [vue-gaspard](https://github.com/lucaperret/vue-gaspard) ` 🔥 7 `  - DOM helpers plugin for Vue.js ` 📝 3 years ago`
     * [vue-safe-html](https://github.com/ecosia/vue-safe-html) ` 🔥 5 `  - A Vue directive which renders sanitised HTML dynamically 
@@ -2834,7 +2834,7 @@ Original Data from [Awesome Vue](https://github.com/vuejs/awesome-vue/blob/maste
 
     * [vue-analytics](https://github.com/MatteoGabriele/vue-analytics) ` 🔥 1.7k ` ` 🌐 11.2k ` - Google Analytics plugin for Vue ` 📝 a year ago`
     * [vue-gtag](https://github.com/MatteoGabriele/vue-gtag) ` 🔥 414 ` ` 🌐 842 ` - Global Site Tag plugin for Vue (gtag.js) ` 📝 3 months ago`
-    * [vue-gtm](https://github.com/mib200/vue-gtm) ` 🔥 221 ` ` 🌐 611 ` - Simple implementation of Google Tag Manager in Vue.js 2.0 ` 📝 3 days ago`
+    * [vue-gtm](https://github.com/mib200/vue-gtm) ` 🔥 221 ` ` 🌐 611 ` - Simple implementation of Google Tag Manager in Vue.js 2.0 ` 📝 4 days ago`
     * [vue-ua](https://github.com/ScreamZ/vue-analytics) ` 🔥 213 ` ` 🌐 186 ` - Google Universal Analytics support in Vue.js 
     * [vue-yandex-metrika](https://github.com/vchaptsev/vue-yandex-metrika) ` 🔥 59 ` ` 🌐 157 ` - Vue plugin for Yandex Metrika ` 📝 a year ago`
     * [vue-ya-metrica](https://github.com/shershen08/vue-ya-metrica) ` 🔥 6 `  - Yandex.Metrica component for Vue.js 
@@ -2854,7 +2854,7 @@ Original Data from [Awesome Vue](https://github.com/vuejs/awesome-vue/blob/maste
   
 ## Dev Tools [🔝](#readme)
 
-* [Bit](https://github.com/teambit/bit) ` 🔥 12.8k ` ` 🌐 149 ` - Build, distribute, and collaborate on components. ` 📝 a day ago `
+* [Bit](https://github.com/teambit/bit) ` 🔥 12.8k ` ` 🌐 149 ` - Build, distribute, and collaborate on components. ` 📝 2 days ago `
 * [vue-dummy](https://github.com/paulcollett/vue-dummy) ` 🔥 111 `  - Placeholder Images and Lorem Ipsum Dummy Text for Vue.js projects ` 📝 3 years ago `
 * [ComponentFixture](https://github.com/David-Desmaisons/ComponentFixture) ` 🔥 40 ` ` 🌐 58 ` - Interactive sandox playground for vue components ` 📝 a year ago `
 * [vue-dev-server](https://github.com/paulpflug/vue-dev-server) ` 🔥 19 `  - a small development server for building `vue` components 
@@ -2880,12 +2880,12 @@ Original Data from [Awesome Vue](https://github.com/vuejs/awesome-vue/blob/maste
 * #### Docs [🔝](#readme)
 
     * [vue-patterns](https://github.com/learn-vuejs/vue-patterns) ` 🔥 2.7k `  - Useful Vue patterns, techniques, tips and tricks and helpful curated links. ` 📝 5 months ago`
-    * [vue-styleguidist](https://github.com/vue-styleguidist/vue-styleguidist) ` 🔥 1.9k ` ` 🌐 625 ` - Created from react styleguidist for Vue Components with a living style guide ` 📝 2 days ago`
-    * [vuese](https://github.com/vuese/vuese) ` 🔥 1.3k ` ` 🌐 51 ` - One-stop solution for vue component documentation. Original org: https://github.com/vuese ` 📝 24 days ago`
+    * [vue-styleguidist](https://github.com/vue-styleguidist/vue-styleguidist) ` 🔥 1.9k ` ` 🌐 625 ` - Created from react styleguidist for Vue Components with a living style guide ` 📝 3 days ago`
+    * [vuese](https://github.com/vuese/vuese) ` 🔥 1.3k ` ` 🌐 51 ` - One-stop solution for vue component documentation. Original org: https://github.com/vuese ` 📝 25 days ago`
     * [vue-markdown-loader](https://github.com/QingWei-Li/vue-markdown-loader) ` 🔥 658 `  - Convert Markdown file to Vue component. 
     * [vue-storybook](https://github.com/mattrothenberg/vue-storybook) ` 🔥 145 ` ` 🌐 49 ` - Custom `<story>` blocks for Vue single file components ` 📝 a year ago`
     * [vue-styleguide-generator](https://github.com/shershen08/vue-styleguide-generator) ` 🔥 123 ` ` 🌐 8 ` - React inspired style guide generator for Vue.js ` 📝 3 years ago`
-    * [vue-md-loader](https://github.com/wxsms/vue-md-loader) ` 🔥 77 ` ` 🌐 107 ` - Markdown files to ALIVE Vue components. ` 📝 2 days ago`
+    * [vue-md-loader](https://github.com/wxsms/vue-md-loader) ` 🔥 77 ` ` 🌐 107 ` - Markdown files to ALIVE Vue components. ` 📝 3 days ago`
     * [vue-tut](https://github.com/evwt/vue-tut) ` 🔥 38 ` ` 🌐 1 ` - Easily build beautiful tutorials with Vue ` 📝 5 months ago`
     * [vue-elucidate](https://github.com/mattrothenberg/vue-elucidate) ` 🔥 35 ` ` 🌐 5 ` - A library for documenting Vue components ` 📝 3 years ago`
     * [jsdoc-vuedoc](https://github.com/ccqgithub/jsdoc-vuedoc) ` 🔥 15 ` ` 🌐 13 ` - A jsdoc3 plugin use `@vuedoc/md` ` 📝 2 years ago`
@@ -2898,8 +2898,8 @@ Original Data from [Awesome Vue](https://github.com/vuejs/awesome-vue/blob/maste
   
 * #### Test [🔝](#readme)
 
-    * [vue-test-utils](https://github.com/vuejs/vue-test-utils) ` 🔥 3.2k ` ` 🌐 2.7k ` - Utilities for testing Vue components ` 📝 9 days ago`
-    * [Vue Testing Library](https://github.com/testing-library/vue-testing-library) ` 🔥 521 ` ` 🌐 423 ` - Simple and complete Vue.js testing utilities that encourage good testing practices. ` 📝 2 days ago`
+    * [vue-test-utils](https://github.com/vuejs/vue-test-utils) ` 🔥 3.2k ` ` 🌐 2.7k ` - Utilities for testing Vue components ` 📝 10 days ago`
+    * [Vue Testing Library](https://github.com/testing-library/vue-testing-library) ` 🔥 521 ` ` 🌐 423 ` - Simple and complete Vue.js testing utilities that encourage good testing practices. ` 📝 3 days ago`
     * [vue-unit](https://github.com/wrseward/vue-unit) ` 🔥 215 `  - Component testing utilities for Vue.js 
     * [vue-a2b](https://github.com/fromAtoB/vue-a2b) ` 🔥 71 `  - Split Testing for Vue.js 
     * [vue-node](https://github.com/knpwrs/vue-node) ` 🔥 62 ` ` 🌐 64 ` - Load vue components in node. ` 📝 4 years ago`
@@ -2912,13 +2912,13 @@ Original Data from [Awesome Vue](https://github.com/vuejs/awesome-vue/blob/maste
   
 * #### Source Code Editing [🔝](#readme)
 
-    * [Vetur](https://github.com/octref/vetur) ` 🔥 4.9k `  - Vue tooling for VS Code. ` 📝 11 days ago`
+    * [Vetur](https://github.com/octref/vetur) ` 🔥 4.9k `  - Vue tooling for VS Code. ` 📝 12 days ago`
     * [Vue Syntax Highlight](https://github.com/vuejs/vue-syntax-highlight) ` 🔥 1.4k `  - Sublime Text syntax highlighting for single-file Vue components 
     * [Vim Vue](https://github.com/posva/vim-vue) ` 🔥 1.2k `  - Syntax Highlight for Vue.js components ` 📝 a year ago`
     * [Vue VSCode Snippets](https://github.com/sdras/vue-vscode-snippets) ` 🔥 1.1k `  - These snippets were built to supercharge my workflow in the most seamless manner possible. ` 📝 5 months ago`
     * [Vue Mode](https://github.com/CodeFalling/vue-mode) ` 🔥 286 `  - Emacs major mode for vue.js ` 📝 2 years ago`
     * [language-vue@atom.io](https://github.com/hedefalk/atom-vue) ` 🔥 143 `  - Vue component file syntax for Atom 
-    * [vim-vue-plugin](https://github.com/leafOfTree/vim-vue-plugin) ` 🔥 84 `  - Vim syntax and indent plugin for vue files ` 📝 9 days ago`
+    * [vim-vue-plugin](https://github.com/leafOfTree/vim-vue-plugin) ` 🔥 84 `  - Vim syntax and indent plugin for vue files ` 📝 10 days ago`
     * [Kate Syntax Files](https://github.com/mtorromeo/kate-syntax-files) ` 🔥 46 `  - Syntax files (modified or original) for katepart (kate, kwrite, kdevelop) 
     * [Brackets Vue](https://github.com/pandao/brackets-vue) ` 🔥 39 `  - Brackets extension for Vue.js ` 📝 5 years ago`
     * [VUEFormatter](https://github.com/baixuexiyang/VUEFormatter) ` 🔥 26 `  - formate your vue code 
@@ -2934,7 +2934,7 @@ Original Data from [Awesome Vue](https://github.com/vuejs/awesome-vue/blob/maste
   
 ## Scaffold [🔝](#readme)
 
-* [vue-cli](https://github.com/vuejs/vue-cli) ` 🔥 27.2k ` ` 🌐 581k ` - Standard Tooling for Vue.js Development ` 📝 19 hours ago `
+* [vue-cli](https://github.com/vuejs/vue-cli) ` 🔥 27.2k ` ` 🌐 581k ` - Standard Tooling for Vue.js Development ` 📝 2 days ago `
 * [Vue-Django](https://github.com/NdagiStanley/vue-django) ` 🔥 486 `  - @django integrated with a full-featured @webpack + (@vuejs / vue-loader) setup with hot reload, linting, testing & css extraction. ` 📝 9 months ago `
 * [python-vuejs](https://github.com/cstrap/python-vuejs) ` 🔥 37 `  - Gluing Python web frameworks and Vue.js with a set of scripts... basically a wrapper 
 * [generator-vue-plugin](https://github.com/jeneser/generator-vue-plugin) ` 🔥 27 `  - Yeoman generator generating vue plugin ` 📝 4 years ago `
@@ -2989,7 +2989,7 @@ Original Data from [Awesome Vue](https://github.com/vuejs/awesome-vue/blob/maste
     * [SPA Starter Kit](https://github.com/codecasts/spa-starter-kit) ` 🔥 934 `  - A highly opinionated starter kit for building Single Page Applications with Laravel and Vue.js ` 📝 4 years ago`
     * [Vueniverse](https://github.com/rlindskog/vueniverse) ` 🔥 337 `  - Full stack, user based, PWA, Vue template. ` 📝 3 years ago`
     * [SSR Boilerplate](https://github.com/fenivana/vue-ssr-boilerplate) ` 🔥 154 `  - Vue.js Server Side Rendering Boilerplate without Polluting Vuex ` 📝 3 years ago`
-    * [Vue.js/Nuxt.js full-featured boilerplate](https://github.com/GrabarzUndPartner/gp-vue-boilerplate) ` 🔥 67 `  - Grabarz & Partner Boilerplate is a professional front-end template for building fast, robust, and adaptable web apps or sites with vuejs. ` 📝 a day ago`
+    * [Vue.js/Nuxt.js full-featured boilerplate](https://github.com/GrabarzUndPartner/gp-vue-boilerplate) ` 🔥 67 `  - Grabarz & Partner Boilerplate is a professional front-end template for building fast, robust, and adaptable web apps or sites with vuejs. ` 📝 2 days ago`
     * [neutrino-preset-vue-static](https://github.com/shyiko/neutrino-preset-vue-static) ` 🔥 16 `  - A minimalistic starter kit for building static sites using Vue.js ` 📝 4 years ago`
     * [vue-preload](https://github.com/shershen08/vue-preload) ` 🔥 14 ` ` 🌐 2 ` - Plugin SSR Vue adding `<link rel='preload' capabilities ` 📝 3 years ago`
   
