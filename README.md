@@ -622,7 +622,7 @@ Original Data from [Awesome Vue](https://github.com/vuejs/awesome-vue/blob/maste
   
 ## Open Source [🔝](#readme)
 
-* [Vue Crossword](https://github.com/Piterden/vue-crossword) ` 🔥 45 `  - Crossword puzzle builder VueJS application. ` 📝 6 days ago `
+* [Vue Crossword](https://github.com/Piterden/vue-crossword) ` 🔥 45 `  - Crossword puzzle builder VueJS application. ` 📝 7 days ago `
 * [PageKit](https://github.com/pagekit/pagekit)   
 * [npmcharts.com](https://github.com/cheapsteak/npmcharts.com)   
 * [Koel](https://github.com/phanan/koel)   
@@ -1144,7 +1144,7 @@ Original Data from [Awesome Vue](https://github.com/vuejs/awesome-vue/blob/maste
   
 * #### Notification [🔝](#readme)
 
-    * [vue-izitoast](https://github.com/arthurvasconcelos/vue-izitoast) ` 🔥 128 ` ` 🌐 700 ` - Elegant, responsive, flexible and lightweight notification plugin implemented for Vue 2 of iziToast ` 📝 a year ago`
+    * [vue-izitoast](https://github.com/arthurvasconcelos/vue-izitoast) ` 🔥 128 ` ` 🌐 700 ` - Elegant, responsive, flexible and lightweight notification plugin implemented for Vue 2 of iziToast ` 📝 2 years ago`
     * [vue-notifications](https://github.com/se-panfilov/vue-notifications)   
     * [vue-easy-toast](https://github.com/noru/vue-easy-toast)   
     * [vue-toasted](https://github.com/shakee93/vue-toasted)   
@@ -1478,6 +1478,7 @@ Original Data from [Awesome Vue](https://github.com/vuejs/awesome-vue/blob/maste
     * [vue-spring-calendar](https://github.com/boussadjra/vue-spring-calendar)   
     * [vue-jquery-calendar](https://github.com/Parthfaladu/vue-jquery-calendar)   
     * [vue-schedule-board](https://github.com/jinfang134/vue-schedule-board)   
+    * [vue-lunar-calendar-pro](https://github.com/wangdaodao/vue-lunar-calendar-pro)   
   
 * #### Map [🔝](#readme)
 
@@ -3055,7 +3056,7 @@ Original Data from [Awesome Vue](https://github.com/vuejs/awesome-vue/blob/maste
   
 ## Prerendering [🔝](#readme)
 
-* [react-snap](https://github.com/stereobooster/react-snap) ` 🔥 4.2k ` ` 🌐 2.7k ` - Zero-configuration framework-agnostic static prerendering for SPAs ` 📝 a year ago `
+* [react-snap](https://github.com/stereobooster/react-snap)   
 * [prerender-plugin](https://github.com/mubaidr/prerender-plugin)   
 * [vue-prerender](https://github.com/eldarc/vue-prerender)   
 * [Rendora](https://github.com/rendora/rendora)   
