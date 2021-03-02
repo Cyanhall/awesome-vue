@@ -622,7 +622,6 @@ Original Data from [Awesome Vue](https://github.com/vuejs/awesome-vue/blob/maste
   
 ## Open Source [🔝](#readme)
 
-* [Vue Crossword](https://github.com/Piterden/vue-crossword) ` 🔥 45 `  - Crossword puzzle builder VueJS application. ` 📝 7 days ago `
 * [PageKit](https://github.com/pagekit/pagekit)   
 * [npmcharts.com](https://github.com/cheapsteak/npmcharts.com)   
 * [Koel](https://github.com/phanan/koel)   
@@ -762,6 +761,7 @@ Original Data from [Awesome Vue](https://github.com/vuejs/awesome-vue/blob/maste
 * [Vue E-Store Templet](https://github.com/rash0/Vue-Ecom)   
 * [Twill](https://twill.io)   
 * [MATH_BOT](https://mathbot.com)   
+* [Vue Crossword](https://github.com/Piterden/vue-crossword)   
 * [Vue Org Chart](https://github.com/Hoogkamer/vue-org-chart)   
 * [Beep](https://github.com/ModusCreateOrg/beep)   
 * [Vue CRUD](https://github.com/szczepanmasny/vue-crud)   
@@ -808,6 +808,7 @@ Original Data from [Awesome Vue](https://github.com/vuejs/awesome-vue/blob/maste
 * [LogChimp](https://github.com/logchimp/logchimp)   
 * [Trooveo](https://github.com/joek85/trooveo)   
 * [Yacht](https://github.com/Selfhostedpro/Yacht)   
+* [Antares SQL](https://github.com/Fabio286/antares)   
   
 ## Commercial Products [🔝](#readme)
 
@@ -1205,6 +1206,7 @@ Original Data from [Awesome Vue](https://github.com/vuejs/awesome-vue/blob/maste
     * [vue-splash](https://github.com/MehdiKhoshnevisz/vue-splash)   
     * [vue-ultimate-skeleton-cards](https://github.com/neelansh15/vue-ultimate-skeleton-cards)   
     * [vue-wait-for](https://github.com/MeForma/vue-wait-for)   
+    * [vue-content-loader](https://github.com/egoist/vue-content-loader)   
     * [vue-progressbar](https://github.com/hilongjw/vue-progressbar)   
     * [vue2-loading-bar](https://github.com/BosNaufal/vue2-loading-bar)   
     * [vue-top-progress](https://github.com/dalphyx/vue-top-progress)   
@@ -1588,6 +1590,7 @@ Original Data from [Awesome Vue](https://github.com/vuejs/awesome-vue/blob/maste
     * [vue-share-buttons](https://github.com/Alexandrshy/vue-share-buttons)   
     * [vue-share-it](https://github.com/thisDOTname/vue-share-it)   
     * [vuesocial](https://github.com/growthbunker/vuesocial)   
+    * [vue-socials](https://github.com/webistomin/vue-socials)   
   
 * #### QR Code [🔝](#readme)
 
@@ -1725,6 +1728,7 @@ Original Data from [Awesome Vue](https://github.com/vuejs/awesome-vue/blob/maste
     * [vue-image-zoomer](https://github.com/samjonesigd/vue-image-zoomer)   
     * [vue-show-more-text](https://github.com/limlt/vue-show-more-text)   
     * [vue-copy-to-clipboard](https://github.com/meforma/vue-copy-to-clipboard)   
+    * [vue-advanced-chat](https://github.com/antoine92190/vue-advanced-chat)   
   
 * #### Tabs [🔝](#readme)
 
@@ -2442,7 +2446,6 @@ Original Data from [Awesome Vue](https://github.com/vuejs/awesome-vue/blob/maste
   
 * #### Miscellaneous [🔝](#readme)
 
-    * [vue-cbsc](https://github.com/arthurvasconcelos/vue-cbsc) ` 🔥 5 ` ` 🌐 1 ` - Lightweight color shader/blender/converter plugin implemented for Vue 2. ` 📝 3 years ago`
     * [vue-resource-progressbar-interceptor](https://github.com/staskjs/vue-resource-progressbar-interceptor)   
     * [vue-images-loaded](https://github.com/David-Desmaisons/Vue.ImagesLoaded)   
     * [vue-visible](https://github.com/javisperez/vue-visible)   
@@ -2452,6 +2455,7 @@ Original Data from [Awesome Vue](https://github.com/vuejs/awesome-vue/blob/maste
     * [vue-openseadragon](https://github.com/braceslab/vue-openseadragon)   
     * [vue-match-heights](https://github.com/samturrell/vue-match-heights)   
     * [vue-conditional-attrs](https://github.com/FL3NKEY/vue-conditional-attrs)   
+    * [vue-cbsc](https://github.com/arthurvasconcelos/vue-cbsc)   
     * [vue-spatialnavigation](https://github.com/twcapps/vue-spatialnavigation)   
     * [vue-lifecycle](https://github.com/FL3NKEY/vue-lifecycle)   
     * [v-aspect-ratio](https://github.com/andrewvasilchuk/v-aspect-ratio)   
